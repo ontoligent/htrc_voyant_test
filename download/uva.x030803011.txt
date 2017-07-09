@@ -1,0 +1,2403 @@
+
+
+\
+EPISTEMOLOGY
+OR THB
+THEORY OF KNOWLEDGE
+BY THE SAME AUTHOR
+THE SCIENCE OF LOGIC. An Inquiry into the
+Principles of Accurate Thought and Scientific
+Method. 2 vols. 8vo. Vol. I. Conception, Judg-
+ment, and Inference. 7s. 6d. net. Vol. II.
+Method, Science, and Certitude. 71. 6d. net.
+ONTOLOGY, or the Theory of Being. An Intro-
+duction to General Metaphysics. 8vo, 10s. 6d. net.
+HISTORY OF MEDIEVAL PHILOSOPHY. By
+M. De Wulf, LL.D., Ph.D., D.Litt., Professor at
+the University of Louvain. Translated by P.
+Coffey, Ph.D. 8vo, 10s. 6d. net.
+SCHOLASTICISM OLD AND NEW. An Intro-
+duction to Scholastic Philosophy, Medieval and
+Modern. By M. De Wulf. Translated by P.
+Coffey, Ph.D. 8vo, 6s. net.
+LONGMANS, GREEN AND CO.
+LONdON, NeW YORK, BOMBAY, CALCUTTA, ANd MAdRAS
+EPISTEMOLOGY
+OR THE
+THEORY OF KNOWLEDGE
+AN INTRODUCTION TO GENERAL METAPHYSICS
+P.^COFFEY, Ph.D. (Louvain)
+PROFeSSOR OF LOGIC ANd MeTAPHYSICS, MAYNOOTH COLLeGe, IReLANd
+IN TWO VOLUMES
+Vol. I
+PART I. THE NATURE OF THE INQUIRY
+PART II. INTELLECTUAL KNOWLEDGE: JUDGMENT
+PART III. INTELLECTUAL KNOWLEDGE: CONCEPTION
+
+V i': - /
+LONGMANS, GREEN AND CO.
+39 PATERNOSTER ROW, LONDON
+FOURTH AVENUE & 30th STREET, NEW YORK
+BOMBAY, CALCUTTA, AND MADRAS
+1917
+GIFT
+JAN J O '30
+. '- ,
+i a 17
+102911
+v.!"
+4
+TO
+HIS EMINENCE, CARDINAL MERCIER
+ARCHBISHOP OF MECHLIN
+FOUNDER AND FIRST DIRECTOR
+OF THE INST1TUT SUPERIEUR DE PHILOSOPHIE
+AT THE
+CATHOLIC UNIVERSITY OF LOUVAIN—
+ENLIGHTENED EXPONENT
+OF THE CHRISTIAN PHILOSOPHY OF LIFE
+AND FEARLESS ADVOCATE
+OF ITS RIGHTFUL SUPREMACY IN TROUBLED TIMES—
+AS A SMALL TOKEN
+OF GRATITUDE AND VENERATION
+FROM A FORMER PUPIL
+THIS WORK
+IS RESPECTFULLY DEDICATED
+BY
+THE AUTHOR
+PREFACE.
+The present work, which was commenced on the publi-
+cation of the author's Ontology, is written from the same
+general standpoint as the Ontology and his earlier treatise
+on The Science of Logic. It aims at applying the principles
+of Scholasticism to the solution of the problems raised by
+a critical inquiry into the validity of knowledge and the
+grounds of certitude. It does not purport to be in any
+sense a history of theories of knowledge, or to supply
+anything like an adequate bibliography of works on the
+subject. It is primarily a text-book for the use of uni-
+versity students in philosophy, though it is hoped that a
+perusal of it may be found helpful to all who desire a closer
+acquaintance with the attitude of modern scholastic writers
+towards the critical problems which almost monopolize the
+attention of philosophers nowadays. It is needless to
+emphasize the growing importance of such problems in
+this age of restless inquiry and scepticism. Nor will a
+text-book in English from the standpoint of Scholasticism
+be deemed superfluous.
+Kant's theory of knowledge is the only non-scholastic
+theory examined in any considerable detail: because most
+of the modern theories draw their inspiration directly or
+indirectly from principles propounded in the Critiques, so
+that the student who can appraise these principles on their
+merits will be in a position to deal with those theories in
+whatever guise they may confront him. In his exposition
+and criticism of Kant's speculative philosophy the author
+has made free use of H. A. Prichard's valuable work
+vii
+viii
+PREFACE
+on Kant's Theory of Knowledge? and begs gratefully to
+acknowledge his deep indebtedness. He owes much,
+likewise, to Cardinal Mercier's well-known treatise on
+Criteriology?—the first serious attempt to vindicate the
+superiority of the Scholastic theory of knowledge as com-
+pared with the Kantian and other non-scholastic theories.
+Finally, his acknowledgments are due to the Rev. Pere
+Jeanniere, S.J., whose recently published Latin text-
+book,3 breathing the spirit and developing the teaching of
+the Louvain neo-scholasticism, is in every way excellent,
+and has been consulted with profit. Clear, comprehensive,
+compendious, and extensively documented, it deserves a
+wide welcome in Catholic colleges and seminaries.
+For the rest, the doctrines and views propounded in
+the present work are of course drawn from, and based
+on, the rational principles embodied in the teaching of
+St. Thomas Aquinas and the other great masters of the
+traditional Aristotelian Scholasticism: which, it may per-
+haps be necessary to observe, does not mean what non-
+scholastic philosophers might be tempted to interpret it
+as meaning, that those doctrines are presented for accept-
+ance on the ground of authority. They are put forward
+on their intrinsic merits, and by these alone they must be
+judged.
+As a rule the more advanced portions and detailed
+discussions are printed in smaller type, so that these, as
+well as certain sections or even whole chapters, may be
+omitted or postponed for a second reading at the discre-
+tion of the teacher when the book is being used for class
+1 Kant's Theory of Knowledge, by H. A. Prichard, Fellow of Trinity College,
+Oxford. Oxford: at the Clarendon Press, i9o9.
+8 Criteriologie Gen£rale, oh Theorie Generate de la Certitude, par D.
+Mercier, Professeur de philosophie et directeur de l'institut supeneur de philosophie,
+a l'universite' catholique de Louvain. 6me edit., i9o6.
+3 Criteriologia, vel Critica Cognitionis Certae. Auctore Renato Jeanniere,
+S.J., in Collegio Jersiensi Professore. Paris : Beauchesne, 1912. Pp. 616, 8vo,
+PREFACE
+ix
+work. Moreover, since the same general problems recur
+repeatedly in different contexts, and are discussed and
+illustrated from a variety of standpoints, it is only by
+collating these that the student will gain an adequate
+understanding and appreciation of the solutions arrived
+at in the course of the inquiry. He will be enabled to
+bring together in this way all that is said on any particular
+topic, not only by making use of the indexes at the end
+of each volume, but by consulting the cross-references to
+the various sections, as given in parentheses, in the text
+itself.
+CONTENTS OF VOLUME I.
+PAGE
+Preface vii
+INTRODUCTION.
+1. Epistemology: its Place in Philosophy i
+2. Bearing of Epistemology on Spontaneous Convictions, on the Sciences,
+and on Religious Belief 5
+3. Conspectus of Problems raised by Reflective Thought .... 8
+4. Rise and Development of Theories of Knowledge: Historical Outlines . 12
+5. Epistemology not an Introduction to Metaphysics but a Department of
+Metaphysics 22
+PART I. THE NATURE OF THE INQUIRY.
+CHAPTER I.
+The Terms and Data of the Inquiry.
+6. Cognition. Knowledge. Science. Belief. Faith .... 25
+7. Doubt. Opinion. Conviction. Certitude 31
+8. Cognitive and Non-cognitive States of Consciousness. Consciousness,
+Knowledge, and Objectivity 36
+9. Truth. Error. Ignorance 39
+10. Faculties and Sources of Knowledge. Classification of Spontaneous
+Convictions 43
+11. Irresistible Certitude and Freely Formed Convictions .... 49
+12. Influence of the Will on Free Convictions 51
+13. Reasonableness of Free Convictions: Certitude of Science and Certitude
+of Belief or Faith 53
+14. Bearing of Intellectual and Moral Discipline on Free Convictions and on
+"Free Thought" 56
+15. Universally Entertained Spontaneous Convictions: their Bearing on
+Human Life 59
+16. Spontaneous Conviction or Certitude not always True: Hence the Origin
+of Critical Investigation 66
+CHAPTER II.
+; The Scope and Instruments of the Inquiry.
+17. The Real Problems to which Reflection on Knowledge gives rise . . 71
+18. Subject and Object of Knowledge. The Knowing Subject ... 74
+19. "Object" in the Sense of (1) Whatever is Real; (2) Whatever we are
+aware of 76
+TABLE OF CONTENTS
+PAGE
+20. "Mental Presence " or " Objectivity to Subject," and " Real Being " or
+"Real Objectivity" 78
+21. Alternative Solutions of Questions raised by Mental Objectivity . 79
+22. Epistemological Sense of "Object of Knowledge" and "Objectivity of
+Knowledge". Truth of Knowledge . ... . . .84
+23. Alternative Statements of the General Problem of Epistemology . . 86
+24. General Data and Conditions of the Investigation 87
+CHAPTER III.
+The Method of the Inquiry.
+25. Initial Attitude of the Subject towards his Capacity for Discovering Truth
+with Certitude 90
+26. Difficulties against this Attitude 92
+27. The Question of Method in Critical Inquiry. Doubt as a Method . . 94
+28. Real Doubt and " Methodic" Doubt Compared. "Methodic" Doubt
+never Real. "Negative Methodic Doubt" . . . .95
+29. Legitimate Use and Limits of Methodic Doubt 102
+30. Descartes' Employment of Real Doubt as a Method .... 109
+31. Criticism of Descartes'Doubt 112
+32. What sort of Doubt is Lawful regarding the Real Objectivity of Self-
+Evident Judgments? 118
+33. Their Real Objectivity not a Matter for Logical Demonstration but for
+Intuition through Reflective Analysis 120
+34. Inconsistencies Consequent on Excessive Doubt 125
+35. The Opposite Mistake: Excessive Dogmatism r27
+CHAPTER IV.
+Unjustifiable Issue of the Inquiry: Scepticism.
+36. Order of Problems 135
+37. Forms of Scepticism 136
+38. Its Main Historical Manifestations 138
+39. Critique of Scepticism 142
+PART II. INTELLECTUAL KNOWLEDGE: JUDGMENT.
+CHAPTER V.
+Necessary Judgments: English Subjectivism.
+40. Objectivity of the Necessary Nexus Asserted in Immediate Judgments
+of the Ideal Order 148
+41. Subjective Necessity through Association 149
+42. Subjective Necessity through Evolution 154
+43. The Test of Inconceivability 157
+44. Relative and Absolute Inconceivability .... ... 160
+45. Is Experience of Absolutely Necessary Relations between Thought-
+Objects Conditioned by Subjective Mental Forms? . . . . 167
+TABLE OF CONTENTS xiii
+CHAPTER VI.
+Necessary Judgments: Kant's Theory Expounded.
+paqe
+46. General Outline of Kant's Theory of Knowledge 168
+47. Necessary and Universal Judgments described as "A Priori" . . . 174
+48. Those of them that Amplify our Knowledge claimed to be " Synthetic-a-
+priori" 176
+49. Even Concepts, regarded as "Objective," i.e. as Necessarily and Uni-
+versally Valid, claimed to be "Synthetic-a-priori" . . . . 180
+50. Analysis of "A Priori" Conditions of Knowledge in Sensibility and in
+Understanding 181
+51. The "A Priori" Forms of Sense Intuition 183
+52. Conception and Judgment. "A Priori" Forms of the Understanding . 184
+53. Their Application in Mathematics and Physics i89
+54. The " Illusion" of Metaphysics 191
+55. The "Copernican Revolution" 194
+56. The Influence and the Issues of Kant's Teaching 197
+CHAPTER VII.
+Necessary Judgments: Kant's Theory Examined.
+57. The Case for the Critique of Pure Reason 201
+58. "A Priori" Forms neither Essential nor Sufficient to account for
+Necessary and Universal Judgments 202
+59. Significance of the " Critique ": its Thesis Mutually Destructive . . 206
+60. How the Function of "A Priori Synthesis" is described as Permeating
+Judgment, Conception, and even Perception 209
+61. How the Necessity-and-Universality of the Apprehended Product of the
+Synthesis is Subjective 213
+62. Grades of Necessity in Judgments. Singular Judgments. Validity of
+Concepts. The Problem Stated 216
+63. Kant's Claim Examined. A. Mathematical Judgments. B. Geometrical
+Judgments. C. The Principles of Physics 219
+64. D. The Principle of Causality and Metaphysics. Doctrines of Kant and
+Hume 223
+65. Scholastic Account of the Principle 225
+66. Inadmissibility of Kant's Limitation of the Principle to the Domain of
+Sense Experience 228
+CHAPTER VIII.
+Necessary Judgments: Scholastic Theory.
+67. In Necessary and Universal Principles of the Ideal Order the Ground of
+the Judicial Nexus is seen to be in the Objects as Conceived: Ob-
+jective Evidence 232
+68. Proofs of the Thesis 234
+69. In Necessary Judgments the Character of the Apprehended Nexus is due
+to a Property of the Thought-Objects or Concepts, viz. their Ab-
+stractness 241
+70. What can be Inferred from the Characteristics of Abstract Thought-
+Objects or Essences? A Debatable Question .... 245
+xiv
+TABLE OF CONTENTS
+PART III.
+INTELLECTUAL KNOWLEDGE: CONCEPTION.
+CHAPTER IX.
+Origin and Validity of Concepts: Moderate Realism.
+PAGE
+71. Problem of the Origin of Concepts 250
+72. Problem of the Validity of Concepts 253
+73. The Process of Conception: Terms Defined 256
+74. Analysis of Conception. Various Theories. Kant on Intuition . . 259
+75. Scholastic Theory of Abstraction 262
+76. Reality of Objects of Conception: Moderate Realism Explained . . 268
+77. Generalization. Intellectual Apprehension of the Individual . . 279
+78. Proofs of Moderate Realism 287
+CHAPTER X.
+Validity of Concepts: Extreme Realism.
+79. Plato's Doctrine on Universals 292
+80. Ontologism 298
+81. Medieval Forms of Extreme Realism 300
+CHAPTER XI.
+Validity of Concepts: Nominalism.
+82. The So-called Medieval Nominalism 312
+83. Modern Nominalism: General Exposition and Criticism . . . . 315
+84. The Sensist and Positivist Theory of "Abstraction" and "Generaliza-
+tion" 319
+85. Positivism as a Theory of Knowledge 324
+CHAPTER XII.
+Validity of Concepts: Conceptualism; Kant's Doctrine.
+86. General View of Conceptualism 330
+87. Conceptualism of Kant's Doctrine 331
+88. If all Concepts Involve "A Priori" Syntheses, what Moves or Deter-
+mines the Mind in Forming such Syntheses? 332
+89. Kant's Vindication of Universal Concepts as "A Priori" Syntheses of
+the Categories with a Manifold of Sense Intuitions .... 336
+90. Kant's Account of the Transition from Individual to Universal in Cogni-
+tion 338
+91. General Criticism of Kant's Theory of Universal Concepts. A. The
+Theory Fails to Account for the Facts 343
+92. B. Conception is not an "A Priori" Synthesis whereby our Mental
+Representations are made " Objective" and thus become Cognitions 352
+93. The Concept of "Causal" or "Necessary" Succession of Events in
+Physical Nature is, for instance, not made "Objective " by the Ap-
+plication of an " A Priori" Mental Rule to "Mere Mental Repre-
+sentations" 359
+94. Retrospect. Psychological Grounds of Conceptualism .... 366
+Index
+371
+INTRODUCTION.
+I. EPISTEMOLOGY: ITS PLACE IN PHILOSOPHY.—While the
+special or positive sciences explore each a limited portion of
+human experience, philosophy explores the whole domain.
+While they raise immediate questions and offer partial and proxi-
+mate explanations, it raises ultimate problems and offers the
+fullest explanations which the mind of man can discover. What
+is the nature of man and the universe? What is their origin?
+What is their destiny? What is the meaning of life? How
+should man live? What can man know of these things? Of
+how much can he be certain? What is knowledge itself? Is
+any knowledge reliable? And if so, what are its limits and
+conditions? These are some of the problems investigated in the
+various departments of philosophy—Cosmology, Psychology,
+Logic, Ethics, etc.
+Assuming a division of Speculative Philosophy, or Meta-
+physics, into General and Special—the former embracing On-
+tology and Epistemology, the latter embracing Cosmology,
+Psychology, and Natural Theology—a division which has been
+set forth elsewhere1—we assign to Epistemology or the Theory
+of Knowledge (eiriaT^fir), Xoyo?, doctrina scientiae sen cogni-
+tionis) the philosophical investigation of human knowledge itself,
+from the standpoint of the certitude, validity, or truth-value of
+this knowledge.
+Epistemology and Logic.—The relation of Epistemology to
+Logic is thus apparent. Logic as a practical science brings to
+light from an analysis of our thought processes certain norma-
+tive principles which guide these processes towards the discovery
+of truth. In doing so it makes a number of assumptions, as, for
+instance, that by thinking correctly, i.e. by judging and reasoning
+according to logical canons, the attainment of truth and certi-
+tude is possible. All such assumptions it devolves on Epistemo- 1 Ontology, or The Theory of Being. P. Coffey, Ph.D. (Longman*, 1914),
+Introd., pp. 14-23.
+VOL. I. I
+2 THEOR Y OF KNO WLEDGE
+logy to justify.1 But in fact the line of division between these
+two branches of study has not been clearly recognized either in
+theory or in practice: for all the problems claimed by Epistemo-
+logy arise naturally out of the reflective analysis to which Logic
+subjects our thought processes. Down to comparatively recent
+times the practice among scholastic exponents of philosophy has
+been to treat this group of questions under the title of Logica
+Critica, or Critical Logic, in immediate connexion with Logica
+Dialectica, the Logic of Inference and Scientific Method.*
+Towards the end of the eighteenth century the influence of
+Kant's Critical Philosophy gave an extraordinary impetus to the
+study of problems concerning the scope and limitations of human
+certitude. This influence was felt among the exponents of the
+traditional "Philosophy of the Schools". It resulted in the
+grouping of such problems into a definite department for fuller
+exposition and treatment, and called forth special scholastic
+treatises, of which MERCIER's Criteriologie Ge'ne'rale? and more
+recently JEANNIERE'S Criteriologia? may be taken as typical.
+The title Criteriology (Kpirrfpiov, \oyoc,—the science of the
+criteria or tests, i.e. of true and certain knowledge) emphasizes
+the special aim of the investigation as being an analysis of the
+tests by the application of which to our knowledge and beliefs we
+may be able to discern and sift out the true from the false; while
+the title Epistemology ("Theory of Knowledge," Erkenntnis-
+theorie, Erkenntnislehre) reminds us that the subject-matter of the
+investigation is human knowledge.5 While, then, the aim of the
+various human sciences, and of the other departments of philo-
+sophy, is to extend our knowledge of the data of human experience,
+the aim of this particular investigation is not exactly to extend
+1 Cf. Science of Logic. P. Coffey, Ph.D. (Longmans, 1912), i., § 17, pp. 28-9.
+5C/. Hickey, Summula Philosophiae Scholasticae (Dublin, Gill, 1912), vol. i.;
+Reinstadler, Elementa Philosophiae Scholasticae (Herder, 1901), vol. i.
+'Mercier's treatise, one of the many works from the pen of the illustrious
+Belgian Cardinal when he was Director of the Philosophical Institute at the Catholic
+University of Louvain, was published in 1899, and forms the fourth volume of the
+Louvain Cours de Philosophic. Mainly on account of its searching analysis of
+Kantism it gained a wide publicity, reaching its sixth edition in 1911.
+* Criteriologia, vel Critica Cognitionis Certae. Auctore R. Jeanniere, S.J.
+Paris, Beauchesne, 1912.
+5 Not angelic or divine knowledge, or the knowledge of an imaginary abstract
+pure intelligence, but such knowledge as may be attained by the minds of concrete
+individual human beings. About the former kinds of knowledge we can know only
+what we can infer by analogy from the knowledge of which we have direct experi-
+ence, i.e. human knowledge. Cf. F. S. Turner, Knowledge, Belief, and Certitude
+(London, 1900), p. 59.
+INTRODUCTION
+3
+our knowledge but rather to perfect our acquired knowledge by
+teaching us WHAT IT IS TO KNOW.
+Our method, therefore, as in psychology, will be mainly intro-
+spection, supplemented of course by external observation of the
+cognitive experiences of the human race, and by rational infer-
+ence from the internal and external data so observed.
+Epistemology and Psychology.—If we understand by Psy-
+chology, as a department of philosophy, the philosophical investi-
+gation of the whole domain of living things, the highest branch
+of its subject-matter will be the phenomena of the human mind,
+and among these latter cognitive phenomena hold a prominent
+place. On account of the naturally close connexion of problems
+concerning the origin and development of knowledge with prob-
+lems concerning its scope, validity, and significance, epistemo-
+logy is closely allied with psychology.1 They have, however,
+definitely distinct standpoints. The cognitive activities of the
+mind, considered as facts, as mental events, belong to psycho-
+logy; considered as apprehending truth they belong to episte-
+mology. For while as mental events they arise and develop
+according to laws of mental association and conjunction which it
+is the duty of psychology to elucidate, they have another and
+distinct aspect in that they claim to apprehend truth. It is pre-
+cisely this claim which epistemology has to investigate.
+Reflecting on our conscious life we easily distinguish between two orders
+of movement and combination among our conscious states. We find things
+occurring together in our mental life without any inner connexion, and recur-
+ring together for no other reason than that they have occurred together. The
+connexion of language with thought is a good example of this association of
+mental states. The spoken or written word suggests a certain idea not be-
+cause it has any internal connexion with the latter, but because they have
+always occurred together in our experience. Memory depends on this sort of
+grouping and reproduction of mental states. The states so connected might
+conceivably not have been so connected. It is a de facto grouping accord-
+ing to mental tendencies which psychology has to examine and analyse.
+But there is another connexion of a different kind, not a de facto conjunction
+but a connexion which is seen by our reason to be necessary and immutable.
+1 Hence, apart from special treatises on the Theory of Knowledge, such as Father
+Rickaby's volume in the Stonyhurst Philosophical Series (The First Principles of
+Knowledge, by John Rickabv, S.J., 2nd edit., Longmans, 1901), much epistemo-
+logical matter is to be found in such treatises as Father Maher's work on Psycho-
+logy (Psychology, Empirical and Rational, by Michael Maher, S.J. Longmans,
+ib9o, 6th edit., i910) in the same series. Mercier (op. cit., 5th edit.,§3)regardsthe
+Theory of Knowledge as a specially important tributary or dependency of the domain
+of Psychology.
+1 *
+4
+THEOR Y OF KNO WLEDGE
+Such, for instance, is the connexion between our concepts of the various pro-
+perties of a triangle, or our concepts of whole and part, or our concepts of
+ground and consequent, premisses and conclusion. Here the elements not
+merely occur together de facto, they "belong together" so to speak ; they
+are internally, i.e. rationally, logically connected. Now among the de facto
+groupings and movements the mind is constantly seeking for those rational
+groupings and movements whereby we interpret our cognitive processes and
+discover their significance as embodying truth or knowledge of reality. It is
+with connexions of this latter kind that epistemology is concerned.
+Or, again, we might illustrate the distinction in this way. Psychology deals
+with all conscious experiences as mental events. Some of these experiences
+are nothing more than individual mental events in an individual mind, as, for
+example, an impulse, an emotion, a feeling of pleasure or pain. That is, they
+simply are what they are, and they report nothing beyond themselves. But
+there are other conscious experiences which do report an object beyond and
+independent of the individual mental event itself, which claim to represent a
+something beyond themselves and common to all minds, a something which
+they do not make but only discover as portion of the total system or order
+which reveals itself more or less to all of us and which we call reality. This
+is true of those conscious experiences which we describe as thought ox think-
+ing, cognition or knowledge, knowing, in the stricter sense of these terms, i.e.
+interpreting, judging, affirming or denying. Now it is with such conscious
+experiences, as representative of reality, that epistemology deals. Indeed, this
+very question,—how a judgment which is an individual event of an individual
+mind can validly apprehend something beyond itself as real and true for all
+minds,—is not the least of the mysteries which epistemology has to examine.
+How thought can have this objective reference it may be difficult to under-
+stand ; but to deny the fact—as some philosophers have attempted—is equi-
+valently to distort and destroy the function of thought altogether.
+Epistemology and Ontology.—We have referred to the division
+of General Metaphysics into the Theory of Knowing (Episte-
+mology) and the Theory of Being (Ontology). The aim of all
+metaphysics is to arrive at, a rational and systematic comprehen-
+sion of reality. From the nature of the case, this of course is an
+ideal to which the finite mind of man can only approximate.
+Again, while the understanding of reality, of real being, is the
+ultimate aim of metaphysics, it is clear that this understanding
+cannot be satisfactory without an investigation into the nature
+of "knowing" itself. Thus the Theory of Being has for its
+counterpart and condition the Theory of Knowing.
+And since all knowing involves a knowing subject and a
+known object the two lines of investigation deal with two aspects
+of the same domain, this domain being the sum-total of human
+experience, or reality as revealed in and through this experience.
+Historically some systems of speculative philosophy might be
+INTRODUCTION
+5
+roughly described as theories of knowing and others as theories
+of being, according as the one or the other of these two lines of
+investigation is found to predominate. Thus, while the systems
+of Aristotle, the mediaeval Schoolmen, Spinoza, and Leibniz
+are fundamentally theories of being, those of Plato, Descartes,
+Locke, Hume, and Kant are pre-eminently theories of knowing.
+The distinction, however, is not to be taken as absolute, for
+neither line of investigation can be pursued without reference to
+the other, though the two groups of problems are sufficiently
+distinct to admit of separate treatment.
+2. Bearing of Epistemology on Spontaneous Convic-
+tions, on the Sciences, and on Religious Belief.—It is
+primarily for the guidance of the beginner that the present
+treatise is intended. It may be well, therefore, to set down here
+a few practical considerations which will at once arouse his
+interest and help to adjust his initial outlook.
+In the first place what is true of the study of philosophy
+generally—that it demands the effort of personal thought and
+reflection from the individual learner, and is not to be achieved
+by any mere passive and unreflecting assimilation of the teach-
+ing of text-books or professors—is particularly true of the study
+of Epistemology. At the same time many of its problems are
+such that the youthful student finds it very difficult to regard
+them as serious or to approach them seriously. When he sees
+what appear to him to be self-evident truths or dictates of plain
+common sense called into question by people whom he hears
+dignified by the title of great philosophers, he is apt to lose
+patience unless he be modest enough to accept the assurance
+that there is really something to be said for such apparently ex-
+travagant positions, and sincere enough to endeavour to enter
+sympathetically into standpoints so novel and so completely at
+variance with his own outlook. But while such an attitude is
+necessary not merely for the understanding of these novel theories,
+but even for an intelligent appreciation of the common-sense
+standpoint and its difficulties, he must remember that it is quite
+compatible with a robust faith in the soundness of this latter, nor
+has he any need to be unduly alarmed about the competence of
+the mind for truth by the spectacle of so many able minds missing
+truth from the very outset.
+Moreover, the really just and fully satisfactory solution of
+some of the problems, when once they are raised, demands a
+6
+THEOR Y OF KNO WLEDGE
+ripeness of thought and experience, a breadth and depth of out-
+look on men and things, which the youthful student can scarcely
+be expected to bring to bear upon them. However, an average
+acquaintance with logic and scientific method, a general know-
+ledge of psychology, a moderate familiarity with the main con-
+clusions and theories of the physical and natural sciences, with
+history, literature, and the arts, and with the great world-facts
+of morality and religion—all these ordinary acquisitions will en-
+able him to appreciate the importance of epistemological prob-
+lems, and, what is better still, to weigh the evidences from all
+sources perhaps more justly and impartially than many of those
+more mature inquirers who happen to have lost the sense of due
+proportion by long years devoted to some specialized study which
+has made them experts in a particular domain. The specialist
+is always exposed to the danger of overrating evidence from his
+own department, of interpreting all reality in terms of its par-
+ticular laws, of ignoring facts that do not fit in with these. The
+history of philosophy is strewn with the wreckage of false philo-
+sophical theories propounded by scientific or other specialists.
+The mechanical, evolutionary, and agnostic philosophies based on
+the physical sciences about the middle of the last century by
+such men as Huxley, Spencer, Buchner, and Haeckel are cases in
+point. The youthful student, approaching the study of Episte-
+mology for the first time, will be free from such prejudices; but
+he must learn to think out the problems for himself, to seek the
+truth sincerely and for its own sake, to recognize that the human
+mind has its limits, that there are many questions which it may
+raise indeed but cannot adequately answer, while at the same
+time it can discover and hold firmly to all the truths that are
+requisite for the realization of the supreme purpose of man's
+existence in the universe.
+In the next place the student will appreciate the importance
+of epistemological problems when he learns that upon their right
+solution depends the value or the worthlessness of scientific truth.
+We all spontaneously believe in the trustworthiness of our cog-
+nitive faculties: that our senses reveal to us a real, material uni-
+verse distinct from our minds; that by the use of our reason in
+the physical, natural, human, and social sciences we can and do
+discover a certain amount of "truth," of genuine "knowledge"
+about the real existence and the real nature of the persons, things,
+and happenings which constitute this universe; that what we
+INTRODUCTION
+7
+call the necessary and universal truths brought to light in these
+sciences are not mere subjective constructions of our own mental
+processes, signifying nothing beyond themselves, but that on the
+contrary they really do give us an insight into the nature of that
+which they purport to reveal to us, namely, the real world; that
+the concepts assumed not merely by ordinary thought but by
+the thought of the scientist to be concepts representative of the
+real world are indeed really such,— concepts of "number,"
+"quantity," "space," "time," "cause," "effect," "action,"
+"quality," "substance," "matter," "spirit," "good," "evil,"
+"freedom," "purpose," "duty," "happiness," etc., etc.;—that
+what are assumed by the plain man to be self-evident truths
+underlying all knowledge, and what are assumed by the scientist
+as principles or starting-points from which, and with the aid of
+which, he proceeds to discover and establish "scientific truths,"
+are really themselves " truths," i.e. valid information or items of
+knowledge about the real world. Now all these spontaneous
+beliefs of the plain man, of the scientist, and indeed of the philo-
+sopher in other departments, must be examined and tested in
+Epistemology. Every single department of human science and
+investigation makes, in regard to the possibility and fact of certain
+knowledge, many assumptions which it is not only legitimate but
+even necessary to criticize. For when we come to reflect on it
+we find that human cognition is a very complex process; that
+we distinguish truth from error and have often fallen into the
+latter; that if we have been deceived once and again we may per-
+haps be victims of a wider and deeper deception than we dream
+of in respect to much, or possibly all, of what we think we know. Again, the student will take a deeper interest in epistemo-
+logical problems when he learns that nowadays it is in this do-
+main rather than in the positive sciences, or in supernatural
+theology, or in any other department of philosophy, he will en-
+counter questions by the right or wrong solution of which all
+faith in Christianity, or indeed in supernatural religion as such,
+must stand or fall. The foundations of faith in the truth of
+Christianity cannot be laid in the quicksands of a mind that is
+swept by the withering winds of philosophical scepticism. The
+Theism implied by Christianity can find no home in the mind
+that is a prey to Agnosticism. Nor is belief in a Supreme Being,
+distinct from the world, compatible with the acceptance of any
+form of Monism. It is of the first importance for the catholic
+8
+THEORY OF KNOWLEDGE
+student to realize that among all peoples who have inherited
+Christian culture and civilization the choice of ever-increasing
+multitudes of those whom we may describe as the leaders of
+thought—and consequently also of the masses influenced by them
+—is now no longer so much as formerly between Catholicism and
+some other form of Christianity, but rather between Catholicism
+and the rejection of supernatural religion altogether. Nowadays
+the religious question in the main resolves itself into Catholicism
+versus Unbelief, Agnosticism, Monism, Naturalism. The intel-
+lectual difficulties which impede the acceptance of catholic truth
+by the modern mind are not concerned with individual dogmas;
+they lie deeper down; they refer to the possibility of Divine
+Revelation, to the existence of a Supreme Being, to the binding
+force of morality, to the very capacity of the human mind for
+attaining to any certain knowledge about the origin, nature, and
+destiny of man and the universe. These difficulties, arising out
+of false theories of knowledge, enhance both the interest and the
+importance of Epistemology for the catholic student.
+At the same time our investigation, if it is to attain its object,
+must be wholly impartial and disinterested. A treatise on the
+Theory of Knowledge cannot possibly be apologetic or polemical
+in the religious sense. It must be purely philosophical; it must
+appeal to reason, not to authority; it must be grounded on
+universal human experience; it must assume nothing except on
+grounds of reason; in this sense it must be " presuppositionless ".
+But only in this sense; for it will bring to light many presupposi-
+tions without which no rational investigation and no intelligent
+thought would be possible. The believer in the Christian re-
+ligion may legitimately indeed entertain not only the expec-
+tation, but even the unwavering confidence throughout, that a
+purely rational investigation of the sources, scope, and limits of
+human certitude, will, if rightly conducted, inevitably justify the
+foundations of his faith and make of this a rationabile obsequium,
+a reasonable service;1 but were he to attempt to construct a
+theory of knowledge on the assumed truth of his religious beliefs,
+the task attempted in thus " putting the cart before the horse"
+would obviously be worse than useless.
+3. Conspectus of Problems Raised by Reflective
+THOUGHT.—All men have spontaneous and firm convictions
+about many things. Prompted by nature itself they believe
+1 Rom. xii. 1.
+INTRODUCTION
+9
+that there is a distinction between truth and error; that they
+can and do discover some truths. It is likewise the general ex-
+perience of men to discover occasionally that they have been de-
+ceived, that some of their firm convictions were not true but
+false, were not " knowledge" but error,—for by the term " know-
+ledge," used simply and without qualification, we understand
+true knowledge and not merely seeming, spurious knowledge.
+Nor is the ordinary man disconcerted by the discovery that time
+and again he has been deceived, for he knows that man is not
+infallible in the pursuit of truth. With wider experience he may
+learn to exercise greater caution in regard to what he will accept
+as certainly true, and he may be more easily disposed to admit
+that even some of what he still holds for certain knowledge may
+turn out after all to have been false; but none the less he will
+continue to follow the inclination of his rational nature to hold
+on firmly to each and every one of his spontaneous convictions
+as long as he sees no reason for abandoning them. Thus, as he
+passes through life he may retain his early "religious" convic-
+tions—about God, the soul, a future life of rewards and punish-
+ments, moral responsibility, etc.—if he ever had such; or it may
+happen that he may modify them. If he be comparatively un-
+educated, or prevented by material preoccupations from pursuing
+the cultivation of his mind, it is not likely that he will ever
+systematically examine and revise his beliefs, even those that
+most intimately concern his own nature and destiny. And this
+is the case with the masses of mankind.
+But with those who have leisure to cultivate their minds by
+the study of the arts and sciences, of literature and history, of
+philosophy and religion, of human civilization in any of its varied
+and manifold modes of expression; with those, too, on whom the
+duty devolves of instructing, educating, enlightening their fellow-
+men, the duty of promoting the intellectual, moral, and religious
+progress of humanity,—the case is different. When we reflect on
+the profoundly divergent and conflicting views that have at all
+times divided humanity in regard to the very questions that con-
+cern human destiny most intimately,—the existence and nature
+of a Supreme Being, the reality of a future life, the origin and
+binding force of moral principles, etc.,—we cannot help asking
+ourselves whether after all the human mind is capable of attain-
+ing to certitude about such matters. When we learn from the
+history of human thought as exercised in its fullest intensity by
+10
+THEORY OF KNOWLEDGE
+its ablest representatives and exponents on those and similar
+fundamental questions,—in other words, from the history of philo-
+sophy,—that many have questioned the power of the human mind
+to know even if there exist a suprasensible world, we must per-
+force examine the question: Can the human mind know for
+certain whether there is any reality other than the material things
+of time and space revealed in our sense experience? When from
+an acquaintance with the various positive sciences which deal
+with the material universe and with organic life we find no small
+disagreement prevailing as to what are " established conclusions"
+and what are merely "probable hypotheses" in these domains,
+we are led naturally to inquire whether, if truth be at all attain-
+able, there are any satisfactory tests whereby we can recognize it.
+Moreover, we can see by a little reflection that not merely the
+ordinary convictions of the plain man, but even the sciences
+themselves,—even the abstract sciences, such as mathematics, no
+less than the concrete, positive sciences,—assume as true certain
+principles i which they do not prove, and assume thereby that the
+notions embodied in theseprinciples are validly applicable to reality
+and give us a genuine insight into reality. For by "science" we
+certainly understand a genuine knowledge of reality, and if those
+fundamental notions that enter into the sciences did not somehow
+reveal reality to us the sciences would be no better than a vast array
+of mental illusions. Not only so, but knowledge of whatsoever kind
+would be an illusion, inasmuch as all knowledge is embodied in
+judgments and all judgments involve notions and purport to inter-
+pret reality for us by analysis, synthesis, and comparison of notions. We need not anticipate the illustrations that will be duly given
+in the course of our inquiry. What we have here to observe is
+this, that the principles and notions in question suggest an in-
+vestigation of the rational grounds on which we accept them as
+giving us genuine knowledge. In other words, the general prob-
+lem presents itself of re-examining critically our spontaneous
+convictions and beliefs with a view to determining whether, or
+within what limits and under what conditions, we can have well-
+grounded and certain knowledge about anything. And no sooner
+do we attempt to enter on our task than we come to realize how
+exceedingly complex is the simplest act of knowledge,—in its
+sources, in its objects, in its processes, in its grounds and motives.
+We find ourselves endowed with external sense faculties whereby we think
+that we apprehend a real, material universe existing in space and time, dis-
+INTRODUCTION
+tl
+tinct from and independent of, our own minds, and with which we think we
+are brought into conscious or cognitive relation by means of our own living
+human bodies. But does the individual human mind, or can it, really ap-
+prehend anything beyond or distinct from itself? and if so, how? We have
+the power of reflecting on whatever we become aware of, and on the mental
+acts or processes involved in this awareness. Does this reflection bear out
+our spontaneous conviction that our knowledge can and does reach beyond
+the cognitive process, the mental state itself, and apprehend a reality distinct
+from the latter? We have the power of interpreting the data, the contents,
+of our acts and processes of sense cognition; we have the power of rational
+or intellectual cognition, of judging these data and reasoning from them.
+When we interpret them as giving us some insight into the existence and
+nature of a real material universe, is our interpretation well-grounded? When
+we infer from these data of sense experience the reality and existence of an
+order of beings beyond the scope of sense knowledge and knowable only by
+intellect or reason, the existence of a suprasensible order of realities, intelli-
+gent, immaterial or spiritual, free and immortal, and the existence of a Su-
+preme Personal Spirit, will the validity of such inferences stand the test of
+the deliberate critical reflection to which reason can and must subject them?
+The validity of all such inferences depends on the validity of the fundamental
+rational principles and notions on which they rest, and of which they are
+applications: are these principles and notions themselves valid? In other
+words, do they give the individual mind an insight into any reality beyond
+itself? Or will a critical analysis of them perhaps disclose them to be, for
+aught we know, mere products of the cognitive activity of the individual
+mind,—products which spontaneously and of their very nature refer us, no
+doubt, to a supposed world of reality which they purport to represent, but
+whose genuine representative character we can never rely on, or satisfac-
+torily vindicate and justify?
+Are any, therefore, of our spontaneous convictions rationally justifiable?
+Are any of the objects attained by our knowledge real? Or, in other words, is
+any of our knowledge true? Does knowledge attain to reality as it is, or is
+reality so transformed in and through the very process of cognition itself that
+reality can never be known by the mind as it really is in itself and apart from
+the mind? Is knowledge a purely passive mirroring of reality? and if so
+how is error possible? Or is the mind active in cognition? and if so can we
+distinguish what it does, or contributes, to the total "known object," from
+what is really there to be known antecedently to the actual cognition of it?
+Truth is commonly understood to be the conformity of knowledge, or of
+the mind knowing, with the reality known; and error to be the opposite re-
+lation. And it is commonly assumed that we have the power of testing our
+knowledge, and of discerning between genuine knowledge and misleading or
+erroneous knowledge. But this seems to imply that we can grasp not merely
+the mental or subjective term but also the extramental or objective or real
+term of the knowledge-relation, in order to judge whether this relation is one
+of conformity or not. But how can we grasp the extramental term otherwise
+than by knowing it and thereby making it mental? What then is truth
+at all?
+All our knowledge,—nay, all our consciousness,—involves a duality, a
+12
+THEORY OF KNOWLEDGE
+distinction between the subjective factor, the subject and act or process of
+consciousness or cognition on the one hand, and the object, of which the
+subject is made aware by this act or process, on the other hand. When we
+reflect even upon the mere awareness which characterizes the most rudi-
+mentary conscious feeling or sensation, we see that by describing it as con-
+scious, as a conscious act or conscious state, we mean that there is an object
+presented, however dimly, to a subject that becomes aware of it, however
+vaguely. And such a sensation is not yet knowledge; for we have not
+knowledge proper until we interpret or judge,—at least implicitly, as we
+generally if not invariably do in sense perception,—until we interpret, until
+we say, mentally, "this" or "that" "is" or "is not," or "is" or "is not"
+"so-and-so". In external sense perception this duality of subject and object
+is more clearly marked, as also in all judgments referring to the data of ex-
+ternal sense experience. It is likewise present in our consciousness of our
+own bodies, in our feelings of bodily pleasure or pain, etc., though here we
+spontaneously believe in some sort of a unity or continuity of the object with
+the subject: for here we are the knowing subjects and the bodies which are
+the known objects are our bodies. Nay even when we make our minds, our
+cognitive activities themselves, the objects of our contemplation, as we can
+and do by introspective reflection, there is still the duality, the distinction be-
+tween the mind as knowing subject and the mind as known object. What
+bearing has this duality on the possibility of our discovering the nature of our
+own selves and cognitive processes on the one hand, or of realities (other than
+our own selves) as known objects on the other hand?
+It is manifest that an examination of all those and many other similar
+questions will involve an inquiry into the main sources of our knowledge, the
+nature and modes of our cognitive processes, the characteristics of objectivity
+and universality in the concepts and judgments formed by our individual
+minds, and the ultimate grounds of our spontaneous belief that we can and
+do attain to some certain knowledge concerning our own real nature and the
+real nature of the universe in which we have our being.
+4. Rise and Development of Theories of Knowledge:
+Historical Outlines.—An analogy is sometimes drawn be-
+tween the mental development of the individual and that of the
+race. As the child is at first wholly preoccupied with external
+objects, and only as its mental powers develop does it begin to
+reflect, to look inward, and finally in adult years to puzzle over
+the meaning, the reliability and the limits of its acquired know-
+ledge and beliefs,—so the philosophical speculation of the race has
+been at first concerned mainly with the external world (Cosmo-
+logy), then with the nature of the knowing self or subject (Psycho-
+logy), and finally with the meaning, scope, and value of knowledge
+itself (Epistemology). In the main the analogy is true of certain
+great epochs of philosophical inquiry: for instance, after the
+earliest of the ancient Grecian thinkers had busied themselves
+INTRODUCTION
+with speculations on the nature of the cosmos, attention was
+directed by Socrates, and by his contemporaries and successors,
+to problems concerning the soul and the possibility of certain
+knowledge. But the analogy is not true of the progress of philo-
+sophical thought as a whole. The erroneous impression is some-
+times conveyed by modern writers that the age of philosophical
+criticism, first prepared by Descartes (1596-1650), only dawned
+with Kant (1724-1804); that previously philosophers in the main
+had naively and unreflectingly taken for granted as unquestion-
+able a multitude of epistemological assumptions which post-
+Kantian criticism has at all events fearlessly analysed. As a
+matter of fact the critical analysis of knowledge is as old as philo-
+sophy itself. In the fifth century before the Christian era the
+Kantian Criticism had its forerunner in the Homo mensura omnium
+of the Grecian sophist, Protagoras; and modern subjectivism had
+its prototype in the scepticism of the Platonic academies. The
+scholasticism of the Middle Ages,—which it has been so custom-
+ary among modern advocates of untrammelled criticism to regard
+as a system truly typical of naive dogmatism,—devoted its highest
+efforts of thought for centuries to distinctively epistemological pro-
+blems in its controversies on universal ideas, on individuation and
+distinctions, and on the respective domains of reason and faith.
+It is probably because, in contrast with much of modern thought,
+those mediaeval investigations did not issue in widespread scep-
+ticism and intellectual chaos, that their real value to philoso-
+phy has been so commonly underrated. The conclusions they
+reached were in harmony with the revealed truths of the Chris-
+tian Religion; and this was enough to render them suspect to
+the non-catholic mind, which, since the religious revolt of the
+sixteenth century, has preferred to philosophize on purely in-
+dividualistic lines, and without respect to the great world-fact of
+Christianity in the religious experience of humanity. None the
+less, the fruits of so many centuries of critical reflection on the
+scope and limits of human knowledge and certitude cannot be
+lightly ignored by the modern student of epistemology.
+It is, however, undeniable that the philosophical criticism of
+the last two centuries has prosecuted a very searching analysis of
+the cognitive capacity of the human mind, that it has persistently
+explored the motives of human certitude, that it has sounded
+many depths and shoals in the ocean of human beliefs: a legiti-
+mate and ven laudable enterprise, but grave and delicate, and
+THEORY OF KNOWLEDGE
+full of peril for the rash and incautious adventurer. That it has
+been prosecuted wisely in the main during these few centuries,
+that fruitful results have rewarded its labours, the actual chaotic
+conditions of the intellectual world will scarcely permit even the
+most sanguine to maintain. Indeed for Catholics its net result
+seems to confirm their traditional teaching that it is morally
+impossible for men generally, without the aid of Divine Revela-
+tion, to hold fast to such a knowledge of truth as will preserve
+them from grave intellectual error and consequent moral deca-
+dence. However this may be, at anyrate the problems raised, the
+doubts suggested, the subjectivism fostered, by the divers and
+often bewildering speculations of modern philosophers in regard
+to the scope and limits of human certitude, impose on the present-
+day Catholic student of philosophy the serious task of equipping
+himself with a sound Theory of Knowledge.
+Such questions as those indicated in the preceding section
+(3) have been repeatedly raised and discussed since the first
+beginnings of philosophical speculation ; and the various "theories
+of knowledge" that have marked its development through the
+centuries are characterized by the various forms in which those
+questions have been raised, and the various solutions they have
+received. According to some of these theories the senses are the
+only source of genuine knowledge, and the only knowable reality
+is that which reveals itself through the senses, i.e. the material
+universe. The supposed suprasensible world, which intellect
+with its reasoning processes purports to reveal to us, is chimeri-
+cal, or its reality at best problematical. Such theories of know-
+ledge may be described as various forms of Sensualism, the
+corresponding theories of reality being forms of Materialism.
+According to others intellectual thought is the only source of
+genuine knowledge: reality is only as thought conceives it and
+not at all as the senses present it. Such theories may be re-
+garded as forms of Intellectualism, the corresponding theories
+of reality being forms of Idealism or Spiritualism. But it may
+not be amiss to warn the student at the outset that all such
+general descriptive titles of philosophical theories and systems
+have been used, and are still used, in a variety of quite distinct
+senses, so that he will always need to look to the context for
+their exact meaning in each case. Another class of theories
+arose, perhaps as a logical and natural outcome of the opposi-
+tion between the two just mentioned, namely, sceptical theories,
+INTRODUCTION
+forms of Scepticism, i.e. of doubt about the existence of any
+reliable source of knowledge, about the possibility of attaining to
+any justifiable certitude whatsoever.
+Other theories, again, have recognized both in the senses and
+in the intellect reliable sources of knowledge; but differ in the
+parts which they ascribe to each source, in their modes of effect-
+ing a harmony between these sources, and of removing apparent
+contradictions between their respective verdicts concerning the
+ultimate nature of reality in so far as reality falls within human
+experience. Such theories are generally described as dogmatic,
+or as critical,—as Dogmatism, or as Criticism,—according as they
+tend to accept certain fundamental principles or postulates under-
+lying thought and sensation as ultimate, unquestionable, and
+absolutely reliable, or endeavour to call even these into question
+and subject them to further and more searching critical analysis.
+Criticism pushed too far leads by excess to Scepticism.
+Ancient Philosophy.—Some of these positions we find illustrated already
+in the philosophy of ancient Greece. Thus, about the fifth century B.C. the
+Eleatic philosophers (Parmenides and Zeno), failing to reconcile the mani-
+foldness and changing character of reality as revealed through the senses
+with the unity of being as conceived by abstract thought, rejected the testi-
+mony of the senses as untrustworthy and held all reality to be one and im-
+mutable, while the later lonians (represented by Heraclitus) arrived at
+exactly the opposite conclusion that all reality consists essentially in change.
+The earlier lonians had previously sought the fundamental and all-explaining
+factor of the universe in a material principle such as earth or water or air,
+while the Pythagoreans, impressed by the manifest order in the movements of
+the heavenly bodies, the succession of the seasons, etc., a harmony which
+makes the universe a cosmos, had sought to explain the latter by the aid of a
+more abstract concept, proclaiming the essences of all things to be numbers
+and numerical relations. The upshot of these conflicting theories was that
+earliest form of philosophical scepticism propounded by the Sophists (Pro-
+tagoras and Gorgias). Against their destructive tendencies Socrates
+(469-399) vindicated the power of human reason to discover a solid ground-
+work of truth as a basis for a right system of ethics. Plato (427-347)
+unduly extolled the function of abstract intellectual thought and underrated
+the testimony of the senses. Aristotle (384-322), profiting by the precious
+fruits of the Socratic-Platonic teaching, successfully harmonized in his theory
+of knowledge the respective contributions of senses and intellect. The ob-
+jects of intellectual thought, which were for Plato realities transcending the
+domain of sense experience, Aristotle proclaimed to be really immanent in
+the data of the latter, thus ascribing both to sensation and to thought their
+respective roles as reliable sources of genuine knowledge. From this high-
+water mark in ancient Greek speculation the succeeding centuries witnessed a
+speedy relapse into sensualism with Democritus, the Stoics and the Epicu-
+reans, and into scepticism with Pyrrho and the later Platonic academies.
+16
+THEORY OF KNOWLEDGE
+As the waning culture of Greece migrated to Rome the great world-fact
+of the coming of Christ and the establishment of Christianity leavened all
+human thought with a rich wealth of new and profoundly significant experi-
+ences. Graeco-Roman speculation was fused with the tradition of Hebrew
+culture and made to subserve the formation of a Christian world-view em-
+bracing such conceptions as that of the Creation of all finite reality by One
+Supreme, All-Perfect, Transcendent Spirit; the Redemption of mankind by
+the Incarnation; the full Revelation to man of his supernatural origin and
+destiny; the reasonableness of Faith in truths which, revealed by God to
+man concerning his place and purpose in the universe, yet surpass the power
+of human reason to comprehend or fathom fully. In the intellectual and
+moral ferment of the early Christian centuries, in the struggle between the
+conceptions embodied in the Christian religion and those that underlay the
+natural religions and beliefs of Paganism, the human mind was forced to re-
+consider the grounds of its deepest convictions concerning the great funda-
+mental problems of philosophy and religion. While the Neo-Platonists
+sought to oppose Christianity by a naturalistic system which largely substituted
+for the pure intellectualism of Plato an affective mysticism permeated with
+pantheism, the Fathers of the Church and after them the Medieval School-
+men gradually evolved a theory of knowledge and reality which, while har-
+monizing with the doctrines of the Christian religion, borrowed considerably
+from Plato, particularly through St. Augustine (354-430), but was moulded
+mainly by the philosophical teachings of Aristotle.
+Mediczval Philosophy.—The two main problems of epistemology which
+occupied the Mediaeval Schoolmen from the days of the Carlovingian revival
+of learning with Alcuin (735-804), ScOTUS ERIUGENA (c. 815-80), and ST.
+Anselm (1033-1109), to the golden age of Scholasticism in the thirteenth
+century with St. Bonaventure (1221-74), Albertus Magnus (1193-1280),
+Duns Scotus (1266-1308), and St. Thomas Aquinas (1224-74)—were the
+harmonizing of the respective functions of senses and intellect in the genesis
+of natural knowledge, and the harmonizing of the latter in its entirety with
+supernatural faith in divinely revealed truth. The former of these two prob-
+lems was discussed in the copious mediaeval controversies concerning the
+validity and import of universal ideas,—reaching in the thirteenth century
+what was for the time a definitive solution on the lines laid down by Aristotle.
+The latter was likewise settled by the doctrine so fully and clearly formu-
+lated by Aquinas concerning the power of the human mind to establish the
+existence of God and the fact of Revelation aspreambula fidei, and the reason-
+ableness of believing all revealed truths, including mysteries, on the authority
+of God revealing.
+But just as an interval of decadence and retrogression succeeded the cul-
+mination of Greek philosophy in the fourth century B.C., so the culmination of
+Scholasticism in the thirteenth century of the Christian era was succeeded by the
+intellectual and religious chaos which marked the revolutions known as the
+Renaissance and the Reformation. Down through the Middle Ages the con-
+tents of the Christian Revelation, authoritatively propounded to mankind by the
+Divine teaching prerogative claimed and exercised by the Catholic Church,
+had been universally accepted as in harmony with the dictates of human reason
+and the needs of human nature: whole nations now rejected the Church's claim
+INTRODUCTION
+«7
+to that prerogative, and claiming for themselves the privilege of individual
+private judgment went their own divergent ways, selecting divers fragments
+of Christianity and classical Paganism wherewith to form religious systems
+after their own hearts. Similarly in regard to natural knowledge few thinkers
+of any note during the Middle Ages had ever seriously questioned the trust-
+worthiness either of senses or of intellect, or doubted the capacity of the human
+mind to reach certitude regarding the questions of deepest import to
+humanity: now, however, the abandonment of the Aristotelian-Scholastic
+teaching in regard to the co-operation of senses and intellect in the genesis
+of true and certain knowledge led to a manifold recrudescence of Sensualism
+and Scepticism.
+Modern Philosophy.—This marks the transition to modern philosophy,
+whose first notable representative, Descartes (i 596-1650), did much towards
+concentrating all subsequent philosophical speculation explicitly on the problem
+of the possibility and limits of human certitude. Not that this general problem
+had not been already discussed for centuries ; it had been repeatedly discussed,
+not however ex professo, but inasmuch as it inevitably entered into ontological
+problems concerning the nature of reality itself which was assumed to be the
+object of knowledge. But Descartes' method of starting in search of certitude
+by making a clean sweep of all philosophical tradition, trying to assume abso-
+lutely nothing, and laying down as the basis of all knowledge his own con-
+sciousness that he was doubting everything,—this method and its consequences
+pushed the problem of knowledge, the critical problem, to the forefront of
+philosophical speculation, and led to the development of epistemology as a
+distinct and substantive department of philosophy.
+Starting from the fact of self-consciousness Descartes developed a form of
+intellectualism which, while depreciating unduly the role of the senses, issued
+in an irreconcilable dualism of spirit and matter. With his disciples, Geulincx
+(1625-69) and Malebranche (1638-1715), this passed over into Occasional-
+ism, with Spinoza (1632-77) into Pantheism, and with Leibniz (1646-1716)
+into a sort of pan-psychism known as Monadism. Malebranche's theory of
+knowledge turned on the contention that the human mind has its knowledge
+not from the senses but from an intuitive intellectual vision of truth in the
+Divine Mind; Spinoza likewise regarded not the senses but only intellectual
+intuition and reasoning as the source of genuine knowledge; while Leibniz
+taught that the perceptions of sense and the conceptions of reason are innate
+and derive their validity from a harmony pre-established between them and
+their objects by God.
+Alongside this continental current of extreme intellectualism there de-
+veloped in England a very strong and influential current of sensualism. The
+rapid development of the sciences of observation and experiment from the
+sixteenth century onward had shifted the interest of scholars from the apparently
+barren occupation of the intellect in deductive reasoning to the more promis-
+ing occupation of the senses in observing and experimenting in the domain of
+external nature. LORD Bacon (1561 -1626) had already called attention to the
+importance of thus "interrogating " nature instead of " anticipating " nature
+by futile a priori speculations, and John HOBBES (1588-1679) had already
+revived in substance the sensualism of the school of Democritus, when John
+Locke (1632-1704) in his Essay Concerning the Human Understanding laid
+vol. 1. 2
+i8
+THEORY OF KNOWLEDGE
+the foundations of modern English sensualism by so analysing the sources
+and processes of knowledge as to raise serious doubts about its scope and
+validity. Intellectual processes were misinterpreted and partly confounded
+with those of the senses and imagination, and all knowledge was apparently
+reduced to a knowledge of mental states. The attempt to evolve a knowledge
+of extramental reality from this subjective awareness was so unsuccessful that
+with Locke's immediate disciples, Berkeley (1685-1753) and Hume (1711-
+1776), the supposed barrier against the power of the mind to transcend itself
+in knowledge appeared only to become more and more insuperable. The
+former argued from Locke's principles that the universe perceived by our
+senses and supposed to be a world of material substances can be only a system
+of perceived objects, i.e. of immaterial ideas which have no existence other
+than their mental existence,—their esse being percipi,—and which derive this
+mental existence from God, the Supreme Spirit, who places them in the created
+spirits which we call our minds. The latter pushed Locke's principles so far
+as to argue that not merely can we know nothing of material substances, but
+that we cannot know anything even of spiritual substances: all knowledge is
+reduced to a mere consciousness of a flow of transient states of the individual
+mind. This current of sensualism, which reached its reductio ad absurdum
+in the nihilistic scepticism of Hume, is variously described as Empiricism
+owing to its exaggeration of the function of sense experience in knowledge and
+its attempted reduction of all thought to sense processes; as Idealism or
+Phenomenism owing to its reduction of all knowledge to knowledge of mental
+states, impressions, ideas, or appearances; and as Subjectivism on account of
+its implied or expressed denial of any power in the knowing subject to trans-
+cend itself in the process of cognition and so attain to any knowledge of ex-
+tramental reality. The logical issue of subjectivism is the absurd conclusion
+known as Solipsism, i.e. the fancy that the individual conscious mind is the
+sole existing reality, the whole universe being a sort of self-evolved panorama
+passing within it. An alternative to this absurd conclusion is, however, the
+metaphysical theory of Idealistic Monism according to which individual finite
+minds are but transient centres of partial self-consciousness in the eternal
+evolution of the one sole reality which is at once Subject and Object, or Mind
+and Nature. Notwithstanding the suicidal destructiveness of Hume's philo-
+sophy, phenomenism was still widely prevalent among English philosophers
+in the last century, finding typical exponents of its principles in such writers
+as John Stuart Mill (1806-73), Huxley (1825-95), Bain (1818-1903), and
+Spencer (1820-1903). Under the title of Positivism (Comte, 1798-1857) it
+proclaimed the validity of the positive sciences as embodying knowledge of
+the time and space relations of co-existence and sequence among the data
+which constitute the domain of sense experience ; while on its negative side it
+denied, under the title of Agnosticism, the validity of metaphysical knowledge,
+i.e. knowledge of any domain of reality beyond that of sense experience.
+Towards the end of the eighteenth century the German philosopher,
+Immanuel Kant (1724-1804),—aroused from the "dogmatic slumber" in
+which he had accepted the intellectualism of Leibniz and Wolff (1679-1754),
+by coming into contact with the thorough-going scepticism of Hume,—under-
+took the ambitious task of finding a via media between intellectualist dogma-
+tism on the one side and sensualist scepticism on the other. He sought this
+INTRODUCTION
+19
+via media by what he called the Transcendental Criticism of the mind's
+faculties of knowledge. In the spirit of Descartes he proclaimed the necessity
+of instituting a critical analysis of the mind, antecedently to all metaphysical
+investigation of man and the universe, with a view to discovering the scope
+and limitations of man's faculties of knowledge, and the conditions under
+which these faculties can attain to such knowledge as they are capable of
+reaching. The results of his life-long investigations were given to the world
+mainly in his three Critiques, the Critique of Pure Reason, the Critique of
+Practical Reason, and the Critique of fudgment. Praiseworthy in their pur-
+pose, but in their main drift misleading, they have exercised a profound, but
+on the whole an unhealthy and mischievous, influence on subsequent specu-
+lation. They reach the general conclusion that the human intellect, speculat-
+ing reflectively on the data of sense experience, is confined to a knowledge of
+mental appearances or phenomena, and can attain to no knowledge of extra-
+subjective or extramental reality; but that by a consideration of the practical
+or moral dictates of our conscience each of us can attain to subjective, personal
+certitude or conviction in regard to the principles of morals and religion,—the
+existence of God, the immortality of the soul, and the reality of human freedom
+and moral responsibility. Thus in effect he splits the human mind into two
+isolated compartments, and tries to reconcile speculative scepticism with
+moral dogmatism.
+To his moral dogmatism may be traced the unfortunate anti-intellectualist
+tendency of modern thought to base all certitude concerning the principles
+which underlie religion and morality on the individual will and its aspirations,
+the individual feelings and emotions, the affective tendencies and activities of
+the individual mind. Thus, Voluntarism (Renan, Nietzsche), Sentimental-
+ism (Jacobi, 1743-1819), and in our own days Pragmatism (C. S. Pierce,
+W. James, G. Simnel, F. C. Schiller, etc.) have been propounded by
+those who while adhering to Kant's critical standpoint, and accepting his
+doctrine on the phenomenism of all speculative knowledge, display the same
+anxiety as he did to avoid the logical issue of a paralysing scepticism. At
+the same time the subjectivism reached by his defective analysis of specula-
+tive knowledge has sown in modern philosophy a deep distrust in the capacity
+of man to arrive by way of intellect at a valid knowledge of reality.
+Hence we have multitudes of those modern writers who cultivate what
+we may call the philosophy of the sciences, proclaiming that even these
+elaborate systems, built up as they have been by intellectual interpretation
+of experience, give us no true insight into the nature of reality: their laws
+do not mirror or represent reality, but are only regulative principles whereby
+we systematize the contents of the subjective domain of our mental experience.
+This tendency is manifest in the writings of such men as Helmholtz, Hertz,
+Mach, Poincare, Le Roy, etc.
+Another manifestation of this sceptical attitude towards the power of the
+intellect may be recognized in the widely prevalent actual tendency to depre-
+ciate the value of a logical use of the intellect, to deny all validity or truth-
+value to the abstract intellectual concept and treat it as a mere symbol, to
+belittle the function of discursive reasoning by means of such concepts, to
+proclaim that not that way lies the road to real knowledge, but only by way
+of an alleged direct and immediate mental intuition which would bring the
+2 *
+20
+THEORY OF KNOWLEDGE
+conscious subject into living contact with the real. Abstract thought presents
+its object as one, inert, static, lifeless, etc. But reality is manifold, dynamic,
+vital, moving, etc. ; it is a process; and only by direct conscious intuition can
+it be grasped as such. This attitude, already traceable in the writings of the
+pragmatists (cf. Dewey, Smith, Brewster, Wells, Papini, etc.) finds its
+fullest development in the works of BERGSON,—who is par excellence the
+philosopher most in fashion at the present time. It is the old problem which
+divided the Eleatics and the later Ionians, and in Bergson we rightly recog-
+nize the modern Heraclitus.
+Reverting again for a moment to Kant's philosophy we observe that the
+more notable of his immediate disciples, abandoning his critical standpoint,
+developed what was for him a theory of knowledge into a theory of reality.
+Thus FlCHTE (1762-1814) and Schelling (1775-1854) constructed from
+Kant's conclusions metaphysical systems of idealistic monism; while HEGEL (1770-1831), whose influence has rivalled that of Kant himself, constructed on
+the lines of a purely intellectualist dialectic a monistic system in which he
+identifies the logical with the ontological, subject with object, spirit or mind
+with matter or nature, and represents the Sole Reality as a dialectically self-
+evolving Thought or Idea. While SCHOPENHAUER (1788-1860) opposed to
+this Hegelian monism a voluntarist monism in which Reality is conceived as
+Will, some of the immediate disciples of Hegel, such as Feuerbach (1804-72)
+and Strauss (1808-74), gave it an interpretation which issued in absolute
+materialism. Thus the most ambitious efforts of German speculation to
+sound all the depths of Being with the plummet of the finite human mind, its
+implied claim to clear up all mystery by comprehension of the Infinite, and
+its equivalent deification of the creature, were speedily overtaken by the
+nemesis of pride in a precipitous descent to the ignoble depths of the brute
+philosophy.
+Not all modern thought was, however, so deeply affected by subjectivism
+as the various currents just indicated. A truer appreciation of the relations
+between senses and intellect, and between reason and faith, was retained by
+many during the intellectual and religious revolutions which had ushered in
+modern philosophy. At the same time the enervating influence of the Carte-
+sian and Kantian theories of knowledge weakened in some quarters that
+healthy and robust confidence in the powers of the mind which had char-
+acterized the traditional Aristotelian philosophy as expounded in the Catholic
+schools. For this philosophy the certitude of knowledge is ultimately
+grounded in the native capacity of the human intellect to reach a genuine
+knowledge of reality by reasoning carefully from the data of sense experience
+in the light of objective evidence. Dissatisfied with this position some now
+sought to claim for the human mind an immediate intuition of reality in the
+Divine Mind as the only guarantee of the real validity of knowledge. This
+tendency found varied expressions in the Theosophy of Oetinger (1702-82)
+and Baader (1765-1841) in Germany, and in the Ontologism of Rosmini
+(1797-1855) and Gioberti (1801-52) in Italy. Others sought to supplement
+the supposed native incapacity of the mind by appealing to the necessity of
+a Divine Revelation as the ultimate ground of human certitude, a theory
+which found its formulation in the Fideism of Huet (1630-1721) and Bautain
+(1796-1867) in France, and in the Traditionalism of De Bonald (1754-1840),
+INTRODUCTION
+21
+DE LAMENNAIS (1782-1854), BONNETTY (1798-1879), VENTURA (1792-
+1861), and Ubaghs (1800-75), m France, Italy, and Belgium.
+In the main, however, the traditional Aristotelian and scholastic theory
+of knowledge found uninterrupted acceptance and support in Catholic centres
+of thought throughout the modern period. After the first shock of the six-
+teenth century revolutions it gained a remarkably brilliant series of advocates
+and exponents in the Catholic schools of Southern Europe, and especially
+of Spain. In this revival movement the most notable names are those of
+Cajetan (1468-1534), Sylvester (1474-1528), Suarez (i548-1617), and
+John of St. Thomas (1589-1644).
+Another and perhaps a more remarkable revival, or rather what is at
+once a revival, an adaptation, an amplification and development, of this tra-
+ditional philosophy has taken place in our own days. The modern mind
+was prepared for it partly by the historical research of the last century,1 which
+has dispelled so many prejudices concerning the Middle Ages, and partly
+by the intellectual unrest and discontent evoked by the modern chaos of
+ephemeral philosophical theories. It is characterized on the one hand by a
+more earnest study of mediaeval scholasticism, especially as expounded in the
+works of St. Thomas Aquinas and the other great masters of the thirteenth
+century, and on the other hand by a thorough-going critical analysis of its
+principles both by comparison with other current theories of knowledge and
+reality, and by application to the achieved results of modern science and re-
+search in every department of human experience. It is in the spirit of this
+present-day scholasticism that problems are dealt with in this treatise.
+The student will understand, of course, that the bald historical outlines
+in which we have just touched upon various theories of knowledge leave many
+theories unmentioned altogether, and have been set down merely with a view
+to acquainting the beginner with the general historical setting of the many
+questions to be investigated. About the modern scholastic movement just re-
+ferred to it will suffice to say here that it had its origin in the seventies of the
+last century, during the pontificate of Leo XIII, and in no small measure
+owing to his enlightened and authoritative advocacy. While earnestly es-
+poused in all Catholic schools, its two leading centres have been Rome and
+Louvain. Through the writings of the Louvain school, many of which have
+passed into English, German, Spanish, and Italian, its influence has been ap-
+preciably felt in not a few non-catholic and non-scholastic centres of thought.2
+Besides Mercier's Criteriologie generate, his Logique, Ontologie, and Psy-
+chologic (in the larger Louvain Cours dephilosophic) may be consulted with
+profit, as also his Origines de la psychologie contemporaine. Among the lead-
+ing exponents of the new scholasticism we may mention also: in Italy,
+Liberators, Sanseverino, Signoriello, Cornoldi, Tongiokgi, Pal-
+1 For historical research into mediaeval philosophy, cf. the valuable collection
+consisting of some twelve volumes edited by Baeumker and Von Herthing, Beit-
+raege zur Geschichte der Philosophic des Mittelalters; the works of Mandonnet,
+Ehrlk, and Denifle ; and the Louvain collection Lcs Philosophes Beiges, edited by
+Db Wulf and Pelzer.
+» For a fully documented account of the Neo-Scholastic Movement, cf. Perrier,
+The Revival of Scholastic Philosophy (New York, r9o9); also De Wulf, Scholas-
+ticism Old and New (2nd edit., Dublin, Gill, i9io).
+22
+THEOR Y OF KNO WLEDGE
+mieri, Zigliara, Lepidi,1 Schiffini and De Maria ;—in Spain, Balmes,
+Gonzalez, Urraburu ;—in Germany, Kleutgen,* Stoeckl, Von Her-
+thing, Pesch, Baeumker, Werner, Kaufmann, Grabmann, Gutberlet,
+Schmidt ; '—in France, Peillaube, Sertillanges, Rousellot,4 Gardeil,
+Mandonnet, Piat, Farges, Domet de Vorges, Tonquedec ;—in Eng-
+land, Harper, W. G. Ward, Maher, Rickaby, and the other writers of the
+Stony hurst Philosophical Series ;—in Belgium, the Louvain school, including
+Mercier, Nys, Thiery, Deploige, De Wulf, Noel, Sentroul, Van
+Weddingen, Halleux, Fontaine, Janssens; also De San, De Mun-
+nynck, Lahousse, etc., etc
+5. Epistemology not an Introduction to Metaphysics
+but a Department of Metaphysics.—The historical outlines
+given above will have revealed the fact that since the time of
+Descartes the notion has been widely entertained that a critical
+investigation of the mind's capacity to reach certain knowledge
+ought properly to precede any attempt to investigate any of the
+fundamental problems of philosophy, that only when we have
+first discovered the scope and limits of this capacity are we in a
+position to carry on metaphysical research. Nay more, Kant is
+said even to have urged that we must bring this critical analysis
+to bear on the mind's cognitive faculties themselves without tak-
+ing into account the spontaneous working of these faculties or
+building in any way on the experienced results of our spontaneous
+cognitive activities ; that looking at the mind itself,—irrespectively
+of anything that it spontaneously thinks, judges, or believes,—the
+general question we have to ask and try to answer is the question
+whether, or how far, within what limits and under what conditions,
+can such a mind have knowledge. Such is the sort of criticism
+which Kant is said to have called " transcendental " and to have
+himself undertaken. This standpoint is not easily intelligible;
+nor is it easy to see how the real, as distinct from the merely os-
+tensible, adoption of such a standpoint could render a single step
+of investigation possible,—in other words, how it would be possible
+for us to investigate knowledge, which is at any rate an activity
+of the mind (or its faculties) by attempting to examine the mind
+(or its faculties) apartfrom all activities of the latter. For in what
+other way can we hope to discover anything about knowledge,
+about its scope and limits, about the conditions of its validity,
+unless by examining the mind and its faculties as revealed in its
+cognitive activities?
+1 Delia conoscenta inttllettuale.
+* Author of Die Philosophit der Vorzeit; French tr., La philosophit scolastique.
+'Erkenntnislehre, 2 vols., Freiburg im Br., 1890.
+4 L'intelltctualism* de Saint Thomas, Paris, 1908.
+INTRODUCTION
+23
+Furthermore, it does not seem necessary to institute such an
+analysis antecedently to all other philosophical investigations.
+Just as a man's spontaneous reasonings can be correct without
+his having previously learned from the science of logic the canons
+to which they must have conformed, so can he by his spontaneous
+convictions have attained to true and certain knowledge without
+his having previously assured himself from the science of epistem-
+ology that he was not misled by those convictions. As a matter
+of fact all men can and do acquire a more or less extensive stock
+of truth before ever adverting to the desirability or necessity of
+examining explicitly their capability to attain to any truth; and
+most men never trouble themselves to raise such a question at
+all. Moreover, as we have seen already, it is only gradually and
+from a deeper study of scientific, philosophical, and religious
+questions, that the various problems arise with which epistemology
+has to deal. The aim of this sort of investigation, therefore, is
+not to prepare the way for metaphysical investigation, but rather
+to complete and consolidate this latter. Its problems are not
+problems which must be solved as an antecedent condition to the
+attainment of truth about any other matter. Hence epistem-
+ology is not a preparatory or introductory study which must pre-
+cede metaphysics and make the latter possible; it is a department
+of metaphysics, and not the first in order either.
+Of course the reason for the post-Cartesian and post-Kantian
+view is not far to seek. In order that the mind discover truth
+with certitude it must \be capable of doing so. Is anything else
+necessary? Is it necessary also that the mind be convinced of its
+own capability? Here we must distinguish. It does indeed
+seem necessary that the mind be aware of its own capability,
+that it have a natural and spontaneous conviction of its capability,
+not perhaps explicitly and as a result of reflection on the matter,
+but that an implicit, concomitant belief in its own capability must
+accompany all its cognitive activities: for no knowledge of truth,
+no conviction of knowledge certainly attained, would be compat-
+ible with a serious doubt on the part of the mind regarding its
+capacity to reach truth. This spontaneous belief in the general
+trustworthiness of his cognitive faculties is, however, a natural
+endowment of every man; it is a condition which does not re-
+sult from, but precedes, all epistemological investigation.
+But is it further necessary,—in order that the mind discover
+any truth with certitude,—not only that it be, and spontaneously
+*4
+THEORY OF KNOWLEDGE
+believe itself to be, capable of so doing, but also that it should
+have by deliberate reflection and exprofesso called this spontane-
+ous belief into question, and examined critically whether or not
+the grounds for this spontaneous belief are really sufficient? No;
+such an investigation is not a prerequisite condition for the
+certain possession of truth: provided that sufficient grounds for
+the spontaneous belief are really there we can reach truth without
+having ex professo examined into their sufficiency. Of course
+when we do deliberately institute a critical inquiry into the whole
+question of the sufficiency of the grounds for our spontaneous
+convictions,—an inquiry involving an analysis of the sources and
+processes of knowledge, etc.,—and when by such inquiry we
+satisfy ourselves that although we are not infallible and have
+sometimes fallen into error, and although our minds are not
+infinite and must therefore remain ignorant of many things, still
+we are really capable of reaching some truth and our spontaneous
+knowledge was in the main genuine,—when we have done all this
+we naturally thereby strengthen and confirm our spontaneous
+convictions. But this does not imply that they were not already
+convictions whereby we attained to true and genuine knowledge,
+or that the critical investigations undertaken in Epistemology must
+precede the acquisition of genuine certitude about anything.
+Nevertheless, the method of doubt employed by Descartes, and
+the method of transcendental criticism employed by Kant, seem
+to imply that a critical inquiry into the possibility of knowledge
+and certitude in general should precede the employment of our cognitive faculties to reach a reasoned solution of any funda-
+mental or philosophical problem whatsoever. The one purports
+to start from an attempted universal doubt, the other to conduct
+the inquiry without any appeal to experience; and both alike
+seem to imply that the mind can have no genuine certitude or
+real knowledge, at least about fundamental or philosophical
+problems, until it has first prosecuted to a successful issue the
+preliminary question as to whether it is at all capable of attaining
+to a certain solution of such problems. In connexion with these
+methods we shall see whether such a preliminary and presup-
+positionless theory of knowledge is at all possible. From what
+has been just said the student will be able to conclude that
+Epistemology is a department of metaphysics rather than an in-
+troduction to metaphysics, and this is the only point with which
+we are just now concerned.
+PART I. THE NATURE OF THE INQUIRY.
+CHAPTER I. the terms and data of the inquiry.
+6. Cognition. Knowledge. Science. Belief. Faith.—
+By cognition (L. cognitio) we mean simply the act or process of
+knowing. By knowledge we mean the result of this process, or
+sometimes—according to the context—the process of cognition
+itself. It is usually taken as a collective term: the collection of
+accumulated results of our cognitive activities. Sometimes, how-
+ever, we find authors speaking of a knowledge, and knowledges in
+the plural,—meaning an individual cognition or its result, and a
+number of these, respectively. We may notice here that knowing,
+cognition, knowledge, is suigeneris, that therefore'it cannot pro-
+perly speaking be defined, or explained in terms of anything other
+than itself.1 It is of course a complex process which admits of
+analysis, examination, description, illustration; but we must be
+always careful to remember that the terms of our descriptions
+and illustrations are only metaphors and analogies, and may
+therefore easily mislead instead of aiding us if we take them as
+conveying to us anything better known to us than knowledge
+itself. Nothing is more intimate to us than knowing. Hence
+there is no necessity for defining it even if we could; but we
+cannot. No doubt, we may say that cognition is a process, an
+activity; and so it is; but this is not a definition, for if " activity"
+is the genus, what is the differentia specified? Cognition only bears
+1" The very question, ' What does the process of knowing consist in?' at least
+suggests that knowing can be resolved into and stated in terms of something else
+. . . that it is possible to elucidate the nature of knowledge by means of something
+other than itself. Knowledge is sui generis and therefore a 'theory' of it is im-
+possible. Knowledge is simply knowledge, and any attempt to state it in terms
+of something else must end in describing something which is not knowledge."—
+Prichard, Kant's Theory of Knowledge, pp. 238-45.
+*5
+26 THE OR Y OF KNO WLEDGE
+an analogy to other forms of activity; and no other form of activity
+is more intimate to us than that of knowing. Moreover, we con-
+trast "knowing" with "doing," and still more with "making".
+There is no more familiar distinction than that between " thought"
+and "action "; and thought1 is a form of knowing. No doubt
+the mind is active in knowing; all cognition is an immanent
+mental activity, and has as result a mental state or condition—
+which we call knowledge. But all knowledge must be knowledge
+of something, and what we have here to observe is that know-
+ledge as such does not make this "something". At least the
+common-sense view of knowledge is that it is not a producing,
+creating, or making of something, but a revealing or discovery of
+something. Just as volition or willing is an immanent mental
+activity which produces the mental state or condition of decision,
+determination, resolution, etc., so cognition or knowing produces
+the mental acquirement we call knowledge, but it does not pro-
+duce the object of the knowledge, the thing known. It is not
+a production but a discovery of this latter;5 but then, again,
+such terms as "discovery," "revelation," "manifestation," "re-
+presentation," etc., employed in describing knowledge, are no
+whit simpler or more familiar to us than the term "knowledge,"
+or "cognition" itself.
+The term science conveys the notion of knowledge in some
+way perfected. "Scientific knowledge" (L. scientia, cognitio
+scientificd) is contrasted with "ordinary knowledge" (L. cognitio
+vulgaris), as knowledge systematized, thought over, reduced to
+order, in contrast with the scrappy, unassorted, promiscuous
+knowledge possessed by the uneducated masses (the vulgus) or
+1 The terms "thought" and "thinking" signify properly the higher or intel-
+lectual processes of knowledge, such as conception of ideas, judgment, and reason-
+ing, as distinguished from the operations of the senses and imagination.
+* We are here concerned only with setting down the currently accepted meaning
+of terms. We shall examine in due course attempts to show that knowledge is
+something like what this " construction " theory would make it. It is in criticism of
+such an attempt, on the part of Kant, that Prichard (op. cit., p. 118—cf. also ibid., pp.
+235-6) has the following: 'Knowledge unconditionally presupposes that the reality
+known exists independently of the knowledge of it, and that we know it as it exists
+in this independence. It is simply impossible to think that any reality depends upon
+our knowledge of it, or upon any knowledge of it. If there is to be knowledge, there
+must first be something to be known. In other words, knowledge is essentially dis-
+covery, or the finding of what already is. If a reality could only be or come to be
+in virtue of some activity or process on the part of the mind, that activity or process
+would not be " knowing," but " making" or "creating," and to make and to kjiow
+must in the end be admitted to be mutually exclusive.'
+THE TERMS AND DATA OF THE INQUIRY 27
+common folk).1 When knowledge is thus systematized it forms
+what are called " the sciences ".
+On these distinctions we have to observe two things. Firstly,
+scientific knowledge is in its processes and objects continuous
+with ordinary knowledge; it is a development of the latter,
+attained by the same human minds using the same faculties on
+the same subject-matter as in ordinary knowledge. To conceive
+science as something wholly apart and removed from ordinary
+knowledge would be a mistaken and unjustifiable view. Secondly,
+when we think of " the sciences " as distinct bodies of truth or
+knowledge, the distinction is a mental one, due to the mind's
+power of abstracting; and hence we must guard against con-
+ceiving the sciences as "existing" separately from one another
+or apart from human minds. There is and can be no " science,"
+just as there is and can be no "knowledge," except in individual
+human minds. The sciences do not exist even in books: what
+exists in books is a system of visible symbols of oral language,—
+which latter is the expression of thought or knowledge. But
+thought or knowledge exists only in the mind: and not in any
+common, general, or universal " mind " or "subject" whose sole
+function should be conceived as cognition,—for this too is only
+an abstraction,—but in the minds of individual men, each of
+whom not merely "knows," but also lives, feels, wills, believes,
+hopes, acts, and has all the manifold conscious states and
+activities which constitute human experience.
+Belief is commonly distinguished from and sometimes con-
+trasted with knowledge, but this is because the term has a
+variety of meanings. To believe in its primary meaning is to
+accept something as true on the word or authority of another.
+One of the main sources of our knowledge is the authority of our
+fellow-men. People do not generally realize—because it needs
+a little reflection to realize—what a vast proportion of our know-
+ledge comes to each of us individually through this source.
+Through it each of us has all his knowledge of the facts of
+history, most of his knowledge of the facts of geography, all his
+knowledge of what is actually going on in the world outside the
+very limited corner that falls under his own personal notice.
+People who decry "religious knowledge " because it is accepted
+1 For other and kindred implications of the term—" knowledge of a thing
+through its causes," "knowledge reached by demonstration," etc.—see below,
+S '3, P- 54; Science of Logic, ii.,§§ 251-4.
+28
+THEOR Y OF KNO WLEDGE
+on authority seem to forget that nine-tenths of the human race
+accept "scientific knowledge " only on authority, and that of the
+other tenth, the scientists themselves, each accepts nine-tenths of
+his scientific knowledge on the authority of his fellow-scientists
+and without exploring or verifying it for himself,—inasmuch as
+ten lifetimes, not to speak of one lifetime, would be too short to
+carry out such verification. Now knowledge accepted on author-
+ity is belief. In this sense of the term, therefore, belief is a
+department of knowledge. When we believe a person's state-
+ment we believe the person himself. This means that we know
+for certain his authority is reliable; and when we know this we
+know that what he tells us is true. Of course if we do not
+happen to know for certain that his authority for what he tells us
+is reliable we cannot know for certain that what he tells us is
+true. We cannot give to it the certain assent which will make it
+for us knowledge in the strict sense, i.e. certain possession of the
+truth.
+All knowledge proper is embodied in judgments. To assent
+to a judgment is to accept it and commit ourselves to it as true.
+When we do so we accept implicitly the grounds for the truth
+of the judgment as sufficient. When these grounds are in the
+judgment itself, or intrinsically connected with the judgment,
+and are in the nature of reasons appealing solely to our intellects,
+we are said commonly to "know" that the judgment is true.
+When they are in the nature of authority we are said to " be-
+lieve" that the judgment is true, and to "believe" the truth
+embodied in it; but here, provided the grounds are sufficient for
+a certain, i.e. a firm assent, and that we are not deceived, the
+belief will be knowledge.
+When the grounds are not in the nature of authority, nor yet,
+on the other hand, purely intellectual and such as to compel our
+assent, to amount to "demonstration," or admit of being stated
+in purely intellectual terms, but are nevertheless such that from
+their appeal to our whole mental nature, needs, and constitution,
+—including intellect, will, and emotions,—we pronounce them to
+be reasonably sufficient grounds for assenting to the judgment,—
+in such cases also we are commonly said to "believe" the latter
+to be true. Here, too, provided the grounds are sufficient, and
+we are not deceived, our belief will be knowledge: it will be firm
+adherence to a true judgment. Nevertheless, when we give
+assents of this latter kind we are commonly said to "believe"
+THE TERMS AND DATA OF THE INQUIRY 29
+rather than to "know" what is asserted in the judgments con-
+cerned, just as in the case of assents given on authority. Thus
+we are not only said to believe, e.g., that Socrates was put to death
+by the Athenians, but also, e.g., that "our faculties are capable
+of reaching truth," or that "truth and error are distinct and dis-
+tinguishable," or that "Nature is uniform". The grounds for
+such assents as these will be duly examined. Here we wish
+merely to point out that it is a fairly common usage to group to-
+gether assents based on authority, and assents based on grounds
+not exclusively intellectual, but in part volitional, affective, emo-
+tional, instinctive, and under the title of "belief" or "faith" to
+distinguish them from the purely intellectual assents which are
+supposed to give us "knowledge" or "science".
+Seeing that the grounds for the classes of assents described
+as "belief" are not so clear or cogent or capable of exact formu-
+lation as the grounds for those described as "knowledge," it
+should naturally be expected that the former term would gradually
+come to be applied to assents that are not firm or certain, to
+probable as distinct from certain knowledge, to opinion as distinct
+from certitude. And such is the actual usage. Hence the com-
+mon form of expression, "I do not know whether that is really
+so, but I believe it is" (or " I think it is "), where the term "know"
+connotes certain knowledge and the term " believe " (or "think ")
+connotes belief in the sense of opinion or probable knowledge.
+In this usage " belief" is distinguished from "knowledge" as
+"opinion " from "certitude ".
+Faith differs little in its meaning—or rather, in its meanings
+—from "belief". As a mental act or attitude or habit it is
+belief especially in religious truths on Divine authority. It is
+used objectively to signify a whole body or system of dogmas
+believed, just as the term "science" is used objectively to signify
+a whole body or system of truths known. In this sense " faith"
+is practically synonymous with "religion," and is distinguished
+from "science," as belief is from knowledge. The distinction is
+not one of opposition. The truths of faith and the truths of
+science are both alike truths; and truth cannot contradict truth.
+In so far as the assents of faith or religion are given to truths,
+and on sufficient grounds, they embody knowledge, and the
+systematization of such knowledge belongs to the science of
+Theology—the Theology of Faith.
+Of course there are multitudes who regard all religions
+30
+THEORY OF KNOWLEDGE
+or faiths objectively as systems of beliefs or assents based on
+instinctive, emotional needs, about matters concerning which
+knowledge is considered impossible. But if the motives of such
+assents are pronounced sufficient to produce certitude, when
+submitted to the judgment of our reason reflecting on them, we
+cannot help thinking that they are beliefs which give us knowledge,
+or in other words put us into possession of truth. If, however,
+the motives are not reasonably sufficient to produce certitude, then
+in such case our "faith" or " religion" is only a system of more
+or less probable opinions. The view that the assents of faith are
+concerned with a domain of realities wholly distinct from the
+domain of objects of knowledge we shall find to be erroneous.
+It exaggerates and misinterprets the distinction which we do un-
+doubtedly find between two great classes of our assents, namely,
+those given on clear and cogent intellectual grounds to the de-
+monstrated conclusions of the speculative sciences, and those
+given from much more complex, personal, practical motives to
+judgments of more intimate concern to the general outlook and
+ordering of our lives.1
+We have to bear in mind, then, that according to fairly
+common usage the terms "belief" and "faith" are not confined
+to assents given on authority, but embrace assents given to judg-
+ments which we accept indeed as true but to which we assent on
+grounds that are too complex to admit of being resolved into
+purely intellectual reasons amounting to the demonstration or
+the self-evidence deemed necessary for judgments constituting
+"knowledge" or " science ".
+When the judgments which we accept as true on authority
+have an intimate practical bearing on our own future, as they
+have in the case of supernatural religious beliefs, our assents are
+accompanied by the mental attitude of expectation, anticipation,
+hope, trust, confidence, reliance. The authority in whom we
+"believe" or "have faith" not merely vouches for a truth but
+makes a promise. Hence to "believe in " or to "have faith in"
+a person, commonly implies not merely accepting his authority
+for a truth but relying on his fidelity for the fulfilment of a pro-
+mise. Faith in this sense of trust, or confidence, or reliance (L.
+fiducid), implies not merely assent of the intellect to a truth but
+a whole complex mental attitude,—involving the activity of will,
+1 Cf. Newman's distinction between " notional " and " real" assents, Grammar
+of Assent (passim).
+THE TERMS AND DATA OF THE INQUIRY 31
+affections, emotions, etc.,—towards some person or persons as
+related to ourselves and influencing our lives. In so far as faith
+means merely assent to or belief in a truth, it is an act of the
+intellect; in so far as it includes confidence, reliance, trust, etc.,
+it is a much more complex mental process involving activities
+other than cognitive activities. Cognition, knowledge, science
+are processes and states of the mind as cognitive. Belief and
+faith involve assent to, or acceptance of, the knowledge acquired
+by these processes.
+Let us see next what introspection reveals regarding the
+various attitudes of our mind towards knowledge.
+7. Doubt. Opinion. Conviction. Certitude.—It is a
+common conviction of mankind that truth is distinguishable from
+error. It is an equally common conviction that although men
+easily fall into error, and easily remain in error, nevertheless they
+can and do possess some true knowledge concerning themselves
+and the universe. The human mind is recognized to be fallible
+in that it can adhere to error, mistaking this for truth. It is also
+recognized to be limited in its capacity inasmuch as no one be-
+lieves that all reality falls within the experience of any individual
+human being, and, therefore, there is much reality of which even
+the wisest human being must remain in ignorance. Finally,
+no human individual will claim that he fully understands all the
+reality which does fall within his experience: he will admit that
+there is much he is unable to interpret, unable to reach the truth
+or make up his mind about, so that he must suspend his judg-
+ment in reference to it and remain in doubt; and that there is
+much, perhaps, too, in regard to which, while he has a more or
+less strong opinion that he has reached the truth, still he is not
+certain, not sure, not convinced that he has, and so recognizes the
+possibility that he may be mistaken. But with all that,—at least
+if he be an ordinary man and not a philosopher of a certain school,
+—he will unhesitatingly declare and maintain that there are some
+things, indeed many things, about which he is absolutely certain
+that he has true knowledge, and in regard to which he is not and
+could not have been deceived. Nor will the most sceptical philo-
+sopher deny that all men, himself included, naturally and spon-
+taneously have such convictions. What he may question or deny
+is that any of these convictions are well grounded or will stand
+the test of critical analysis. With that, however, we are not here
+concerned, but merely with the fact that all men have spontaneous
+32
+THEORY OF KNOWLEDGE
+convictions, i.e. are naturally certain that they possess some true
+knowledge.
+Let us now look into our own minds a little and examine
+those mental attitudes of doubt, surmise, opinion (or "belief"), con-
+viction, and certitude or certainty, in regard to our knowledge.
+We are concerned at this stage only with noting the undisputed
+facts which are the data of our inquiry, and the meaning of the
+terms in which its problems will be stated.
+Doubt1 is the attitude of our minds towards a judgment which
+we find ourselves unable either to affirm or to deny: a state
+of hesitancy, suspense. Either we know nothing or practically
+nothing about the subject in question and have no grounds for
+determining whether or not the suggested judgment about it is
+true,—in which case our doubt is said to be negative,—or the
+grounds for and against the judgment appear practically equal,
+in which case the doubt is described as positive. In this latter
+case we form judgments, of course, about the grounds, but in
+neither case do we enunciate a judgment about the main subject
+itself. We suspend our judgment.
+Besides doubt, there is another state of uncertainty? viz.
+opinion or " belief". This is the attitude of the mind towards a
+judgment to which it inclines, and which it accepts and assents
+to provisionally as more or less likely to be true, more or less
+probable or "provable ". The mind does not know it to be true,
+is not certain of its truth, is conscious that it may possibly be
+false, and therefore does not assent to it firmly and definitively,
+but accepts it only provisionally. The strength of the mind's
+assent, of its .hold on such a judgment, may vary (with the
+weight of the motives) from a mere suspicion or surmise of its
+truth to a very steady adhesion whereby the mind accepts it—
+as it prudently may accept it—for a safe principle or rule of
+1 The etymology of the term reveals the oscillation of the mind between two
+objects, between affirming and denying. It is from the same root (dub) as double
+(dubius, dubitart). Cf. also the German zweifel (doubt) from zwei (two).
+'Sometimes the term "doubt" is used as the contradictory of conviction or
+certitude, as connoting merely the absence of the latter state, in which case it covers
+both suspense of all assent (positive or negative doubt in the strict sense) and opinion
+or probable assent. In this usage it is equivalent to "uncertainty ". Sometimes,
+too, it is used in the wider and improper sense of positive disbelief in the truth of a
+judgment, meaning a firm belief or conviction that the judgment is false. This, of
+course, is not really a state of doubt or uncertainty but a state of conviction. The
+student must, therefore, attend to the context for the meaning actually given to the
+term.
+THE TERMS AND DATA OF THE INQUIRY
+33
+action.1 But even then there is the consciousness that in accept-
+ing it there is a possibility—not a mere abstract possibility, but
+a real and concrete possibility—of error. This concrete possibility
+of error, when seen to persist, omnibus pensatis, begets in the
+mind a fear of error, which the mind deems it prudent to enter-
+tain, so that the mind does not repose in a definitive assent to the
+judgment as true.
+Over against these two states of uncertainty, and sharply con-
+trasted with uncertainty, is the mental attitude of conviction, cer-
+titude, certainty. Whereas the main affective characteristic of
+uncertainty, and more especially of doubt, as a psychic state or
+condition, is that of indetermination, unrest, instability, irksome-
+ness, that of certitude2 is rest, repose, stability. For certitude is
+the fixed or firm assent of the mind to a judgment as true. In this
+state the mind reposes, convinced that it has attained its object,
+that it is in possession of truth; whereas, while the mind is
+doubting, or merely inclining to a judgment as probably true,
+while it is still uncertain, while it is not sure, not convinced that
+the judgment is true, it is not at rest but conscious that it has
+still to work, to search, to examine, before it attains its object,
+which is repose in the possession of truth.
+So long as we entertain a prudent fear of error we have not
+conviction or certitude. The factor of prudence refers, of course,
+to our examination of the grounds and motives of our assent.
+When we are conscious to ourselves that the grounds of our as-
+sent are reasonably sufficient, in other words, when by a reason-
+able consideration of them they show the judgment to be true, then and then only can we have conviction or certitude, then
+alone can we say to ourselves, " I know that to be true". An
+"imprudent fear of error" is a fear that it would be unreasonable
+to entertain. If a person doubts merely because of such a fear
+1 This very high degree of probability is commonly called "practical certitude,"
+i.e. it is practically equivalent to certitude because men commonly act upon it in the
+practical affairs of life. Hence the saying, Probability is the guide of life. When
+we are not certain about the lawfulness of a given course of action, Moralists lay
+down principles whereby we can overcome the speculative doubt and determine the
+lawful line of conduct.
+"The term certitude (cerium, for cretum, from cerno, npivtiv, Kpirr\s) is from
+a root meaning to judge, decide, decree, pass sentence, after sifting, "discern-
+ing" (dis-, cerno), examining, the evidence. It therefore implies decision, finality,
+settlement. Sometimes a distinction is drawn between certitude as the state of
+mind and certainty as the characteristic of the judgment, as when we say, " That is
+a certainty ".
+VOL. I. 3
+34
+THEORY OF KNOWLEDGE
+it is because he misjudges it to be a prudent fear: if he considers
+it an imprudent fear he will reject it and assent firmly, i.e. with
+conviction or certitude, to the judgment in question. And while
+he is certain and remains certain he may advert to several such
+grounds of imprudent misgiving. It is about such that Newman
+somewhere says "a hundred difficulties do not make one doubt".
+Such vague and merely subjective misgivings as may arise from
+the consciousness that we are not infallible, or from the remem-
+brance that we have at times fallen into error, are not necessarily
+incompatible with the fixed or firm assent which constitutes con-
+viction. Men can and do retain multitudes of their spontaneous
+convictions even after full advertence to, and consideration of,
+their own mental limitations; and if some philosophers assert
+that the process of testing critically the grounds of certitude has
+ended for them in universal scepticism and destroyed their spon-
+taneous convictions, this assertion only proves that like the rest
+of mankind they too had such convictions.1 Nor has any one
+ever seriously denied the existence of spontaneous or natural
+certitude as a mental state distinct from that of doubt. The re-
+cognition of the distinction is in fact the starting-point of all
+critical inquiry into the validity of knowledge.
+The distinction between opinion on the one hand and con-
+viction or certitude on the other lies in the presence or absence
+of a prudent fear of error. If such fear is present it arises from
+the apprehended concrete possibility of error and impedes a firm
+assent; if it is absent the assent is firm and amounts to convic-
+tion or certitude.
+It is a fact of common experience that according to the
+weight of the motives for or against assent the mind may alter-
+nate between the states of doubt, opinion, and conviction or
+certitude in regard to the same judgment. The evidence for the
+truth of a probable judgment may increase up to the point at
+which all prudent fear of error is excluded, and at this point
+opinion passes into conviction or certitude. It is of the essence
+of opinion or probable assent that it admits of varying grades of
+intensity.
+Does conviction or certain assent also admit of varying
+1 Even after theoretically rejecting these convictions as speculatively unjustifi-
+able, sceptics nevertheless retain them as practical certitudes: they could not con-
+tinue to live otherwise, for almost every act of man's daily life is based on such
+convictions.
+THE TERMS AND DATA OF THE INQUIRY 35
+degrees of firmness? The common usage of language will not
+assist us materially in answering this question, for the terms in
+which people describe the character of their assents do not indi-
+cate any great accuracy or exactness of mental analysis. People
+often say lightly, "I am sure," "I am quite certain," "I have no
+doubt," etc., when a little reflection would convince them they
+were not really sure at all. Indeed when a person vehemently
+reasserts and reiterates that he is certain of a thing, this very fact
+is a pretty sure sign that he is not without some misgiving as to
+his position. Hence the assertion "I am more certain of this
+than I am of that,"—which, though perhaps unusual, is not un-
+heard of,—does not settle the question whether some certitudes
+are really firmer than others.
+It is obvious that on the negative side all certain assents must
+equally exclude prudent fear of error. But while all have this
+feature in common, may not some of them be positively firmer
+than others? Introspection reveals this much at all events, that
+there are some of my convictions which are never disturbed by
+any fear of error inasmuch as I cannot conceive the possibility of
+the judgments in question being erroneous, e.g., "two and two
+are four"; and that there are other convictions of mine accom-
+panied by the consciousness that they might possibly cease to be
+convictions, or perhaps by the memory that they were at one
+time only opinions or matters of doubt. Such for instance is my
+conviction that without the aid of Divine Revelation it would be
+morally impossible for the masses of mankind to reach and re-
+tain the religious knowledge necessary for the guidance of their
+lives in accordance with their nature and destiny. Such, too, are
+the convictions we shall describe later (11) as "free convictions,"
+—to which class belong most moral and religious beliefs. Intro-
+spection, moreover, reveals that these latter alone are accompanied
+by a fluctuating mass of volitional and emotional consciousness
+arising from their intimate personal influence on our lives. While
+the necessary assents which we give to speculative judgments on
+cogent evidence are characterized by an absence of emotion, a
+calmness and tranquillity, arising partly from the consciousness
+that they are indubitable and partly from the consciousness that
+they have no immediate practical bearing on the regulation of
+our lives and conduct, the assents which we freely give to the
+practical judgments of the other class are indeed firm, not how-
+ever with the immovable and unassailable fixity of assents on
+36
+THEOR Y OF KNO WLEDGE
+cogent evidence, but with a steadfastness begotten of mental
+effort; and while we hold these so firmly that we may be pre-
+pared even to die rather than relinquish them, still we are con-
+scious that they are exposed in our minds to the possibility of
+being shaken by the intrusion of fears, by suggestions of reasons
+for doubting, etc.,—though we see the imprudence of yielding to
+such suggestions, of entertaining such fears, of fostering such
+temptations.
+It is perhaps on this account that at first sight we are in-
+clined to say that the former certitudes are "firmer" than the
+latter. Reflection, however, while revealing profound differences
+between the total mental state in each case, does not corroborate
+the view that our assent to such a judgment, as, for instance,
+"the human soul is immortal," is one whit less firm,—provided
+we are convinced, and as long as we are convinced, of its truth,—
+than is our assent to such a judgment as "the whole is greater
+than its part". Provided I am convinced of the truth of both,
+i.e. provided I know for certain, or think that I know for certain,
+that both are true, then I hold them equally for true. My mental
+grasp is de facto equally firm in both cases, though I am quite
+conscious that in the one case I am exposed to mental influences
+which might possibly have the effect of loosening my grasp while
+in the other case I am not aware that any such influences are even
+possible.
+8. Cognitive and Non-cognitive States of Conscious-
+ness. Consciousness, Knowledge, and Objectivity.—Those
+states—of doubt, opinion, conviction, certitude—are, it need
+hardly be pointed out, cognitive states, states of the mind as cog-
+nitive, attitudes of the mind towards knowledge. The mind has
+other conscious states and activities which are not cognitive:
+wishes, desires, decisions, or choices, appetitive movements of
+various kinds, emotional and passional affections and feelings
+such as joy, anger, fear, pleasure, melancholy, etc. About all
+such states two things here claim our notice.
+Firstly: they are all distinct from the states mentioned above.
+Although volitional and emotional factors can and often do enter
+into the motives which produce the states of doubt, opinion, con-
+viction, or certitude, nevertheless these states are attitudes of the
+mind towards knowledge and truth: they are all concerned with
+assent to, or acceptance of, judgments as true, as embodying
+knowledge. They all refer the mind to an object made present
+THE TERMS AND DATA OF THE INQUIRY
+37
+to the mind by the state or process of cognition itself. The other
+states and processes do not of themselves refer the mind to any-
+thing beyond themselves. Considered in themselves, apart from
+the cognitions out of which they may have arisen and by which
+they are generally accompanied, they are merely mental facts, of
+which the mind as a conscious subject is aware.
+Secondly: although, therefore, they are not cognitive states
+they are conscious states: they are states of consciousness, of
+appetitive, volitional, emotional consciousness, as distinct from
+cognitive consciousness. All states of consciousness, all con-
+scious acts or processes, have this in common, that they make
+the conscious being somehow aware of himself in the concrete, of
+himself as living, doing, suffering, experiencing something: other-
+wise he would not be conscious. But this awareness, which is of
+the essence of all conscious activity, need not necessarily be of
+anything but the vaguest and most indefinite character. It does
+not necessarily imply the possession, by the conscious being, of
+any idea of "self" or "other," or even a conscious distinction,
+on the part of the conscious being, between himself and that of
+which he is conscious. Such an explicit awareness of the " self"
+as affected by conscious states, or as distinct from other beings,
+implies the exercise of introspection or reflex consciousness,1 and
+of the faculty of comparing, distinguishing, judging, i.e. it in-
+volves interpretation and therefore cognition in the strict sense.
+The simple awareness which is essential to direct consciousness
+even in its most rudimentary stage, involves none of all this.
+Although, therefore, direct consciousness may be called "cog-
+nition" or "knowledge" in a wide and loose sense, it is not
+knowledge properly speaking. It is of course an essential con-
+dition of the cognitive process, and may be regarded as an initial
+stage of this latter. But cognition or knowledge proper is the
+interpretation of something, the mental assertion of something
+about something.
+The mere presentation of something to a conscious being, and
+1 Psychologists are wont to puzzle over the question, how the mind can act
+consciously and at the same time by a reflex process watch or attend to its direct
+conscious processes: some arguing that what really happens is that the direct process
+when just past is immediately recalled or represented, that " all introspection is re-
+trospection "; others arguing that " all retrospection is introspection," inasmuch as
+when the mind does remember or recall a past process it must, while reproducing it,
+at that instant also attend to it. However it happens, the possibility of introspec-
+tion is proved by the fact of introspection: about the fact there can be no dispute.
+3»
+THEORY OF KNOWLEDGE
+its consequent presence in or to or before1 the mind of such a being,
+are not yet knowledge. It is only when the mind re-views or re-
+presents to itself the already present or presented something, and
+makes some mental assertion which in some way interprets this
+"something," that the mind begins to have knowledge (or pos-
+sibly error) about it. In this process of interpretation or judg-
+ment,—the exercise of which implies, as we shall see, some degree
+of mental development by which the mind through sense per-
+ception has acquired a stock of notions or concepts utilized in
+judging,—the mind characterizes in some way what has been
+presented to it, makes it to some extent definite, in some sense
+classifies it. Hence it has been said that "all cognition is recog-
+nition ": i.e. all cognition in the strict sense, in the sense in which
+it attains to truth or involves error.
+Hence mere sense perception, whereby through the function-
+ing of the sense faculties we become aware of something con-
+sciously affecting us in one or other of the modes with which
+sense experience has familiarized us, is not knowledge proper—of
+itself and apart from the interpretation that as a rule implicitly
+accompanies it. As interpreted, it is no longer mere perception
+but apperception, to use this term in one of its many meanings.2 As apperception, it is knowledge proper and must be either
+true or false. But as perception merely, it rather is or gives the
+raw material of knowledge. Hence, too, mere mental imagery
+is not of itself cognition, nor can the images formed by the con-
+structive or reproductive exercise of the imagination be regarded
+as knowledge; though the interpretation of them is knowledge.
+Hence, finally, mere intellectual conception, whereby we form
+the abstract and universal concepts, notions, or ideas expressed by
+abstract and general logical terms, is not cognition or knowledge,
+—apart from the interpretation or judgment which accompanies
+it. Neither of sense percepts, nor of imagination images, nor of
+intellectual concepts, nor of the logical terms which express in
+language those mental factors of knowledge, can it be properly
+said that they are either "true" or " false ".
+No doubt these products or results of conscious activity are
+factors of knowledge. All of them have that peculiar character-
+istic which marks off cognition from other forms of conscious
+1 These prepositions have of course in the above and similar contexts no local
+or spatial significance.
+1 Cf. Maher, Psychology, 5th edit., pp. 359-60.
+THE TERMS AND DATA OF THE INQUIRY 39
+activity, viz. the objective reference of the mind as conscious sub-
+ject to a something as distinct from the mental process whereby
+this " something" is made present to the mind as conscious. Ex-
+ternal sense perception refers us to a perceived material universe
+as distinct from our minds; the organic sense refers us to states
+of an organism felt as our own, yet distinct from our process of
+feeling; abstract concepts (and the logical terms which express
+them) refer us to a domain not identical with, but objective to,
+the thought-process of conception itself.1 But while this objec-
+tive reference is indeed there in all those cognitive states and
+processes, it is not and cannot be interpreted and asserted to be
+a valid reference to reality except in the mental act of judgment.
+It is only the copula of the logical judgment that asserts the ob-
+jects of this mental reference to be reality, and the relation be-
+tween mind and reality involved in this reference to be true or
+objectively valid knowledge. We may say, then, that all cogni-
+tive states or processes of consciousness have, in virtue of their
+natural objective reference, an interpretative objectivity, but that
+in judgment alone we have that consciously asserted objectivity
+(of the mental state as representative of reality) whereby the
+judgment is true or false?
+9. Truth. Error. Ignorance.—By knowledge simply we
+mean true knowledge. The absence of knowledge in a subject
+deemed capable of possessing knowledge we designate ignorance.
+The absence of knowledge in a subject not deemed capable of
+possessing knowledge, e.g. in a stick or a stone, we do not speak
+of as ignorance; we may describe it as nescience. Knowledge
+proper is embodied in the mental act of assertion or denial, in
+the judgment. So long as we abstain from judging we cannot
+err; but when we judge, our judgment must be either true or
+false. We never consciously assent to a judgment, i.e. accept it
+as true, as knowledge, if we know it to be false; indeed we can-
+not do so except through momentary inadvertence, and therefore
+unconsciously. But we can and do accept as true judgments
+which are really false,—thinking them, of course, to be true.
+When we accept a false or erroneous judgment as true we are
+in error. As we afterwards say when we discover our mistake:
+we thought we knew but in reality we did not; we thought
+we had knowledge but we really had not; we were farther re- 1 Cf. Science of Logic, i. pp. 248-52.
+2 Cf. Jbanniere, Criteriologia, pp. 78-9.
+40
+THEORY OF KNOWLEDGE
+moved from the possession of truth or true knowledge than if
+we had been merely in ignorance or in doubt, for we were in
+error.
+Now what is this TRUTH to which knowledge lays claim, and
+failing which it is not knowledge at all but error? Well, what-
+ever truth and error respectively may prove to be in the sequel,
+this much at all events is certain, that men universally believe
+truth and error to be distinct, and therefore distinguishable, and
+to be mutually exclusive opposites. This common conviction is
+one of the data of our general inquiry. And its existence im-
+plies that the broad conception or meaning attached to each of
+those two terms is familiar to, and understood by, men generally.
+What, then, do men generally mean by truth? They mean the
+conformity of thought with thing, the agreement of their knowledge
+with reality, the correspondence or concord of their judgments with
+the real state of things, the fidelity of their knowledge to facts.
+And by error they mean the exact opposite of all this, the discord
+of their judgment with facts, the disconformity of their supposed
+knowledge with reality, the disagreement of what they think to
+be with what really is. These are undoubtedly the notions which
+convey what men generally mean by truth and error respectively;
+and we have purposely varied the expressions in italics in order
+to bring out the common notions themselves underlying the varied
+expressions. Whether truth and error are really what these
+notions represent them to be, will appear in the sequel. We
+hope later by gradual explanation of them to show that they are
+valid notions. But whether these traditional and what we may
+call spontaneous conceptions of truth and error are correct or not,
+there is no denying the fact that they are the conceptions univer-
+sally entertained by mankind. Even the small minority consist-
+ing of those philosophers who think this common view of truth
+and error indefensible—even they entertained this very view be-
+fore they became so sophisticated as to reject it as untenable.
+When reality is as we "think," i.e. judge, it to be, then and then
+only does our "thinking" or judging deserve to be called "know-
+ing"; then and then only is it true: when reality is otherwise,
+then is our "thinking" or judging false, then it is no longer
+"knowing" but, so to speak, wz/j-knowing, mis-judging, falling
+into error. Such, then, is what men ordinarily understand by
+truth and error. And we have seen that all men have spontane-
+ous convictions: they are certain that they know some truths,
+THE TERMS AND DATA OF THE INQUIRY 41
+i.e. that some of their judgments are certainly in conformity with
+facts, with reality.
+Every judgment to which we assent with certitude is accom-
+panied, in the very act of mentally asserting it (" in actu exercito"
+as the technical language of the schools has it), by an implicit
+"I know". Every judgment asserted as true implicitly an-
+nounces its own truth. If, over and above this, we reflect on the
+judgment and by a distinct mental act assert its truth, we are
+said to become explicitly aware of its truth and to know the
+latter "in actu signato ".
+Are we justified in regarding truth or true knowledge as a
+conformity of our judgments with reality, a conformity whereby
+we get a genuine insight into reality as it is? Are we justified
+in entertaining the spontaneous conviction or certitude that we
+have any such knowledge? These are the main problems that
+confront us. So far we have been merely observing the terms
+and the data of such problems. It is clear that their solution
+can be arrived at only by a searching analysis of our cognitive
+processes and states,—supplemented for each individual inquirer
+by his observing, and noticing the significance of, what others
+spontaneously believe in regard to their capacity for, and pro-
+gress in, the discovery of truth. St. Thomas, in a remarkable
+passage in the Quaestiones Disputatae, insists on the need of this
+introspection for what we may call a reasoned and certain know-
+ledge of truth, implying that this introspection will confirm our
+fundamental natural conviction that it is the very nature of the
+mind to know reality. "We have certain knowledge of the
+truth," he says, "inasmuch as (1) we attain to truth by an act of
+the intellect, and (2) we know that we do so. We attain to truth
+by an operation of the intellect inasmuch as the judgment of the
+intellect gives us an insight into reality as it is. And we know,
+that it does so by reflecting on that operation and seeing not
+merely that the judgment is formed, but that it is conformed to
+the reality. But to see that the conformity is there we must
+understand the nature of the act of judgment; which in turn can
+be known only by knowing the nature of the principle whence it
+springs; and this principle is the intellect itself, the nature of
+which is to conform itself to reality. Hence the intellect knows
+that it possesses truth by reflecting on itself." 1
+1 The following is the passage freely rendered in the text. We have italicized
+the phrases implying the conviction that the mind can know reality as it is:—
+"Veritas est in intellect!) . . . sicut consequens actum intellectus, et sicut cog- 42
+THEORY OF KNOWLEDGE
+In searching out the data of our inquiries it is lawful for each
+of us to supplement introspection by observing the common con-
+victions and beliefs of his fellow-men,—provided these convictions
+and beliefs are simply noted as facts. Of course the assumption
+by each individual inquirer that they are facts for him seems
+to imply the validity of his own conviction that he has fellow-
+inquirers distinct from himself, and that there is distinct from his
+own mind a real world in which he and they exist in common.
+But this conviction of his does not really prejudge the nature of
+the relation between his own mind on the one hand and the reality
+of the world and his fellow-men on the other. In so far as this
+conviction is a belief that the world and his fellow-men have a
+real existence distinct from, and independent of, his knowledge
+of them, it is a provisional belief which he can hold himself pre-
+pared to review with critical impartiality. But that the world
+and his fellow-men are undeniable facts which enter into his
+mental experience—this is not an assumption but a fundamental
+datum which he can and must take as a starting-point. The con-
+tention, which seems to have been fostered by Descartes and
+Kant, that when an individual in mature life undertakes the criti-
+cal investigation of the possibility and validity of human know-
+ledge and certitude he must discard all previous experience and
+all presuppositions, set out with the conception of a pure thinking
+entity thus reduced to a tabula rasa or pure potentiality, and en-
+deavour to discover how such an entity can gain any knowledge
+or experience whatever,—such a contention, if strictly adhered to,
+as of course it never has been in fact, would paralyse all effort to
+criticize knowledge by leaving nothing to investigate. Deferring
+this for further elucidation when we come to deal with doubt as
+a method, let us here pursue somewhat further the psychological
+nita per intellectum; consequitur namque intellectus operationem secundum quod
+judicium intellectus est de re secundum quod est; cognoscitur autem ab intellectu
+secundum quod intellectus reflectitur super suum actum, non solum secundum quod
+cognoscit actum suum, sed secundum quod cognoscit proportionem ejus ad rem:
+quod quidem cognosci non potest, nisi cognoscatur natura ipsius actus, quae cog-
+nosci non potest nisi cognoscatur natura principii activi, quod est ipse intellectus, in
+cujus natura est quod rebus conformetur: unde secundum hoc cognoscit veritatem
+intellectus quod supra seipsum reflectitur."—De Veritate, i., 9. When he says that
+we cannot know the nature of the act of judgment unless through knowledge of the
+nature of the intellect, he refers of course to a synthetic knowledge by "causal"
+demonstration [cf. Science of Logic, ii., §§ 252-4]. Our knowledge of the nature of
+intellect, as of any faculty, can be reached only through observation of, and reason-
+ing from, its operations.
+THE TERMS AND DATA OF THE INQUIRY
+investigation by which we have already noted some of the most
+elementary data concerning truth and the mind's spontaneous
+convictions in regard to the possession of truth.
+10. Faculties and Sources of Knowledge. Classifica-
+tion of Spontaneous Convictions.—A general glance at the
+faculties by the exercise of which men acquire what they believe
+to be certain knowledge will enable us to reach at least a rough
+classification of those spontaneous convictions. By means of our
+external senses,—sight, hearing, taste, smell, touch,—we have
+revealed to us certain data which are, so to speak, the raw
+materials of our knowledge of an external material universe. Then
+we have the internal sense of organic touch whereby we are made
+aware of what we interpret to be states or conditions of our own
+bodies. Furthermore we have the faculties of memory and im-
+agination whereby we recall past experiences, compound and
+construct mental images, associate and co-ordinate mental states
+according to laws discovered and formulated by psychologists.
+Finally we have the faculty of thinking, in the stricter sense, i.e.
+of forming the intellectual concepts or notions expressed in language
+by abstract and general logical terms, of interpreting or judging
+all the data of conscious experience by means of those concepts,
+of reasoning from those interpretations and so making progress
+in knowledge. For the present we assume nothing and assert
+nothing as to the nature of those processes or the ultimate origin
+of the data with which they are concerned. We simply observe
+by introspection the fact that not merely have we sense percep-
+tions, imagination images, processes of memory and mental as-
+sociation, but also that we have a fund of intellectual concepts
+or notions; that we take these notions as representing aspects of
+reality; that by means of them we interpret the data of our sense
+perceptions which we likewise believe to be perceptions of reality;
+that by the mental analysis and synthesis involved in judgment
+and reasoning we think we reach some true and certain know-
+ledge of reality.
+Now while all the other cognitive processes lead up to know-
+ledge, it is in the mental act of judgment, of affirming or denying,
+that knowledge is formally contained. Can we reach any classi-
+fication of knowledge, i.e. of our judgments, on the basis of the
+sources whence their contents are immediately derived, or which
+comes to the same thing—of the processes which immediately sub-
+serve the formation of them?
+44
+THEOR Y OF KNO WLEDGR
+(1) In the first place we have immediate judgments of sense
+perception, judgments whereby we interpret individual facts of
+internal or external sense experience, as " I am writing," "it is
+raining," "this is a shilling," "that is the sound of the night mail
+passing". Such judgments are all singular and contingent; they
+assert the real existence or happening of some individual con-
+tingent thing or event; or characterize it in some way. Hence
+we may also call them judgments of identification, designation,
+classification,—whereby we recognize certain attributes as char-
+acterizing individual things or events and designate these ac-
+cordingly. They are synthetic judgments, i.e. the information
+given by such judgments is derived not from any analysis of
+our concept of their respective subjects, but from experience.
+In fact the only concept we have of the subject, as such, is
+the concept of "this being, thing, or event": "hoc aliquid";
+roSe tL
+They give rise to the broad critical question of the trustworthiness, or the
+proper interpretation, of the data of sense experience; and also to the ques-
+tion: What relation does the content of our universal concepts bear to the
+data of our sense experience?
+(2) Secondly, we have immediate judgments derived from ana-
+lysis and comparison of abstract ideas, as "the whole is greater
+than its part," "two and two are four," "a judgment cannot be
+both true and false," " injustice is wrong," " virtue is praiseworthy ".
+Like those of the previous class, such judgments also appear to
+be immediately evident, but unlike the former they seem to be
+necessarily and therefore also universally true: they are analytic,
+for the relation between predicate and subject is seen, by analysis
+of these latter, to arise necessarily from a comparison of them.
+They are called axioms or first principles. The existence of such
+a class of judgment is undisputed, though there has been much
+controversy as to whether such or such a judgment,—e.g. "What-
+ever happens has a cause "; "the course of Nature is uniform,"—
+belongs to this class. Likewise their necessary character, their
+power of compelling our intellectual assent, is undisputed, though
+the nature and origin of this necessity are variously explained.
+Moreover, the significance of such judgments, or in other words
+the question: What insight, if any, do such abstract, necessary,
+and universal judgments give us into reality?—will also have to be
+examined.
+THE TERMS AND DATA OF THE INQUIRY 45
+They reveal to the mind a system or domain of thought-objects, within
+which such necessary relations seem to hold sway. Is this domain real t If
+not, then no knowledge of reality seems possible: for all science and know-
+ledge, all reasoning and judging, involve such principles.1 U the domain of
+these abstract thought-objects and the relations between them be real, then
+how is it related to the data revealed in sense experience ?—the question of
+"universals" under another form.
+(3) Thirdly, we have mediate judgments derived by deductive
+reasoning from those of the preceding class. The conclusions
+of the pure mathematical sciences are the best example of such
+judgments: e.g. "the three interior angles of any plane triangle
+are equal to two right angles". The faculty of apprehending
+the principles belonging to the preceding class is called intelligence
+or intellect; the faculty of deriving from them the conclusions
+belonging to the present class is called reason. In both classes
+the mind is contemplating what we may call pure or abstract
+thought-objects or essences, and the relations between such, with-
+out any immediate or direct reference of them to what we may
+describe as the domain of concrete existences and happenings
+revealed in sense experience; whereas in judgments of class (1)
+we are explicitly interpreting these concrete existences and
+happenings. If we designate these latter judgments as truths of
+the real order, and judgments about abstract thought-objects or
+essences as truths of the ideal order, we must not be understood
+as prejudging in any way the validity of either class of judgments
+as conveying to our minds a genuine knowledge of reality. Con-
+clusions reached by deductive reasoning, in the pure or abstract
+sciences, from the principles referred to in class (2) imply of
+1 Even the elementary contingent judgment, such as " I am writing," yields in-
+telligible knowledge only by its embodying in itself the principles of identity and
+contradiction, and these principles appear to be necessarily and universally true.
+Furthermore, an admitted characteristic of scientific knowledge is that it is know-
+ledge of necessary and universal judgments, whether these be first principles or de-
+rived conclusions. Are such judgments interpretations of reality? Are they
+interpretations of the data of sense experience, and does this latter reveal reality?
+How can a human being who is himself a contingent individual, and whose existence
+appears to be limited in time and space, attain to judgments which appear to be true
+necessarily and universally for all time and space, or rather independently of all
+time and space, and which appear also to give him genuine knowledge of reality?
+Are time and space then real? Are the data of our sense experience, which are in-
+terpreted by us to be temporal and spatial,—are they really temporal and spatial?
+Or is that alone real which is revealed to us through necessary and universal judg-
+ments,— i.e. the domain of static, purely intellectual thought-objects with their
+eternal and immutable relations? These are some of the questions which a more
+mature reflection on our cognitive processes has repeatedly suggested for solution—
+as far as solution may be possible—to the inquiring mind.
+46
+THEORY OF KNOWLEDGE
+course for their own validity not only the validity of the prin-
+ciples from which they are inferred but also that of the formal or
+logical principles of deductive reasoning according to which they
+are inferred.
+(4) Fourthly, we have what we may call judgments of gener-
+alization or induction, whereby we transcend by thought the
+limits of our past and present sense experience and assert that
+what we have found to be true of all experienced instances of
+some thing or event is likewise true of the unexperienced in-
+stances, and of all possible instances, of that thing or event.
+The judgments of classes (2) and (3) we saw to be universal be-
+cause necessary: "All wholes are greater than their parts because
+the whole as such is necessarily greater than its part". "All
+plane triangles have the sum of their interior angles equal to two
+right angles because this is necessarily true of the plane triangle
+as such." Now we encounter another class of universal judg-
+ments which are reached not by analysis and comparison of
+abstract concepts, or deductive reasoning from the necessary
+principles revealed by such analysis and comparison, but by
+a process of generalizing from actually experienced facts—not,
+however, without the aid of some "necessary" principles. These
+universal judgments, thus reached by inductive generalization,
+refer to, and are concerned with, what we have called the real
+order, the domain of the concrete things and events revealed
+through sense experience. And it needs but little reflection to
+convince us what a very considerable proportion of our knowledge
+has been reached by each of us through this generalizing process.
+It is not merely the inductive scientist who employs it. He does
+so in the most careful manner according to the canons of in-
+ductive logic; but every human individual employs it in a quasi-
+instinctive, rough and ready way from the time he reaches the
+use of reason. By means of it, for instance, Newton discovered
+the law of universal gravitation; but no less by means of it have
+we all learned that fire burns, that unsupported bodies fall to
+the earth, that food nourishes, that living things are born and
+die, that where only oats are sown we cannot reap wheat,
+that children imitate the example of their elders, etc., etc. By
+means of it we acquire some knowledge of the characteristic
+properties of the classes of things and events revealed in sense
+experience, and thence of their natures and modes of behaviour,
+and of the causes and conditions of their existence and occur-
+THE TERMS AND DATA OF THE INQUIRY
+47
+rence. Thus we are led1 from acquaintance with directly per-
+ceptible realities to the intellectual apprehension or discovery of
+realities that are not themselves perceptible by the senses,—from
+effects to causes, from actions to agents, from conduct to nature,
+from singular to universal.
+Now the process of reaching such universal judgments from
+particular sense experiences involves on our part the tacit ac-
+ceptance or assumption of the validity of this general principle:
+that Nature is uniform in its modes of existence and action; that
+the world of which we have experience is not chaotic, capricious,
+unreliable, but orderly, regular, reliable; that it is, so to speak,
+"of a piece" within and without our experience, so that from the
+former portion we can learn about the latter; that the domain of
+our experience, which we find to be in some measure intelligible,
+to admit of rational interpretation and explanation up to the
+limits of the cognitive powers of our finite minds, is the real uni-
+verse, and is verily as our knowledge represents it to be, so far as
+our knowledge of it goes.
+Whether or in what sense this conviction of ours is based upon our actual
+experience; whether or in what sense it is a necessary presupposition for
+having intelligible experience; whether or how far it springs from an instinct
+of our nature as intelligent or rational; whether the conviction is validly ap-
+plicable to the real universe, or only to the domain of appearances or phe-
+nomena within the individual mind; what is the exact scope or extent of the
+domain to which it does apply; on what rational grounds is it ultimately
+justifiable,—these are some of the critical questions to which reflection on this
+conviction naturally gives rise." And reflection will also suggest that this
+conviction is perhaps inseparably bound up with our spontaneous belief that
+on the one hand the real world is knowable or intelligible, and that on the
+other hand our minds are capable of attaining to some true and certain
+knowledge concerning it.
+Judgments reached by inductive generalization from sense
+experience present themselves to our minds as distinct from those
+ofclass(i)in that the latter are singular while the former are
+universal; but both classes alike are synthetic judgments. Those
+of the present class likewise differ from the judgments of classes
+(2) and (3) inasmuch as they do not present themselves to the
+1 Or think we are led—from what we think to be realities—to what we think to
+be other realities. The validity of this spontaneous thinking is at the present stage
+an open question;
+"For a detailed treatment of some of those questions, cf. Science of Logic, ii.,
+Part IV., chap. iv.; Part V.,chap. i.

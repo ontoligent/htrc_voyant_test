@@ -1,0 +1,2650 @@
+
+
+
+1
+E P I S T E M O L O G Y
+OR THE
+THEORY OF KNOWLEDGE
+AN INTRODUCTION TO GENERAL METAPHYSICS
+BY
+P. COFFEY, Ph.D. (Louvain)
+PROFESSOR OF LOGIC anD MbTaPHYSICS, MaYnOOTH COLLbGF-, IRbLanD
+IN TWO VOLUMES
+Vol. II
+PART IV. THE DATA OF INTELLECTUAL KNOWLEDGE;
+SENSE PERCEPTION
+PART V. TRUTH AND CERTITUDE: THEIR CRITERIA
+AND MOTIVES
+LONGMANS, GREEN AND CO.
+39 PATERNOSTER ROW, LONDON
+FOURTH AVENUE & 30th STREET, NEW YORK
+BOMBAY, CALCUTTA, AND MADRAS
+1917
+CONTENTS OF VOLUME II.
+PART IV.
+THE DATA OF INTELLECTUAL KNOWLEDGE; SENSE
+PERCEPTION.
+CHAPTER XIII.
+Self-Consciousness and Memory.
+PAoK
+95. Transition to Sense Perception. Terms and Distinctions ... 1
+96. Data, Interpretations, and Implications of Consciousness ... 2
+97. Truths Revealed by Introspective Rational Analysis of the Data of
+Consciousness 5
+98. Memory, Self-Identity, and Time Duration 10
+99. Truths Revealed by Introspective Rational Analysis of the Data of
+Memory 12
+100. Consciousness of Self and Cognition ol the External Universe . . 15
+CHAPTER XIV.
+EXTRaMbnTaL RbaLITY. THE EXTERNaL UNIVbRSb.
+101. Reality of the Cognitive Acts or States of the " Ego," compared with
+Reality of their Objects' ig
+102. Is the Reality (" Esse") of Conscious States Identical with their Ap-
+prehension (" Percipi")? 21
+103. Alternative Methods of Justifying Spontaneous Belief in the Existence
+of an External Material Universe. (A) Transition Effected by Appeal
+to the Principle of Causality 2.1
+104. Criticism of First Alternative 26
+105. (B) Spontaneous Conviction of the Existence of an External Material
+Universe Rationally Justified by Intellectual Reflection on the
+Nature and Characteristics of External Sense Data . .31
+CHAPTER XV.
+Validity of Sense Perception: Real Existence of an External, Material
+Universe.
+106. The Facts of Sense Perception 37
+107. Their Psychological Explanation and their Significance for Epistemology 3g
+108. The Problems and the Theories 41
+v
+373980
+vi
+TABLE OF CONTENTS
+PAGE
+109. Direct Vindication of Belief in the Real Existence of a Mind-Independent,
+External, Extended, Material Universe 44
+110. Solution of the General "A Priori" Difficulty of Idealism against this
+Belief 46
+in. Indirect Confirmation of this Belief by Appeal to the Principle of
+Causality 51
+CHAPTER XVI.
+Perception of Sense Qualities.
+112. Two Realist Theories of Sense Perception 64
+113. Their Bearing on the Problem of its Validity 69
+114. Relation of "Proper" and "Common" Sensibles, of " Sensibilia per
+se " and "iSensibilia per accidens," to Intellect .... 75
+115. Extramental Reality of the " Common " Sensibles, or " Primary" Sense
+Qualities, Vindicated 81
+116. Distinction of the Perceiver's Organism or Body from the " External"
+Universe 86
+CHAPTER XVII.
+Relativity of Sbnse Qualities to Perceiver.
+117. R6Ie of Perceiver's Organism as Partial Determinant of " External"
+Sense Qualities 89
+118. Relativity of External Sense Qualities to Perceiver's Organism. Sense
+Illusions and Deceptions. "Infallibility" of Perception gi
+ng. Conditions of " Normal" and " Abnormal " Sense Perception . . 95
+120. Epistemological Import of the Distinction 97
+121. The Nature of External Sense Perception Involves Relativity of all Ex-
+ternal Sense Qualities (including Concrete Externality itself) to
+Perceiver's Organism 99
+CHAPTER XVIII.
+External Reality of All Sense Qualities Vindicated. "Hyperphysical
+Idealism" and "Physical Realism ".
+122. In Normal Conditions of Perception Organic Relativity is Compatible
+with External Reality of Sense Qualities 104
+123. Secondary Sense Qualities are no less Externally Real and no more De-
+pendent on Perceiver for what they are Perceived to be, than Primary
+Qualities. Berkeley's Immaterialism 107
+124. Physical Science and the Sense Qualities. Presuppositions of Scientific
+Theories. Physical Realism 124
+CHAPTER XIX.
+Subjective Idealism, Inferential Realism, and Intuitive Realism.
+125. Idealism and the Sense Qualities: Abuse of "Inference by Similarity"
+from " Representations" 139
+126. General Difficulties against Critical Perceptionism 151
+127. The Main Difficulty 159
+TABLE OF CONTENTS
+vii
+CHAPTER XX.
+Idealism and the Distinction between "Appearance" and " Reality".
+paoi
+128. Analysis of the Distinction between what Things "Are" and what they
+"Appear" 167
+129. How Kant derives Two "Things " from One "Appearing Thing" . 177
+CHAPTER XXI.
+Kant's Theory op Sense Perception, Space and Time.
+130. General View of Kant's Doctrine of Sense Perception .... 184
+131. Kant's Account of " Forms of Intuition " Confused and Ambiguous . 187
+132. Space not an " A Priori" Perception. Analysis of Kant's Arguments . 190
+133. Space not a Property of Mere Mental Appearances or Phenomena, but
+of M aterial Realities 196
+134. Kant's Doctrine of Time as an "A Priori" Form of " Internal " Per-
+ception 202
+PART V.
+TRUTH AND CERTITUDE: THEIR CRITERIA AND MOTIVES.
+CHAPTER XXII.
+Retrospect. Relativist Theories of Knowledge.
+135. The Relativity of Knowledge. True and False Relativisms . . . 208
+136. Epistemological Significance of Distinction Between Sense and Intellect 212
+137. Validity of Concepts Reviewed 216
+138. Truth of Contingent Judgments Absolute 219
+139. Truth of Necessary Judgments Absolute 222
+140. Some Relativist Difficulties 225
+141. Scholasticism and Kantian Relativism 228
+142. The Evolutionary Form of Relativism 232
+143. Truths Overlooked or Perverted in the Evolutionary Theory . . . 235
+144. Criticism of the Theory 238
+CHAPTER XXIII.
+Truth and Evidence.
+145. Objectivity and Truth 245
+146. Definition of Truth . I 248
+147. The Objective Term of the Truth-Relation is Extramental, Real and
+Attainable 231
+148. Criteria of Truth and Motives of Certitude 255
+149. Evidence as the Supreme Criterion of Truth and the Ultimate Motive
+of Certitude 261
+150. Application of the Doctrine to Mediate Evidence 263
+151. Application to Immediate Sense Evidence 265
+152. Application to Immediate Evidence of Principles of the Ideal Order . 271
+153. "Testing" Evidence. Infallibility of Intellect 273
+154. Reflection Shows the Cogent Evidence for Spontaneous Assents to be
+Sufficient Evidence for Reasoned Certitude 277
+viii
+TABLE OF CONTENTS
+CHAPTER XXIV.
+Other Intellectualist Theories of Certitude. Traditionalism.
+PAGE
+155. Other Tests. Spencer. Descartes. Circular Theories . . . 281
+156. Consistency as a Test of Truth. Relativist and Hegelian Conceptions
+of Truth as Consistency ......... 284
+157. Fideism: Historical Causes 290
+158. Exposition of Traditionalist Theories 293
+159. General Criticism of Traditionalist Theories 298
+160. Examination of De Bonald's Theory 300
+i6r. Theory of De Lamennais Examined. General Assent as a Test of
+Truth 303
+162. "Common Sense" as a Criterion: the Scottish School. Natural In-
+telligence and Concrete Evidence 307
+163. Modified Traditionalism. Its Soul of Truth. Traditionalism, Rational-
+ism, and Catholic Teaching 311
+CHAPTER XXV.
+Anti-Intellectualist Theories. Kant's Moral Dogmatism. Pragmatism
+and Humanism.
+164. Some Illustrations of Anti-Intellectualist Theories of Certitude. General
+Argument against Sentimentalist and Voluntarist Theories . . 318
+165. Voluntarist Objections. Misconception of Intellectualism . . . 322
+166. Kant's Moral Dogmatism of the Practical Reason 326
+167. Critique of Moral Dogmatism. The " Categorical Imperative " and its
+Implications 330
+168. The Two Critiques Compared. Inconsistencies of Kant's System as a
+Whole 336
+169. Later Anti-Intellectualist Theories: Social Dogmatism. Christian
+Apologetics 344
+170. Outjjne of Pragmatism and Humanism 353
+171. General Arguments against Pragmatism 357
+172. The Pragmatist Criterion Examined. Special Argument Outlined . 359
+173. Conclusion. Possibility and Sources of Error. The Problems of
+Epistemology 366
+Index 373
+PART IV.
+THE DATA OF INTELLECTUAL KNOWLEDGE; SENSE
+PERCEPTION.
+CHAPTER XIII.
+self-consciousness and memory.
+95. Transition to Sense Perception. Terms and
+Distinctions.—When examining the terms and data of our
+general inquiry in the opening chapter, we distinguished (8) be-
+tween knowledge proper and mere consciousness; between reflex
+consciousness and the implicit, concomitant awareness which
+the conscious subject necessarily has of itself in all its conscious
+states or activities, without which these could not be conscious,
+and which is usually described as direct consciousness; between
+non-cognitive (volitional, emotional, etc.) and cognitive con-
+sciousness; between the interpretative objectivity of those cog-
+nitive states of consciousness which fall short of judgment, and
+the formal or consciously asserted objectivity of the judgment
+itself. We have also been obliged, in our exposition of the
+doctrines of Descartes, Kant and Scholasticism (77), to discuss at
+some length the nature and validity of our awareness of the self
+as a concrete, existing, individual reality. Presupposing what
+has been said already in those connexions we may be brief in
+our present exposition of the cognitive value or significance of
+the facts of consciousness and memory,—an exposition which
+will serve as a necessary and natural transition from intellectual
+knowledge to sense knowledge.
+The psychological distinction between intellectual conscious-
+ness, whereby we are aware of our intellectual activities such as
+thought and volition,—and sense consciousness, whereby we are
+aware of our external sense functions and the states and con-
+ditions of our bodies,—is not itself a datum of consciousness,
+but an inference arising from introspection and based on the
+vol. n. 1
+2 :THEOR Y OF KNOIVLEDGE
+diversity of the objects presented in the conscious states. As an
+activity, consciousness of whatsoever kind reveals itself as be-
+longing wholly to the one conscious self or Ego.
+The distinction between direct and reflex consciousness is
+itself a datum of human consciousness: we are aware of the
+difference between any direct cognitive act (direct consciousness)
+and the act whereby we deliberately make our own conscious
+activities (psychological reflection), or their objects (ontological
+reflection), the object of special and distinct contemplation. From
+the nature of this activity scholastic psychologists infer the im-
+material or spiritual nature of the faculty which elicits it,—the
+intellect,—for the reason that no cognitive power of the sense
+order, functioning through an animated material organ, could
+possibly elicit such a reflex cognitive act. Whatever about the
+nature of the faculty, or the implications of the fact, of reflex
+consciousness, there can at all events be no doubt about the fact
+itself.
+96. Data, Interpretations, and Implications of Con-
+sciousness.—Consciousness, of whatsoever kind, makes us di-
+rectly and immediately aware of something,—which "something"
+we call the datum or object of consciousness. This, too, is un-
+deniable. We may, therefore, describe the insight which con-
+sciousness gives us into its object as "intuitive," as a direct and
+immediate awareness of the mental presence of something, or of
+something as having an esse ideale, a "mental existence" for us.
+This raises two points for consideration.
+One is that we must consciously apprehend at least some of
+the data thus present to us, as really existing or happening; or
+. at all events that we must intellectually interpret our consciousness
+of some data as revealing the real existence or happening of such
+data.1 Otherwise we could have no conception of real existence,
+whereas it is a fact of consciousness that we have such a concep-
+tion. But sense consciousness, or the mere direct awareness of
+something as present, does not itself analyse the implications of
+this presence, or reach the distinction between "existing as an
+object of consciousness" and " existing really ". It must be in-
+tellect,—or, if we may say so, consciousness as intellectual,—that
+1 This does not imply anything more than the recognition that the presence of
+data in consciousness implies some real existence—at least the real existence of the
+conscious or cognitive process. But even this attribution of real existence requires
+and implies the operation of intellect.
+SELF-CONSCIOUSNESS AND MEMORY
+3
+makes us aware of the " something present " as " something really
+happening or existing ".
+A second consideration, then, is this: Since all the objects of
+consciousness proper are the conscious mental activities, functions,
+processes, states, and conditions of the conscious subject;1 and
+since these are all concrete, individual data,—even those of them
+that belong to the higher domain of mental life, such as judg-
+ments, inferences, volitions, etc.,—it follows that if we describe
+our direct consciousness of these latter activities as "intellectual
+consciousness," we are according to intellect (in its capacity as
+"consciousness") a power of intuitively apprehending "indi-
+viduals," viz. our individual mental acts (thoughts, volitions, etc.)
+of the higher or spiritual domain (77). If we hold that in ex-
+ercising the function of external or internal sense perception, we
+are through the sense faculty made concomitantly aware of the act
+of perception,2 we may and ought to hold, too, that in exercis-
+ing any conscious intellectual function (e.g. conceiving, judging,
+reasoning), we are made, through the intellect, indirectly and con-
+comitantly aware of this individual function as actually taking
+place. Every cognitive act, whether sensuous or intellectual,
+must thus concomitantly reveal itself in individuo, to the knowing
+subject: not the act apart from its content or object, or apart
+from its subject or agent, but the whole concrete experience,
+afterwards analysed into agent, act, and object. Intellect would
+thus, as consciousness, indirectly reveal an individual thing or
+event as existing or happening (viz. the higher mental act in
+question: judging, reasoning, willing, etc.); and would then, as
+intellect, apprehend the abstract nature or essence of the act, and
+go on to analyse its implications as to the nature of the human
+faculty, and of the human agent, capable of eliciting such an act.
+If, then, the proper object of the human intellect be the natures
+or essences of corporeal things, considered in the abstract and as
+universal, it must be added that all our intellectual cognition has,
+as concomitant object, its own individual acts, not in the abstract,
+1 We do not say " I am conscious of a sound," but, " I hear a sound," and, " I
+am conscious of hearing it "; nor, " I am conscious of material substance," but, " I
+am thinking of material substance," and, " I am conscious of thinking about it";
+nor, " I am conscious that two and two are four," but, " I judge or understand, or see
+(intellectually) that two and two are four," and, " I am conscious of seeing it ".
+2Otherwise it would not be a cognitive act: some degree of such concomitant
+awareness of the subjeclum cognoscens is essentially involved in all cognition (S).
+4
+THEORY OF KNOWLEDGE
+but as the concrete acts of the individual self-conscious Ego ap-
+prehending some definite datum or object.
+It is commonly said that there are data of consciousness which
+all philosophers agree in recognizing as such, as being unques-
+tioned and unquestionable, and as forming the starting-points
+of all philosophical discussion.1 And this is quite true.2 But
+inasmuch as from the very dawn of reason in each of us our in-
+tellects have been spontaneously scrutinizing these data, it is not
+easy to distinguish between what are really data and what are
+interpretations of, and inferences from, the data. And the dif-
+ficulty is unavoidably aggravated by the fact that we can discuss
+these data only as envisaged in introspection by intellectual
+scrutiny. The very terms we use in describing them are terms
+which apply to them as conceived by intellect. We have, in fact,
+no direct conscious experience of these data as they would ap-
+pear to a being endowed with sense consciousness alone,—such as
+we suppose the lower animals to be. It is only by a careful
+and prolonged process of abstraction that we can mentally sepa-
+rate our own intellectual interpretation from the data of sense
+cognition and sense consciousness, and thus get down to the
+ever-changing, fluctuating, ebbing and flowing stream of external
+and internal sense impressions which form the elementary con-
+tents of sense consciousness. From the standpoint of epistemo-
+logy, however, the difficulty of thus discriminating between the
+data and our interpretations of them,—or of drawing the distinc-
+tion between data of sense consciousness and data of intellectual
+consciousness, which is just one example of such interpretation,
+—is not a serious difficulty. For in regard to every single
+assertion of ours on the matter we must be prepared to show
+either that it indisputably expresses a datum of consciousness,
+or else that it is an interpretation or inference which really has
+all the rational justification we claim for it.
+In classifying the data of consciousness which have an im-
+mediate bearing on the questions of epistemology, authors com-
+monly distinguish3 the direct from the indirect data or objects of
+1 There is another necessary presupposition of philosophical discussion, viz. the
+presupposition on the part of each participant that the data of every other person's
+consciousness is of the same general nature and order as those of his own (§ 39,
+vol. i., p. 144, n. 2).
+'Cf. §g 37, 39, ibid. *Cf. Jeannjme, op. at., pp. 358-g.
+SELF-CONSCIOUSNESS AND MEMORY
+5
+consciousness. Among the former they enumerate all conscious
+acts, processes, states, and modes of the conscious subject, not
+apart from, but as concrete, actually existing modes of, the
+subject. As indirect object of consciousness they set down
+the existing conscious subject as a consciously acting being; but
+not the nature of the latter: its nature is revealed not by con-
+sciousness but by intellect or reason interpreting consciousness.
+Neither, however, is the existence of the conscious subject re-
+vealed apart from the existence or happening of the conscious
+acts. It is reason or intellect that analyses the whole concrete
+datum into acts, states, processes, etc. (accidents), on the one
+hand, and an agent, subject (substance), of these on the other;
+and which further interprets this subject or substance as corporeal,
+living, sentient, rational, etc. And all these interpretations alike
+have to be justified. Again, some of our conscious, cognitive
+acts, i.e. our external sense perceptions, reveal their objects as
+located in space outside our bodies; and others, i.e. some of our
+internal sense perceptions, reveal their objects as located more
+or less definitely within our bodies. If, therefore, these percep-
+tive acts themselves be said to be the direct and proper objects
+of consciousness, as being "within " the conscious subject, it must
+be admitted that the objects of these perceptive acts themselves
+must, as perceived objects, be also indirectly objects of conscious-
+ness—even though they be revealed as "outside" the conscious
+subject: for by being "presented " or "present" to the conscious
+subject, in and through the perceptive act, they become also data
+of consciousness. But here again it is intellect or reason that
+distinguishes the conscious subject into "mind" and "body";
+that recognizes some of the data or objects of conscious cognition
+as constituting the Ego and others as constituting the non-Ego
+or "external universe "; and that interprets the real significance
+of the character of "externality " attaching to the latter, and of
+"internality" attaching to the former.
+97. Truths Revealed by Introspective Rational An-
+alysis of the Data of Consciousness.—We may now proceed
+to see what objectively true and valid judgments are yielded by
+psychological reflection on the facts of consciousness, (a) They
+yield first of all the immediate judgment that "something really
+exists," viz. the total, concrete, unanalysed content of the present
+conscious state or condition of the conscious subject aware of
+something. No sceptic can deny, or ever has denied, the exist-
+6
+THE OR Y OF KNOWLEDGE
+ence of something in and for his consciousness. Sceptics have
+doubted—or denied that they can know—whether there is any-
+thing that has a reality or real existence other than the esse ideale
+which the facts of their consciousness have for them in the actual
+conscious state. But since this esse ideale evidently involves the
+real existence of the concrete consciousness, or conscious being,—
+nay, since this esse ideale is itself something, since it is a real state
+or manifestation of some reality,—it follows that even if such
+sceptics take up the position of solipsism they must at least
+admit the real existence of the concrete conscious self or subject:
+not of course as distinct from a non-self or object, but simply as
+something real, and as something revealing this distinction or
+duality as a problem for investigation.
+(b) The data of my consciousness yield as certainly valid and
+objectively true the judgment—" /, the thinking or conscious being,
+really exist as subject and agent of my conscious states and activ-
+ities ". For my consciousness1 reveals these states and activities
+as different from one another,—seeing, thinking, speaking, de-
+siring, grieving', rejoicing, etc,—but all in the concrete as states,
+conditions, activities of one single being, subject, or agent: which
+I call myself, the Ego, self, or person.
+No doubt, what consciousness, as a mere faculty of awareness
+or apprehension, reveals, is one really existing, concrete, complex,
+heterogeneous whole of subject and states, agent and activities,
+substance and accidents, etc. My consciousness of my existence
+does not commence with abstract concepts of "self," "existence,"
+"subject," "states," "agent," "activities"; or with a formal act
+of judgment affirming the "self" to "exist," or the "states,"
+"activities," "accidents," to be those of the "subject," " agent,"
+"substance". But all this rational or intellectual process of
+analysis and synthesis, of isolating abstract concepts and syn-
+thesizing them in judgments, merely expresses and interprets for
+me intellectually what was Really and implicitly given to me in
+the primitive conscious intuition of the self, consciously existing
+and acting.
+Descartes rightly pointed out that the Cogito, ergo sum, is not an infer-
+ence (31). It is the expression of a self-evident judgment, " I exist," which is
+virtually contained in the direct intuition of consciousness. And the same is
+true of the other immediate interpretations of the content of this intuition,—
+1 Or my consciousness plus my memory, if we take into consideration not only
+simultaneous but successive states. Cf. infra, % 98.
+SELF-CONSCIOUSNESS AND MEMORY
+7
+such as "These are conscious states of which I am the subject," "These
+are activities of which I am the agent or cause," "These are inhering or
+'accident '-entities of which I am the substantive or 'substance '-entity ".
+Descartes was right, too, in accepting the evidence, or "clear and distinct
+idea," of his existence, as objectively valid, i.e. as revealing to him a really
+existing being, though he was inconsistent in questioning the equally cogent
+evidence in the case of first principles (31). He was right as against the
+phenomenism of sensists and positivists in their unintelligible and self-contra-
+dictory assertion that the Ego revealed in consciousness is a mere bundle of
+"states" without a subject of these states; or a mere stream of "processes"
+or "activities" without an agent or cause of these processes or activities;
+or a mere ebb and flow of "phenomena," "appearances," or "accidents,"
+without any substantial Ego or being of which they are the phenomena,
+appearances, or accidents. And he was right, as against the phenomenism
+of Kant, in holding that what the conscious thinking subject apprehends is the
+real Ego, at once phenomenal and noumenal, at once sensible and intelli-
+gible, at once object of sense and object of intellect,—and not merely a
+"phenomenal" or empirically "appearing" product of a real but "trans-
+cendental," "unknowable" Ego, for ever hiding itself behind its own mis-
+called "appearances".1 The Ego or conscious subject which is revealed in
+consciousness is identical with the self which our intellect sees to be a
+necessary condition for the possibility of knowledge. According to Kant,
+this latter self, in which all our apperceptions must have their unity,2 can in-
+deed be thought as real, as a necessary, a priori, transcendental condition of
+knowledge; but it cannot be known as real, because we have no intuition of
+it: "The consciousness of myself, in the representation of the ego, is not an
+intuition, but a merely intellectual representation of the spontaneity of a
+thinking subject ".3 In other words, the "I" of the "I think" or "I am
+aware," which is an essential concomitant of all cognition (and which, for
+intellectual consciousnesses implicitly "I am" or "I exist"), though it is
+thought as really existing, cannot be known as really existing: we know it
+merely to be something which we are compelled to think as a formal, a priori
+condition or unifying principle of all our conscious apperceptions: "No
+doubt the representation of / cm, which expresses the consciousness that can
+accompany all thought, is that which immediately includes the existence of a
+subject: but it does not yet include a knowledge of it, and therefore no
+empirical knowledge, that is, experience. For that we require, besides the
+thought of something existing, intuition also, and in this case internal intuition
+in respect to which, that is, to time, the subject must be determined."1 Thus
+1 Cf. infra, § 134. 1 Cf. supra, § 89, vol. i., p. 337.
+5 Critique (tr. Muller), p. 781.
+*Ibid., p. 680. "For that purpose [time determination of the subject in internal
+intuition]," Kant continues (arguing against the " idealism " of Descartes,—cf. vol. i.,
+p. 214, n. 1), " external objects are absolutely necessary, so that internal experience
+itself is possible, mediately only, and through external experience ". In the same
+context he speaks of "the immediate consciousness of the existence of external
+things" (ibid., n.), an expression which is intelligible only when we remember
+that for him "external things" are mental phenomena. Again, what this " immedi-
+ate " " external experience " renders possible, is not "the consciousness of our own
+8
+THEORY OF KNOWLEDGE
+Kant repeatedly denies that intellectual consciousness, or introspection, or
+psychological reflection on the self or Ego as consciously functioning in the
+concrete, gives us any intuition, any direct grasp or apprehension, of the real
+Ego as thus existing and acting. But such denial is purely gratuitous;
+and can be directly met by the positive counter-assertion,—not gratuitous,
+but forced upon us both by the most cogent evidence of consciousness and by
+the most absolute necessity of thought itself,—that consciousness does reveal
+to us intuitively the real existence of the real, consciously acting self or Ego,
+as subject and agent of our conscious states and activities.
+(c) By reflecting on the conscious and cognitive acts of which
+I am the conscious subject, and on the objects of these acts, I see
+both acts and objects to be of various kinds, and I classify them
+accordingly. The feelings and sensations which I call organic
+(e.g. muscular and motor feelings, bodily aches and pains, hunger,
+thirst, physical pleasure or discomfort, etc.), and their contents,
+I am aware of not merely as different from one another, but, in
+the case of some of them at least, as having extensity or spatial
+continuity of parts outside parts, and as spatially distant from
+others (as e.g. headache and lumbago), and yet all of them as
+mine, as affections, states, conditions of myself, and myself the
+conscious subject as spatially extended in and with them. No
+doubt, this element of extensity or extendedness, directly re-
+vealed in the conscious content of organic feelings, is vague and
+ill-defined: the definite localization of these feelings being, as
+psychologists explain, a result of sense development or sense
+"education" through association of the accumulated sense ex-
+periences of the individual, and involving intellectual interpreta-
+tion and inference. But the element of extensity is there in the
+concrete from the beginning; and thus it reveals the self or con-
+scious subject as a something which we intellectually apprehend
+and designate as a substantive reality having an extended or cor-
+poreal mode of being, or, in other words, as a living, conscious,
+corporeal substance.
+Hence Descartes completely misread the immediate data of
+existence," but the "determination" of this consciousness "in time," or in other
+words "internal experience " (ibid.): this latter, of course, not attaining to reality
+but only to mental appearances. And what is it that renders the consciousness itself
+of our own existence possible? Nothing; for on Kant's theory consciousness of our
+own real existence is impossible. We can only think this latter as an a priori, trans-
+cendental condition of knowledge; but we cannot have knowledge, or empirical
+consciousness,—or, if we might so put it, conscious consciousness as distinct from
+the Kantian figment of " transcendental consciousness " or "transcendental apper-
+ception,"—of our own real existence.
+,
+SELF-CONSCIOUSNESS AND MEMORY 9
+human consciousness when he regarded them as revealing,—or
+at least as furnishing grounds for interpreting,—the conscious
+human subject or self or Ego, as a simple, unattended, incorporeal,
+conscious principle which he identified with soul or spirit.
+It is a point of minor importance to observe that it is not
+consciousness itself, but intellect interpreting its data, that infers
+the nature of the human soul to be simple, spiritual, immortal,
+etc., and the nature of the human self or Ego to be a being com-
+posed of body and soul. But it is important to insist, against
+Descartes and ultra-spiritualists,1 that among the immediate data
+of human consciousness is the directly apprehended spatial datum
+of extensity or voluminousness of the conscious subject,—which
+latter the intellect must therefore interpret as having the corporeal
+mode of being, as having in its nature or constitution that which
+we call body or matter.2 Whether the distinction which we draw
+between our own bodies and external bodies be valid or not, it is
+a fact of consciousness that we draw the distinction, and that it
+is grounded in the consciously apprehended features of internality
+and externality attaching respectively to two classes of directly
+apprehended objects.3 But if Descartes' contention were true,—
+that the consciously revealed self or Ego is a simple, unextended,
+spiritual substance or soul,—then, even though we might perhaps
+be able to infer the real existence of a material reality, it is im-
+possible to see how we could apprehend our bodies as our own
+and as distinct from external bodies: if consciousness did not re-
+veal our own bodies as our own no other faculty or mode of cog-
+nition could reveal them as such.
+Those, then, are the main immediate interpretations of the
+facts of consciousness that have a direct bearing on epistemology.
+It must be borne in mind, in reference to them, that mere (sense)
+consciousness, apart from intellect, simply makes us aware of
+subjective facts, without interpreting them. But in man this
+1 Cf. Jeanniebe, op. ext., pp. 358, 364-5.
+2Similarly, it must be emphasized later (116) that in external sense perception
+we are made directly aware of extension, occupation of space, impa%etrability, in that
+domain of direct sense cognition or awareness, which, by reason of its apprehended
+feature of externality to the self or Ego, each of us marks off from the portion (vit.
+bis own body) apprehended by internal sense perception as characterized by inter-
+nality, and which each of us designates as the (to him) external material universe.
+Here, again, the interpretation of these features of " internality " and " externality"
+in the data of direct awareness, as revealing a real universe really distinct from the
+self or Ego, is the work of intellect and must be justified by intellect.
+» Cf. preceding note.
+10
+THEORY OF KNOWLEDGE
+awareness is always accompanied by the spontaneous formation
+of judgments whereby we interpret the facts. These judgments
+impose themselves on us with spontaneous certitude by a psycho-
+logical necessity. But we have now seen, by reflection, that these
+spontaneous assents are not blind or instinctive. "The facts of
+my consciousness have a real existence in and for my conscious-
+ness;"1 "My conscious states are real states"; "/ myself, the
+conscious subject, really exist"; "My conscious states reveal me
+to myself as having not alone the mode of being which thinks,
+reasons, judges, but also the mode of being which perceives, and
+which I mean by corporeal being"—these judgments impose
+themselves upon my reflecting reason with such cogent objective
+evidence that I must accept them with reflex, reasoned certitude
+as indubitably true: on the assumption, already justified as
+against Kant, that my intellect in its processes of conception and
+judgment attains not to a subjective, phenomenal disfigurement
+of reality, but to reality itself.
+98. Memory, Self-Identity, and Time Duration.—
+Memory is described by psychologists as the faculty of conserving
+and recalling events experienced in the past; of recognizing them
+as past, and locating them more or less definitely in the time
+series of experienced events. Like consciousness, it is distin-
+guished into sensitive, and intellectual or rational, according to
+the nature of the events or objects recalled. The distinction is
+of minor importance for epistemology, inasmuch as in man
+memory is always accompanied by intellectual activity,—interpret-
+ing the recalled data, of whatsoever kind these may be. And we
+include in memory, as understood here, this faculty of forming
+immediate judgments or interpretations of these data. Many of
+the truths brought to light by the psychology of memory, which
+is both extensive and interesting, have only a remote bearing on
+epistemology. But some of the facts and implications of memory,
+—especially those which bear on our apprehension of time and
+of the self or Ego,—are of the first importance in a general
+theory of knowledge.
+The process of remembering is itself a conscious process, a
+1 It has been pointed out already (18) that "consciousness" is the name of
+a state or condition of a conscious subject: it is not really " consciousness" that
+apprehends anything: it is " I, the conscious subject," who apprehends by conscious-
+ness. We must not hypostasize "consciousness" any more than intellect or
+reason.
+SELF-CONSCIOUSNESS AND MEMOR Y 11
+datum or fact of consciousness. It differs from consciousness in
+this that while the latter reports its facts or objects as here and
+now actually present, the former reports its objects as having
+been experienced, or present to consciousness, in the past. In
+other words, the act of memory brings into consciousness an
+object or datum marked by a characteristic which is altogether
+peculiar and suigeneris, a characteristic which we interpret intel-
+lectually as indicating a datum or object experienced before, a feel-
+ing of familiarity1 whereby we recognize the present content of
+consciousness as being, in part at least, the reproduction or repeti-
+tion of a past or previous content of consciousness.2 And inasmuch
+as memory reproduces in the concrete the past act as it occurred
+in the concrete, it is clear that just as consciousness reveals the
+subject as affected by the present conscious states, so, too,
+memory reveals the same subject as affected both by the past and
+by the present conscious states. The possibility of thus becom-
+ing aware of conscious data endowed with this quality of being
+"remembered" acts, clearly involves that the subject of such
+"reproduced" and "recognized " conscious acts apprehends itself
+as having a real existence extended through time-duration, and
+as remaining or abiding permanently self-identical throughout
+all the changes which such time duration implies.3 Just as we
+immediately judge or interpret the direct data of consciousness to
+imply the real existence, here and now, of an actual substantial
+subject of the conscious states, so we immediately judge or inter-
+pret the direct data of memory to imply the reality of the succes-
+sion and change in conscious states, the reality and abiding
+self-identity of the Ego or subject of those successive states,
+and the real objectivity of our concept of time as the mode of
+duration of the real existence of the ever-changing real data of
+our conscious, cognitive experience.
+Obviously there can be no question of demonstrating the
+general trustworthiness of memory, in the strict sense of the
+term demonstration. For every single step in the process of
+demonstration,—from premiss to premiss, and from antecedent
+to consequent or conclusion,—implies and rests upon the assumed
+1 This is analogous to the feeling of externality which characterizes the data of
+external sense perceptions. Cf. § 97, p. 9, n. 2.
+2For distinction between actually perceived, and merely imagined, and re-
+membered data,cf. Lahr, Cours de philosophie, p. 132,—apud Jeannibre, op. cit.,
+p. 370 n.
+>C/. Ontology, §§ 74, 75, 85, 86.
+I 2
+THEORY OF KNOWLEDGE
+trustworthiness of memory. There can be question only ot
+reflecting on the concrete data of memory, and on our immedi-
+ate intellectual interpretations of those data, and convincing our-
+selves that intellect,—which we have already shown (chaps, viii.,
+ix.) to be capable of attaining to objective reality through its
+concepts and judgments,—has adequate and cogent objective
+evidence for the immediate judgments it forms, from those
+data, concerning the real existence of an abiding Ego, sub-
+stantially self-identical throughout its really changing states,
+and the reality of time-duration as a real mode of existence of
+these states, their subject, and their contents.
+99. Truths Revealed by Introspective Rational
+Analysis of the Data of Memory.—In addition to the
+concepts formed from the immediate data of consciousness,—con-
+cepts of being, existence, subject, substance, agent, body,
+extension, mind, action, state, process, accident, etc.,—we
+have furnished by memory the data for our concepts of self-
+identity, duration, change, succession, time, etc. These are
+the concepts we utilize in interpreting the immediate data of
+memory. Now we have adequate objective evidence for the
+following judgments concerning memory, its data, and their
+implications; and these judgments therefore are vindicated by
+reflection as objectively valid and certainly true :—
+(a) My consciousness reveals some of its contents as familiar,
+as repetitions: this character being peculiar to, and inseparable
+from, their present appearance in my consciousness. Now,
+when I formulate intellectually what is already implicit in
+such data, by the explicit judgments, "/ experienced these
+data before: they occurred to me in the past: they are events of
+my past experience, recalled and recognized by me as such,"—my
+intellect is determined to such judgments by the clearest ob-
+jective evidence of the very nature itself of my present conscious
+state. Therefore such judgments are objectively true; and
+their truth is being constantly verified experimentally by their
+fitting in with the train of my actual experiences.1
+1 The exact location of some remembered events in the time series of past
+experiences is given immediately; others are located only indirectly and by
+reasoning from the present and from already located events. Here there is room
+for error. Moreover, memory has its limits, it does not retain or recall all past
+experiences, but comparatively few. Nor is it infallible, any more than intellect
+itself; except in regard to its immediate data, as intellect is in regard to im-
+mediately evident judgments. Psychology deals with the mistakes and deceptions
+SELF-CONSCIOUSNESS AND MEMORY
+'J
+(b) Since my " remembered " experiences reveal themselves
+in the concrete as having been actually mine in the past, and as
+now actually reproduced in my present conscious act of remember-
+ing, there is manifestly revealed to me in this act the concrete dura-
+tion of my own self-identical existence as abiding subject and agent
+of these successive conscious states and activities. I thus form
+the spontaneous judgment that "I continue in existence, preserving
+my substantial, personal self-identity throughout the succession of
+real but accidental changes to which this my real existence is
+subject"*; and my certitude of the truth of this spontaneous
+judgment is confirmed by reflection. For just as I see that
+at the present moment of consciousness I cannot be merely a
+bundle or collection of states or processes (without any sub-
+stantial subject or agent), but that I am concrete subject and
+agent of these states and processes, so I see, in and through my
+present, conscious act of remembering, that I am the same self-
+identical subject who experienced the past datum, and who now
+reproduce and recognize it as previously experienced.
+In other words, just as the attempts of sensists and positiv-
+ists, such as Locke, Hume, Mill, Taine, etc., to explain consciousness
+(and knowledge generally) without admitting a real substance, ends
+in their substantializing accidents (or consciousness itself2), so their
+attempts to explain memory, while denying the real permanence
+of the self or subject and holding the latter to be a mere stream
+or series of conscious states, ends in such fantastic theories of
+personal identity as that of Professor James: that the present
+thought (which is the only thinker), or the present conscious
+state, "appropriates" the content of the immediately preceding
+state and " transmits" this plus its own content to the next suc-
+ceeding one,—a theory the unsufficiency of which its propounder
+himself admits by recognizing the necessity of postulating some-
+of memory. The theses in the text are in no way influenced by the possibility of
+such deceptions.
+1 The concept of substance, which I thus find realized in my own being, is not
+the fanciful notion of an absolutely immutable, hidden, unknowable core or sub-
+strate of separate, ever-flowing, evanescent phenomena or accidents,—a fiction
+falsely attributed to scholastics by modern sensists and positivists (cf. Ontology,
+§ 64). It is the notion of a real mode of being which does not inhere in other being
+for its reality; a mode of being the reality and nature of which are revealed in and
+through its changing states or accidents; which is subject to (accidental) change
+and yet persists really (substantially) the same throughout the change {ibid., §§ 63,
+80, pp. 302-3).
+2 Cf. Ontology, §g 61, 75.
+THEORY OF KNOWLEDGE
+thing "more than the bare fact of the co-existence of a passing
+thought with a passing brain-state V
+(c) Since the concrete subject or Ego, immediately revealed
+in consciousness and memory, is revealed and intellectually in-
+terpreted as a really existing being which persists self-identical
+throughout a succession of real states, constituting real change, I
+have in these concrete data the objective and real contents of
+my concepts of duration, succession, and time. Since through con-
+sciousness and memory I am aware of myself as undergoing real
+change, and of a real succession in my conscious states, I am
+aware in the concrete of my own existence as having real and
+concrete time duration. This concrete awareness of succession may
+be described as an internal perception of time. My intellect,
+apprehending from this datum successive duration in the abstract,
+forms the abstract concept of time. Thus the concept of time is
+objectively real, having its real foundation in the succession in-
+volved in real change,—just as we shall see the concept of space
+to be likewise objectively real, having its real foundation in the
+perceived real extension of bodies.
+Time, then, is not a substantive reality, sui generis, distinct
+from real change: its reality is the reality of change, but it is
+this reality endowed by intellect with the logical features of
+abstractness and universality, and the logical relation of measur-
+ing the amount of change: it is, in other words, an ens rationis
+cum fundamento in re." Neither is time, therefore, on the other
+hand a mere "ens rationis," a mere subjective, a priori form of
+internal cognition or consciousness, as Kant would have it. The
+utter untenability of Kant's doctrine on time will be shown
+below (134).
+Kant would, of course, urge against all the intellectual interpretations of
+the data of consciousness and memory, which we have been vindicating in the
+present chapter, the general charge that these interpretations are reached
+through concepts, and that concepts can reveal nothing about the reality or
+real nature of the self or Ego. Our reply is that they are indeed reached
+through concepts, and embodied in judgments, but that we have already
+vindicated, against his theory, the real objectivity of conception and judg-
+ment.
+1 Principles of Psychology, i., p. 346,—apud Maker, Psychology, p. 483. Cf.
+Ontology, § 75, pp. 276-84. For further developments of the doctrines of substance,
+person, personal identity, permanence of the Ego, time duration, etc., and refutations
+of sensist theories, cf. Ontology, chaps, viii. and ix., chap, xi., § 85, 86; Maker, op.
+cit., chap. xxii.
+*Cf. Ontology, %%S, ?, 3*4-
+SELF-CONSCIOUSNESS AND MEMORY
+ioo. Consciousness of Self and Cognition of the
+External Universe.—Since we become conscious of the self,
+and its concrete time-duration, in and through the conscious
+activities of the self, and since these conscious activities are in
+large part cognitive of that domain of objects or data which we
+interpret as the external, spatial, material universe, or the non-Ego,
+the question may be asked, whether or how far self-conscious-
+ness is mediated by, and dependent on, our direct cognition of
+the non-self or external universe.
+Descartes, holding that the only immediate object of the
+mind's awareness is itself, failed to explain satisfactorily the
+possibility of our knowledge of spatial or material reality distinct
+from the mind: and all subjective idealists we shall find to be
+in the same condition. Kant made an attempt to prove, against
+Descartes, that the possibility of empirical self-consciousness
+presupposes and establishes "the existence of objects in space
+outside" the mind.1 But his attempt was futile inasmuch as
+he, too, had accepted the idealist presupposition,2 so that the
+"outside" was for him on his own theory only a department of
+mental, i.e. intramental, phenomena.
+Had we no cognitive activities, and therefore no conscious
+data, of the sentient order, it is impossible for us to form any
+positive conception as to how self-consciousness would take
+place, or what sort of self it would reveal: we have only a
+negative and analogical knowledge of the modes of being and
+knowing with which pure spirits or pure intelligences are
+endowed.3 It is in the exercise of cognitive activities of the
+sentient order that we do de facto become directly and concomi-
+tantly aware of ourselves as conscious beings. Nor, indeed, does
+it seem possible that our intellects, in the total absence of all
+data of the sort we call sense-data from consciousness, could elicit
+any act, or therefore become at all self-conscious. For in such
+an hypothesis intellect would have no objects to apprehend, inas-
+much as all the objects of its direct activity (including the con-
+crete self or Ego) are given to it, and attainable by it, only in and
+through the sentient mode of cognition which apprehends concrete,
+1 Citique, pp. 799, 7°5 n. 2 Cf. § 97, p. 7, n. 4.
+* According to scholastic teaching their knowledge of material things would be
+got not by abstraction but by innate universal concepts. Cf. St. Thomas, De
+Vtritaie, Q. viii., art. 9; Summa TheoL, I., Q. lv., art. 2.
+.6
+THEORY OF KNOWLEDGE
+individual, actually existing sense-data.1 Of course by reflex
+action it recognizes itself as immediately given in its direct
+functions of conceiving and judging those data of sense; and it
+does so directly and concomitantly even in these direct functions
+themselves (95). But the possibility of these direct intellectual
+processes is conditioned by the sense apprehension of concrete
+data: Nihil est in intellectu quod non prius fuerit in sensu (71, 74,
+77). So, too, therefore is self-consciousness.
+This expression, "self-consciousness," is perhaps ambiguous. It usually
+means the consciousness of self, revealed in psychological reflection or the
+deliberate introspective contemplation of our direct mental activities (95).
+But these activities themselves are conscious: and all consciousness is in a
+certain sense consciousness of self, "con (cum)—scire": it is at least the
+concomitant awareness of the self or subject together with awareness of an
+object: not of course an awareness of the self as such, but an awareness
+which reveals the self in the concrete as part of the whole conscious datum.
+Reflex consciousness, then, in the sense of introspective contemplation, is not
+the first or original revelation of the self; it rather recognizes as the self the
+subject which is already revealed, but not recognized as the self, in the direct
+conscious processes of perceiving, conceiving, judging, reasoning, etc
+Now the functions of reasoning and judging are dependent on the
+function of conceiving. And if we call all three functions by the common
+name of "thinking" or "thought," then,—since we cannot consciously
+"think" in vacuo? i.e., without thinking some object, and since we get the
+original data or objects, on which to exercise the function of conscious thought,
+only in and through sense perception,—it can and must be asserted that
+even when the self is concomitantly revealed in our direct thought processes,
+and recognized in them as the self by reflex intellectual introspection, it is so
+revealed and recognized only dependently on sense perception, and not other-
+wise ;—unless, indeed, it be maintained that we do somehow, by direct or
+reflex intellectual consciousness, become aware of our intellectual acts (and
+of the self, in and through them) apart from and independently of the objects
+of these acts.
+Does consciousness, therefore, reveal our direct cognitive acts apart from
+their objects?
+Direct concomitant consciousness certainly does not. This, however,
+must be carefully noted, that in at least some of our processes of external
+sense perception we become,—through the functioning of the organic, mus-
+cular, or motor sense, or feeling of effort,—directly and concomitantly aware
+of what we regard as the perceptive act itself (e.g. of seeing, hearing, touch-
+1Cf. Geny, Unenouvelle theorie de perception (pp. 10 seq.,—apud Jeanniere,
+op. cit., p. 377 n.): "No internal conception or perception can take place or have
+meaning for us except dependently on an antecedent external perception; the
+Cogito itself is no exception. I do not apprehend myself in vacuo, as it were, but
+only as knowing an object and first of all an object which is not myself: the self
+'ne se pose q'en s'opposant'."
+a Cf. preceding note.
+SELF-CONSCIOUSNESS AND MEMORY
+ing, etc.), at the same time as we become aware of the object of the latter."
+And by an effort of attention we may more or less distinctly segregate the
+perceptive act, as an organic event or object, from the object which as a
+perceptive act it reveals to us. But this sort of apprehension of our perceptive
+act itself as an organic event or object, is distinct from the concomitant con-
+crete consciousness or awareness of self which is an inseparable and essential
+feature of that act as perceptive. For even if our acts of sense perception
+did not thus reveal themselves to us, owing to their character as organic
+functions of which we become aware through the internal organic and muscular
+senses, they would still, as acts consciously perceptive of objects, make us con-
+comitantly aware of themselves, or rather of ourselves, in the concrete: as
+our direct intellectual acts must be held to do, though these are not organic;
+for every cognitive act as such, must, being conscious, reveal subject, act, and
+object together in the concrete.
+Neither, therefore, can reflex consciousness, or reflection on the whole
+direct cognitive process, reveal the direct cognitive act as cognitive or per-
+ceptive (and with it the agent or subject), apart or in isolation from the ob-
+ject of that act. But reflex consciousness or psychological reflection can of
+course recognize, more or less in isolation, the organic process which was
+revealed more or less in isolation by the internal organic and muscular sense,
+as accompanying the perception (hearing, seeing, touching, etc.), of some ob-
+ject. If, therefore, this concomitantly apprehended organic event be absent
+from any cognitive act, as an index revealing the latter, then no conscious
+awareness (whether direct or reflex) of such a cognitive act apart or in isola-
+tion from its object, would seem to be possible. And even when the organic
+event is present, and apprehended by the internal organic and muscular sense,
+it is apprehended not as a cognitive act but as an organic event or object
+merely ;2—nor can the act of the internal sense apprehending the organic event
+reveal its own self (or its subject) apart or in isolation from this organic event
+as object.
+It is important to bear in mind that the concomitant (" direct") con-
+sciousness which is an inseparable and essential feature of all cognitive
+awareness of any datum whatsoever does not reveal the self as formally dis-
+tinct from the non-self, or even the conscious subject as formally distinct from
+the datum as object. Duality of subject and object is involved in all cogni-
+tion, but it is only by intellect that the distinction is apprehended. So, too,
+some data of our conscious cognition are marked by a peculiar feature which
+intellect interprets as internalily or selfness, and others by an opposite feature
+which intellect interprets as externality or non-selfness,2 but again it is in-
+tellect that interprets this internal or external reference of consciously appre-
+hended data as signifying that the former domain of data reveals the Ego or
+self, and the latter domain the non-Ego or external universe. Psychologists,
+moreover, prove that this explicit judgment, whereby the individual explicitly
+1 In a similar way we become vaguely aware of the brain-effort, tension, fatigue,
+etc., accompanying intense intellectual activity, owing to this latter being sustained
+and subserved by the organic sense activity of the imagination.
+•Having of course the characteristic of internality or selfness, but not yet
+judged by intellect to belong to the self in distinction from the non-self.
+* Cf. supra, § 97, p. 9, n. 2; infra, §§ 105, rog.
+vol. 11. 2
+18
+THEORY OF KNOWLEDGE
+discriminates his own self or Ego from the remainder of the total content of
+his consciousness, comes comparatively late in the gradual development and
+growth of his mental experience: that in infancy there is no conscious dis-
+tinction of self from non-self: that the earlier cognitions and implicit judg-
+ments of childhood rather tend to regard all their contents indiscriminately
+as objective and external.1
+1Cf. Maher, op. eit., pp. 361-7, 474-92; Jeanniere, op. cit., pp. 379-80;
+infra, §§ 106, 107, 109, n6.
+CHAPTER XIV.
+extramental reality. the external universe.
+ioi. Reality of the Cognitive Acts or States of the
+"Ego," Compared with Reality of their Objects—We
+have already adverted more than once to the fact that philo-
+sophers generally appear to have experienced much more
+serious difficulty in explaining how the conscious self or subject
+can come to know any extra-subjective or mind-independent
+reality, than in explaining how the subject can apprehend its
+own reality as self or Ego} The possibility of knowing a real,
+external, material, extended universe, distinct from the perceiving
+mind, has now to be examined by investigating the significance
+and validity of external sense perception.
+We can, perhaps, best approach this subject by indicating
+here one reason of the idealist tendency to regard the only direct
+object of our knowledge as being something essentially mental,
+—a reason bearing on the nature of the objects of reflex or
+psychological introspection. These objects are our direct, con-
+scious, cognitive acts. Now these acts are themselves realities:
+they constitute a domain of reality which we discover by turning
+our attention inwards from their objects to themselves. When
+we thus make them objects of our reflex consideration we tend
+to assimilate them to their own objects, i.e. to regard them as
+realities (or objects of cognition) merely, and to forget that they
+are realities of an altogether special kind, quite suigeneris, inas-
+much as they are realities which, unlike other realities, are not
+merely objects of cognition but are themselves cognitions of objects.
+If, therefore, we think of our direct knowledge (or cognitive acts)
+merely as a reality,—of the mental order of course, but yet as
+something which merely is, rather than as something which not
+merely is, but knows, or has itself an object,—we are tacitly ac-
+cepting the implication that in this direct knowledge
+1 Vol. i., §§ i7i 19. 35. 75- Cf. Prichard, op. cit., pp. 124-6.
+19 2 *
+20
+THEOR Y OF KNO WLEDGE
+"the world is not, at any rate directly, object of mind, for ex hypothesi a
+reality which merely is and is not the knowledge of anything has no object.
+Hence it comes to be thought that the only object or, at least the only direct
+object of the mind is this mental reality itself, which is the object of reflection;
+in other words, that the only immediate object of the mind comes to be
+thought of as its own idea. The root of the mistake lies in the initial sup-
+position—which, it may be noted, seems to underlie the whole treatment of
+knowledge by empirical psychology—that knowledge can be treated as a
+reality to be apprehended, in the way in which any reality which is not know-
+ledge is a reality to be apprehended."1
+Now, if the only direct object of the individual mind be as-
+sumed to be the mind itself as revealed in its own conscious
+states, and if some of these conscious states be regarded as
+"ideas" or "representations" or "appearances" of an external,
+material universe supposed to have a real being or existence be-
+yond consciousness and independently of the Ego,—a universe
+which men spontaneously believe themselves to be directly aware
+of through their conscious acts of external sense perception,—the
+problem at once arises: Can we know with reasoned certitude
+that any such mind-independent reality exists, any reality whose
+real existence or esse reale is really distinct from the conscious
+states, or "ideas," "appearances," "representations," etc, of
+which alone we are assumed to be directly aware, and whose
+reality or esse reale is supposed to consist in their esse ideale, in
+their being objects of awareness, in their "being actually per-
+ceived," in their "percipt"? And if such reasoned certitude of
+a mind-independent, external, material reality be possible, how
+do we attain to it? This brings out the distinction between the
+real being, which things are supposed to have in themselves in-
+dependently of our knowledge or awareness of them, or "things-
+as-they-are-in-themselves," or "things-in-themselves," on the one
+hand, and "consciously apprehended being," or " the being things
+have in and for cognition," or consciously apprehended "appear-
+ances" or "phenomena," on the other hand. The distinction,
+which will recur repeatedly, will be found to have originated for
+each of us, and to be familiar to each of us, from the ordinarily
+experienced facts of external sense perception; and in due course
+we shall examine its significance.2 It seems to suggest that
+while the reality of directly apprehended facts of consciousness
+is beyond all possible dispute, being identical with the conscious
+1 Prichard, op. at., p. 126.
+a Cf. infra, chap. xx.
+EXTRAMENTAL REALITY. EXTERNAL UNIVERSE 21
+apprehension of them, the reality of anything beyond these is
+problematical.1
+102. Is the Reality ("Esse") of Conscious States
+Identical with their Apprehension (" Percipi ") ?—We may
+therefore ask what precisely is meant by the common assertion
+made in regard to all conscious, cognitive states, or data, or acts,
+—that their "esse est percipi" that their being or reality is identi-
+cal with and consists in their being perceived.5 A conscious,
+cognitive act is itself a reality. Now the assertion obviously
+does not mean that this reality is identical with any second,
+distinct, reflex cognitive act by which the reality of the first or
+direct cognitive act may be apprehended in its concrete happen-
+ing. What it does mean is that the directly conscious, cognitive
+act itself is indeed a reality, but is also, as conscious or cognitive,
+a reality that is suigeneris, a reality which differs from every other
+reality in this that while every other reality is merely an object of
+(possible or actual) cognition, this particular reality which is the
+conscious, cognitive act, is what it is because it reveals an object
+to a subject and thus eo ipso and simultaneously makes the subject
+aware of object, act, and subject in the concrete; and that it would
+cease to be what it is if it failed thus to reveal itself (as well as
+its object) to the subject (or to be itself " perceived " or "known,"
+"percipi" by the subject). In other words, it means that the
+differentia specifica of the reality which is a conscious, cognitive
+act as such,—that which marks it off from all other reality,—is
+its being actually apprehended (not by another act but in and
+through itself), so that it ceases not only to apprehend or reveal an
+object, but ceases to be, when it ceases to be directly and con-
+1" If we apprehended our states of consciousness in a representation, and not
+intuitively and by identity, the question would be raised whether that representation
+faithfully presented them, or falsified by disfiguring them. Hence we should have
+to seek for a criterion whereby to determine which states of consciousness are as
+they are represented (or appear), and which states are otherwise than they are re-
+presented: in other words, we should need a Criteriology of conscious representa-
+tions. But that is just what no one has ever yet felt any need of [Query—What of
+Kant's doctrine of the 'phenomenal Ego1? Cf. infra, §§ 111, 129]. Our conscious
+states are given by identity, without the intervention of any representation. They
+are what they appear, because for them to be and to appear are one and the same
+thing. In the domain of consciousness error is absolutely impossible [96]. And
+this is the basis of all criteriological research, which takes as undisputed starting-
+point the reality,—incontestable and uncontested,—of representative states of con-
+sciousness."—Jeanniere, op. cit., p. 394 n. Cf., however, infra, chaps, xix., xx.
+'" percipi " and " perceived" are understood in the wide sense of " cognosci,"
+"being known,"—awareness of any sort.
+22
+THEORY OF KNOWLEDGE
+comitantly apprehended. If other realities can be consciously ap-
+prehended, they are supposed to have and retain their reality
+independently of their being apprehended: they are supposed to
+have an esse reale independently of the "percipi" esse cogniturn,
+esse ideale, esse intentionale, involved in their becoming objects
+of conscious cognition. But the reality or esse reale of the con-
+scious, cognitive act, as such, essentially is or includes this percipi
+or esse cognitum of the object (whatever this be, whether it be
+matter, spirit, self, non-self, mental acts, forms of thought, etc.)
+which this act reveals (together with itself) to consciousness.1
+The whole direct conscious cognitive process may, no doubt,
+be deliberately made the object of a reflex act of psychological
+introspection, and may be analysed by acts of the intellect into
+subject, act, and object; and in each of these reflex cognitions it
+gets a new esse intentionale; but the direct act itself, in order to
+be apprehended in this same act, does not need to get an esse
+intentionale distinct from its own reality: in its own reality, in
+its esse reale, it is present to the conscious subject.
+But it is to be noted that all this is true of the actual existence
+or happening of the conscious, cognitive act as cognitive or per-
+ceptive of an object. Every such act, however, besides being es-
+sentially conscious or cognitive of an object (under which aspect
+its esse is percipi)] is in its real nature a vital act of a vital subject,
+and its real nature as such must be discovered by intellectual
+analysis of the whole cognitive process. Now if it be an act of
+sense perception its happening as an organic event or fact may be
+revealed as such to consciousness through the internal, organic
+and muscular sense (100); and as such it is seen to have an
+"esse" or reality which does not appear identical with its
+"percipi" any more than the "esse" of any other non-cognitive
+reality, such as a mountain, appears identical with its "percipi".
+Attention to this fact would obviate much confusion and explain
+much apparent contradiction between statements made by dif-
+ferent writers in regard to acts of sense perception.
+I consciously judge, for instance, that " two and two are four " . To say
+that the esse of that act is its percipi means simply that I could not judge
+1 Hence a cognitive act, as conscious, and as concomitant object of the mind's
+awareness, does not need, for such awareness, any esse intentionale distinct from its
+esse reale, to make it present to the mind, whereas every other supposed reality,
+other than a conscious act (which thus concomitantly reveals itself and its subject
+or agent in the concrete), does need, in order to become an object of awareness, an
+esse intentionale distinct from its esse reale.
+EXTRAMENTAL REALITY. EXTERNAL UNIVERSE 23
+"two and two " to be "four," I could not apprehend the objective relation
+between subject and predicate, unless in and by the act of apprehending I were
+made conscious of the presence of that objective relation to my mind and of
+myself apprehending it present. It does not mean that the act of judgment
+is the mere present and apprehended relation, or even the mere presence of
+the relation,—though without the relation, and its presence, the act of appre-
+hension could not take place,—but that it is an act which essentially and by
+its nature gives the objective relation its mental presence, and would not be
+such if it did not give the object this presence and make me aware of myself
+apprehending the object.1
+Again, "I see the paper on which I am writing ". To say that the esse
+of the seeing is its percipi means that unless by the act of seeing the paper
+I were aware of seeing it, the seeing would not take place at all: I could not
+see the paper without being aware of seeing it: by the act of seeing I am
+concomitantly aware of myself seeing; though by the mere act of seeing I
+am, of course, not aware of the self and the seeing as distinct from the paper,
+but of all together as one whole. Here, however, I may be simultaneously
+aware of an additional datum, viz. the muscular strain or tension involved in
+the organic activity of the sense organs, the eyes (100). And if I am, then in
+addition to my consciousness of seeing as an act perceptive of an object,
+I am simultaneously aware (through the internal, muscular sense) of seeing
+as an organic act or event (and concomitantly aware of this latter aware-
+ness).
+Finally let us take this example, "I feel a toothache ". Now a tooth-
+ache is a conscious state. Did we not feel it, were we not aware of it,
+it would not be really there at all. There may be unconscious mental states,
+—we may leave that to psychologists ;—and there certainly are unconscious
+organic states,—that is, assuming matter to be a mind-independent reality;
+—but a toothache, if and while it is an ache, is something of which ne-
+cessarily we are aware or conscious. As a sentient conscious state or
+process by which we are aware of something its esse is percipi. That is,
+we could not feel or perceive the something without being aware of feeling
+or perceiving it. Feeling the ache is being aware of feeling it.3 We
+could not feel without being aware of feeling. But if the esse of a toothache
+is thus its percipi, can it nevertheless be true to say, as Prichard says,'
+"It must in the end be conceded of a toothache as much as of a stone that
+1 The act of intellectually apprehending the objective relation, if considered in
+the abstract, apart from the latter, and from the presence of the latter to the intellect,
+is nothing that we can become aware of: it is of the concrete act whereby the rela-
+tion is rendered present to, and apprehended by, the subject, that we assert that itt
+eue is percipi, in the sense that concomitant consciousness of itself (and its subject)
+in the concrete is an essential feature of its reality, though not in the sense of deny-
+ing this "esse percipi" to be a real vital process whose nature can be explored by
+reflection.
+* If the " aching " or " painful condition " is itself described as a " feeling " we
+are using this latter term in its objective sense as the object of the conscious act by
+which we feel or become aware. Cf. "I feel (or am aware of) a feeling (or
+apprehended state or condition) ".
+2Of. cit., p. 118.
+?4
+THEORY OF KNOWLEDGE
+it exists independently of the knowledge of it "? That it exists independ-
+ently of our reflecting on it, thinking (judging, reasoning, etc.) about it
+(and "knowing " it in that sense), yes: the reality of my toothache does not
+depend on what I think or judge it to be, any more than in the case of
+the stone. That the toothache exists independently of my feeling or being
+aware of it (and "knowing " it in that wide sense of the term), no : the stone
+is a reality which I can conceive to exist without my being aware of it; but
+the aching is a conscious process of an organic sense, a process which is
+indeed a reality but a reality to which my awareness of it is essential. In
+that it differs from the stone. Yet even in regard to mere awareness, is there
+not a sense in which a toothache is as independent of this latter as a stone?
+Yes, if I use the term "toothache " not in its meaning as a conscious state or
+feeling, but in its meaning as a diseased physical or organic condition.
+The toothache in this latter sense is just as independent of my feeling
+or awareness as is the tooth itself, or as a stone: the stone, the tooth, and
+the physical condition of the tooth, we can and do conceive as having each
+alike a reality which is independent of our awareness of them: whether we
+are right in thinking them to have such a mind-independent reality being the
+main question of the significance and validity of sense perception.
+All conscious states, processes and activities,—realities of the kind
+called "mental,"—are at all events realities of whose actual existence or
+happening the Ego is directly and immediately aware. But they belong
+essentially to the reality of the Ego: whether all or any of them bring the
+Ego into cognitive relation with any reality beyond and distinct from the
+Ego is the main point now at issue.
+103. Alternative Methods of Justifying Spontaneous
+Belief in the Existence of an External Material
+Universe. (A) Transition Effected by Appeal to the
+Principle of Causality.—The question how we pass from
+a reasoned intellectual conviction of the real existence of the
+Ego (which has been already vindicated against Kant1) to a
+similar conviction concerning the existence of a material
+universe really distinct from and independent of the Ego (or
+of a material universe including the individual perceiver's own
+body, distinct from and independent of the latter's own mind),
+and the question whether the latter conviction (which exists
+in all men spontaneously) can be rationally justified, and, if so,
+how?—is it by reasoning from the implications of the former
+conviction ? or by showing that the real existence of an external
+material universe is as immediately evident to the knowing
+subject (in and through external sense perception) as his own
+real existence is evident to him in and through all his conscious
+processes ?—these are questions which can be answered only by
+1 Cf. vol. i„ §§ 77, 89; supra, §§ 97, 99, 100.
+EXTRAMENTAL REALITY. EXTERNAL UNIVERSE 25
+the closest scrutiny of our cognitive processes, both intellectual
+and sentient, of their respective data, and of the implications of
+these data.
+Nor do those who defend as rationally justifiable men's
+spontaneous conviction that they have knowledge of the exist-
+ence and nature of a material universe really distinct from and
+independent of their own minds, justify this conviction on the
+same lines. For some of them, holding that the really existing
+Ego is not merely the first but the only reality directly and
+immediately apprehended and known by the individual mind
+as real, and convinced that the immediate data of external
+sense perception, the data characterized by "extensity" and
+"externality," can be themselves only intramental states of
+the Ego,—justify our belief in the mind-independent existence
+and reality of an external material universe by interpreting
+those data of external sense perception as representing, and
+essentially involving the existence of, such a universe beyond and
+distinct from the Ego. In their view the transition from know-
+ledge of the real Ego to knowledge of the universe as a reality
+other than and distinct from the Ego, while grounded in external
+sense perception, is effected and justified only by thought. They
+effect the transition by the following line of argument:—
+It is by intellect, by thought, that we apprehend, in and through the
+data of consciousness, the self as really existing, and judge the self to be an
+existing reality. It is through and from these data (all of which are within
+the domain of the Ego) that we form the concepts of substance and accident,
+subject and states, permanence and change, agent and action, cause and
+effect, unity and plurality, identity and distinction, the possible and the actual,
+essence and existence, being and knowing, etc., and find the objects of these
+concepts verified in the Ego. Reflecting on the judgments we form by means
+of these and other derivative concepts, we find that these judgments are
+objectively grounded (chap, viii.) in the nature of the conceived objects, and
+that the conceived objects themselves represent what is given (chap, ix.) in
+the concrete, individual data of consciousness. In the concrete Ego, there-
+fore, including its whole conscious content, our thought apprehends the exist-
+ence, and in some measure the nature, of reality. Among the intuitions
+it has of the nature of reality are the principles of identity, contradiction,
+sufficient reason, causality, etc. The first three of those enumerated, the Ego
+sees to be of necessary and universal application to whatever really is,
+the fourth to whatever really becomes or happens (64, 66, 93). Reflecting, in
+the light of this latter principle, on the conscious data of external sense
+perception,—data which men spontaneously judge to be external to, and
+other than, and independent of, the perceiving Ego (because of their peculiar
+feature of "externality"), but which cannot themselves be really anything
+2 6
+THEORY OF KNOWLEDGE
+other than the Ego variously affected,—we rationally infer, by the principle
+of causality, that those data, so characterized by the feature of "external
+reference," must have an adequate cause ; that this adequate cause cannot be
+the Ego; that they are therefore partially caused by an extramental reality
+beyond the Ego, viz. the material universe represented by those data of
+external sense perception or sense consciousness.
+It is obvious, these philosophers point out, that if there be a reality beyond
+and distinct from the Ego, this reality, in order to be known, must be some-
+how really related to the Ego, must be cognitively identified with the Ego,
+must be somehow (" intentionaliter") reproduced in the Ego} This union
+is originated in sense perception or sense consciousness. But the objects
+given in external sense perception, its data, are not identically the reality or
+realities beyond the Ego, but are only products of the former in the latter,
+products which are likewise representations or appearances of the former in
+the latter. So that, although we may be said, by and in sense perception,
+virtually to effect the transition from Ego to non-Ego by becoming aware of
+appearances of the latter in the Ego, and by means of this awareness perceiv-
+ing (though not directly and immediately apprehending) the non-Ego (for to
+"perceive "—"per-capere "—is to apprehend something through, or by means
+of, something else) ; nevertheless, since perception merely makes us aware of
+an appearing datum, and does not interpret its nature, or judge of its origin,
+or distinguish Ego from non-Ego, it is thought alone,—judging, interpreting,
+reasoning on and from those data,—that formally and by deliberate reflection
+effects the transition from knowledge of the Ego to knowledge of a real non-
+Ego or external universe. And while thus justifying, through the aid of the
+rational principle of causality, our spontaneous conviction that we have
+genuine knowledge of the existence and nature of a real, material universe
+beyond consciousness and distinct from the Ego, our reason at the same time
+corrects the erroneous spontaneous conviction of what is called "naif" real-
+ism, the conviction, namely, that external sense perception reveals directly
+and immediately to the Ego what sort that material universe is in itself, in-
+stead of merely revealing, as it merely does, the various representations or
+appearances produced by that material universe in the consciousness of the
+Ego.
+104. Criticism of First Alternative.—Now it might, perhaps, be
+objected to this line of argument that it scarcely achieves its purpose. Our
+abstract concept of cause has been shown to be derived by intellect from the
+individual data of consciousness (65, 75-6, 92-3). The object of this concept
+has been shown to be really embodied in these data, and it is therefore validly
+applicable to them. These data, however, even those of them characterized
+by "extensity" and "externality," belong—in the view we are examining—
+exclusively to the domain of the real Ego. It would appear, therefore, that
+the concept of cause has objective reality, no doubt, and is validly applicable
+to all the realities revealed at any time within the domain of consciousness, />.
+1 This is a fundamental principle of the Aristotelian and scholastic theory of
+knowledge. "Cognitum est in cognoscente." "Amina cognosccndo quodammodo
+Jit omnia": "quodammodo," i.e. intetttionaliter or representatively. By knowledge
+the Ego is a microcosm, a conscious assimilation or apprehension or mirroring of
+the cosmos or macrocosm.
+EXTRAMENTAL REALITY.
+EXTERNAL UNIVERSE 27
+within the domain of the real Ego; but since ex hypothesi it does not yet
+appear from inspection of the data of consciousness that there is any reality
+beyond the domain of the real Ego, it is not clear how the principle of causality
+can attain to any such reality for us.
+Of course it will be pointed out that our intellect, once it has abstracted
+from the data of consciousness the concept of "something happening," and
+grasps what this necessarily involves, viz. "having a cause," sees immediately
+and intuitively the necessary and universal applicability of this principle to all
+contingent reality as such. Granted; but at this stage the mind has, ex
+hypotkesi, no knowledge of any reality beyond the Ego: since ex hypothesi
+the conscious data characterized by a feeling or sentiment of " otherness " or
+"externality" are only modes of the real Ego; and the plain man's spon-
+taneous interpretation of them as being really other than his Ego, or as
+directly and immediately revealing to him a reality other than his Ego, is not
+at this stage rationally justified,1 and therefore is not knowledge of a real
+non-Ego.
+But, it will be promptly urged, we can see by introspection that the
+whole internal panorama of ever changing, ever appearing and disappearing
+data, which fill up the conscious domain of the Ego, cannot be adequately
+accounted for by the reality which is the Ego, so that we are forced to infer,
+by the principle of causality, the existence of a reality beyond, and distinct
+from, and other than, the Ego. This seems unanswerable. But let us see.
+The panorama referred to certainly cannot be adequately accounted for by
+the real Ego so far as this real Ego is revealed in consciousness, by the
+real Ego as consciously apprehended, or—to put it yet another way—by the
+portion (of the real Ego) revealed in consciousness. But since, on the
+hypothesis under examination, we have at this stage neither knowledge nor
+even sense-awareness of any other reality3 than the Ego, so far from being
+forced to infer, as a necessary factor in the adequate cause of our conscious
+states, a reality other than the Ego, we are actually debarred from making
+this inference, and are forced rather to infer that since the consciously appre-
+hended portion of the Ego is not the adequate cause of our conscious states,
+these must be partially caused by the Ego acting unconsciously and in a
+manner unknown to us.
+And why are we, on the theory, debarred from inferring a reality other
+than the Ego? Because although the data of our consciousness have
+1 Nay, the spontaneous interpretation of these data characterized by " otherness"
+or "externality," as being identically the real non-Ego or material universe (thus
+thought to be immediately and directly given to the Ego in external sense percep-
+tion), is regarded as an erroneous conviction by those who reject the theory of im-
+mediate sense perception in every form.
+* It is admitted on the theory that we have sense awareness of conscious data
+characterized by the feeling of " externality " or " otherness "; of what we therefore
+call " appearances" or *' representations ". But it is held that these are modes of the
+Eg0, that sense awareness does not extend beyond them, and that the judgment
+whereby (without invoking the principle of causality or having recourse to inference
+from effect to cause) we spontaneously interpret them as revealing to the Ego a
+reality other than the Ego, does not of itself give us direct and self-evidently justified
+intellectual knowledge of the existence of a reality other than and distinct from the
+Ego.
+28
+THEORY OF KNOWLEDGE
+furnished us with abstract concepts of unity and plurality, permanence and
+change, identity and distinction or otherness, etc., and although these con-
+cepts are therefore validly applicable to the real Ego in its conscious states,
+at the same time if the conscious data from which they are derived are all
+modes of the Ego, it is impossible to see how the concept of real otherness
+in the sense of distinction from the Ego1 can be obtained from such data;
+and yet, unless we already have such a concept (i.e. of real otherness or dis-
+tinction from the Ego, or, of real non-selfness), and know it to be objectively
+and really valid, it is obvious that the principle of causality cannot avail us
+to infer a cause really other than the self.
+It may be urged against this that the concept of real distinction or
+real otherness, which we undoubtedly derive by abstraction from the real
+diversity and real changes in the conscious states of the real Ego, is seen to
+be applicable to all reality, and therefore to the relation between "the real
+Ego of which we are conscious," as one term, and "some reality other than
+this," as the other term. We reply that this is so, provided we already have
+this latter concept—of "some reality other than the self,"—and know this
+concept to be objectively and really valid. But on the theory we are examin-
+ing it seems impossible not merely to know this concept to be valid, but
+even to have it at all. And why? Because on this theory the only concept
+of distinction or otherness which we can derive from the data of our direct
+consciousness or awareness is the concept of distinction or otherness among
+the data, and within the domain, of the real Ego. For on this theory the
+sense-feeling of "externality " or "otherness "or "non-selfness," attaching to
+some of those data, does not enable us to judge, or justify us in interpreting
+intellectually, those data to be really other than the self. How could we,
+therefore, on this theory, ever obtain or form the conscious intellectual con-
+cept of the non-Ego at all,—seeing that the theory denies that there is
+among the data of our direct consciousness or awareness any counterpart or
+foundation for it? In other words, unless reality other than the self is im-
+mediately given to the self among the data, and in the states, of the latter's
+direct consciousness or awareness, it seems impossible for us to attain intel-
+lectually,—by any reflex thought processes of interpreting and reasoning
+from such data,—to reality other than the self. For the concept really
+requisite for such a transition, viz. the objectively and really valid concept
+of " non-self reality " would not be in our possession.
+If, finally, those who think that the reality of the non-Ego or material
+universe is not immediately revealed in direct external sense awareness, but
+only a "product," an "appearance," a "representation" of this universe,—
+a conscious datum which, though characterized by its feeling of externality, is
+yet a mode or state of the real Ego,—if such philosophers say that in this
+same sense-feeling of externality attaching to such data we have the veritable
+and sufficient sense-counterpart and foundation whence to derive by in-
+tellectual abstraction the concept of " reality other than the Ego,"—then they
+account, indeed, for the existence of this intellectual concept and for our con-
+scious possession of it, but how do they vindicate its objective and real validity?
+1 And not merely in the sense of distinction or otherness of on* conscious datum
+from another within the Ego.
+EXTRAMENTAL REALITY. EXTERNAL UNIVERSE 29
+If the sense-feeling of " externality" (and "extensity") attaching to certain
+conscious data of external sense perception cannot be itself interpreted by in-
+tellect as manifesting those data to be themselves direct and immediate re-
+velations to the Ego, of a real non-Ego, or a reality other than the Ego,—if,
+in other words, notwithstanding this remarkable characteristic of such data,
+we must on reflection intellectually pronounce such data to be in themselves
+and in their reality only modes of the real Ego,—then does it not follow that
+the abstract intellectual concept of "reality other than the Ego,"—grounded
+as it is on a feeling which is after all subjective and not significant (to in-
+tellect) ofreal externality or real non-selfness,—cannot be itself objectively and
+really valid? If the concept be derived from data which, whatever be their
+external reference, are really modes of the Ego,—or rather from a sense
+feature of these data which has itself for intellect no significance of external
+or non-self reality, how can that concept itself enable thought to attain to an
+external reality,—seeing that the content or object of the concept is merely
+the intellectual abstract of the concrete " sense-feeling of externality," a con-
+tent which we might describe as "external appearance," or "apparent ex-
+ternality," or "ultra-conscious reference of the Ego-Tea.\hy "? Or how can
+recourse to the principle of causality serve to give the concept, as its content
+or object, that which we are looking for, namely, "external or non-self
+reality"! For this principle, as we saw, can itself merely assure us that the
+total conscious content of the Ego is not self-explaining. It is at this point
+precisely that the collateral concept of distinction or otherness must come in
+to give definite, positive content to the causal or explaining factor to which the
+principle of causality refers us.1 It is not the principle of causality that gives
+'Hence the importance of investigating carefully the origin and grounds of our
+concept of the absolute or major real distinction, understood as the distinction be-
+tween one really existing being and another, and the tests for the objectively and
+really valid application of this concept. The whole question is discussed in our
+Ontology, §§ 23, 35-9. Cf. especially, § 38, p. 148, where it is pointed out that the
+relation of efficient causality is not of itself sufficient to establish between the terms
+of the relation (cause and effect) a teal distinction in the sense of a distinction be-
+tween one existing being (the Ego, for instance) and any second really existing be-
+ing (e.g. the non-Ego). Of course the relation of efficient causality is sufficient to
+justify our concept of a real distinction in the sense of a distinction between real
+states (especially successive states) in the really changing contents of the Ego as a
+self-conscious reality. But if we reflect, in the light of the principle of causality,
+on the fact that we find in our consciousness states or data which, although they are
+contingent and therefore caused, we nevertheless do not know to be caused by the
+self so far as we are conscious of the latter, this reflection alone cannot possibly re-
+veal to thought a reality other than the self: it merely identifies the cause (referred
+to by the principle) with this reality, provided toe have already what we know to be
+an objective and really valid concept of non-self reality. - The question then is, can
+thought (meaning intellectual abstraction, generalization, conception, judgment, and
+reasoning) reach a non-self reality if no such reality be directly and immediately
+given to the Ego in any of its mental processes of direct conscious cognition or
+awareness? It does not seem possible. We know it is contended by some that
+even though direct sense awareness reveals merely the Ego,—variously impressed or
+affected by conscious states, some of which have an appearance of, or reference to,
+externality or non-selfness,—nevertheless thought can validly conceive and attain to
+non-self reality. But it cannot do so, as we have seen, by the principle of causality,
+3°
+THEOR Y OF KNO WLEDGE
+a positive content to the concept of otherness-from-the-self. The objective
+and real validity of this concept must stand or fall on its own merits. If the
+direct conscious data on which it is based, and from which it is derived, reveal
+only the Ego, it is objectively and really valid only in its application to these
+conscious data within the real Ego. If it is based on, and derived from the
+direct sense-feeling of externality in certain of those data, then (1) if this feel-
+ing of externality has no significance of real externality for intellect, this con-
+cept of otherness, together with the principle of causality, can refer us only to
+an ultra-conscious domain of the real Ego, but not to a reality other than the
+Ego; while (2) if this sense-feeling of externality reveals the data char-
+acterized by it as really other than, though directly and immediately mani-
+fested to, the real Ego, and if intellect can and does interpret as really valid
+the external significance of this consciously apprehended characteristic of the
+data of our external sense awareness or sense perception, then indeed the ab-
+stract intellectual concept of otherness, in the requisite sense of "otherness-
+from-the-self" is itself objectively and really valid,—and gives definite and
+positive content to the ultra-conscious causal factor to which the principle of
+causality refers us. But in this case we do not really need the principle of
+causality to give us reasoned intellectual certitude of the existence of a real
+world distinct from the Ego. For by virtue of the objective and real validity
+of the concept of "reality-other-than-the-^ff,"—a validity which it derives
+from the conscious data of our external sense awareness, from the fact that
+a non-self reality is directly given to the Ego in these data, as evidenced by
+their characteristic of " externality,"—we already possess reasoned intellectual
+certitude for the judgment, "That which I apprehend in external sense per-
+ception, and the nature of which I interpret intellectually by judgment and
+inference, I know to be a real universe really existing distinct from, and inde-
+pendently of, myself the perceiver and knower ".
+unless it has already the valid concept of such reality. And how the concept can
+be valid if the feeling of externality or non-selfness in the conscious data of external
+perception,—the feeling from which alone such a concept can be derived,—cannot
+be itself intellectually interpreted as a direct manifestation of a real non-Ego to the
+real Ego,—how in such an hypothesis the concept can be regarded as really valid,
+we fail to see.
+In the context referred to (ibid., § 37, p. 147; p. 146 n.; pp. 151-3), the conclu-
+sion is reached that abstract thought alone cannot attain to, or identify, the distinc-
+tion which is the most real of all distinctions, vis. that between one individual
+existing real being and another: of which distinction the most profoundly important
+instance is the distinction between the real Ego and reality other than the Ego. It
+is shown there that for the vindication of the objective and real validity of this dis-
+tinction abstract thought must appeal to direct conscious awareness of reality in the
+concrete. But if in the domain of the mind's direct and intuitive awareness (whether
+sentient or intellectual) of reality, there is given only the self-reality, it is not easy
+to see how intellectual reflection (through abstract concepts) can ever effect a valid
+transition from such real sf//-data to a non-self-reality (and not merely to an un-
+conscious or subconscious or ultra-conscious domain of the Ego, as the intellectual
+analogue of the " externality "—and " extensity "—of certain of these conscious self-
+data).
+EXTRAMENTAL REALITY. EXTERNAL UNIVERSE 31
+105. (2?) Spontaneous Conviction of the Existence
+of an External Material Universe Rationally Justi-
+fied by Intellectual Reflection on the Nature and
+Characteristics of External Sense Data.—This brings
+us to the second of the above-mentioned (103) alternative
+methods of vindicating a reasoned certitude for men's spontane-
+ous conviction that they can and do know the existence, and
+something of the nature, of a real material universe independent
+of their own minds. According to this view a real external uni-
+verse, a reality other than the Ego, is given or presented to the
+latter in the data which we are made directly aware of in external
+sense perception. The Ego has from the beginning conscious
+data characterized by the feelings of what we intellectually con-
+ceive and describe as "voluminousness" or "extensity," and
+"externality". The data so characterized are the foundation
+and source of our abstract concepts of "extension," "impene-
+trability," "matter" or "body," "non-self,"1—concepts which
+we compare and contrast with the concepts of "conscious appre-
+hension," "conscious unity of the manifold," "conscious being,"
+"mind," "self" or "Ego" concepts simultaneously formed by
+intellectual activity, direct and reflex, from all the data of our
+direct awareness. Now we spontaneously judge or interpret the
+data which furnish us with the former set of concepts,—especially
+the data accompanied and marked by the feeling of "exter-
+nality "s—to be a reality other than the perceiving and thinking
+self. And reflecting on this spontaneous judgment, and on the
+concepts whereby we formed it, we can and do see the judgment
+to be true and the concepts to be objectively and really valid.
+That is to say, external sense perception, by revealing to us
+"external" data, reveals to us what we, by interpreting them,
+rightly judge to be a reality other than the self. In other words,"
+the characteristics of extensity and externality, in certain con-
+scious data, which made these latter appear as external to the
+1 The concept of " object-of-awareness " is also derived de facto from such data,
+though it can be derived even from the most purely subjective data of conscious-
+ness: for intellect sees involved in all possible awareness duality of "conscious /
+subject" and " apprehended object ".
+* The feelings of " extensity " and " voluminousness," which yield the concepts
+of "extended or spatial reality," " matter " or "body," we do not at first, but only
+later, detect as characterizing some data which do not appear as " external " but as
+"internal" or "self" data; and thus we come to realize that the "self" is not
+merely a "thinking subject," but likewise "a sense-perceiving subject," and is as
+such corporeal as well as conscious or mental. Cf. infra, § 116.
+3~
+THEOR Y OF KNOIVLEDGE
+Ego when directly aware of them, are now regarded, and rightly
+regarded, by intellect reflecting on them, as furnishing to intellect
+direct and immediate evidence, objective and real evidence, for
+the reasoned judgment that "those data are really an actually
+existing material universe distinct from the reality of the self or
+Ego".
+According to this view of the matter, therefore, the real non-Ego is just
+as directly and immediately given in cognition as the Ego (100). It is given
+in our direct conscious awareness of data marked by "extensity" and "ex-
+ternality ". In our spontaneous interpretations of these data of external sense
+perception it is cognized as really other than the Ego. And rational re/lec-
+tion on the direct data from which we form the concept of a "real non-Ego"
+justifies the objective validity of this concept, and the truth of the judgment
+wherein we predicate it of these data.
+It is true, indeed, that the reality of the Ego is the reality about whose
+actual existence reflection shows our spontaneous conviction to be most un-
+shakeable (31, 35). But do I know my "self" or Ego as a permanent
+being, abiding self-identical amid change of conscious states,—as a being
+which persists in existence independently of my awareness of it, and whose
+"esse" is not mere "percipi,"—have I this sort of knowledge of the Ego
+antecedently to, and as a prerequisite condition for, my reasoned conviction 1
+that there also exists, besides myself, a real non-Ego which is also a being
+or domain of being that persists independently of my awareness of it?
+The former conviction is not a prerequisite of the latter. For the very con-
+cepts, by the application of which to some of the conscious data of the
+Ego as a self-conscious subject, I reach the former conviction,—viz. the
+concepts of "actually existing being" (objective to a subject aware of it,
+and involved in this awareness), "substance," "states," "change," "per-
+manence" or "duration," "identity," etc.,—these very same concepts I
+simultaneously and independently apply to other of these data (those affected
+by "externality "), and I do so with a consciousness that the application is
+valid; and I thus reach the latter conviction (viz. that there is a real non-Ego,
+which also permanently persists throughout change and independently of my
+awareness of it) concomitantly with my reaching the former.
+I see, of course, that this real non-Ego must be cognitively related to my
+real self, must be " made one " with me "cognitively " or "inlentionaliter,"
+in order that I become aware of it or know it at all, and that this holds good
+even for my direct sentient awareness, no less than for my thought and re-
+flection. But just as I do not see that a real identity of that which I know
+or become aware of, with myself knowing or aware of it, is essential to my
+knowing or being aware of it, or how such supposition can in the least help
+1 It is obvious that such a knowledge of the self is not a prerequisite condition
+for (a) my awareness of " externality," or awareness of a distinction between con-
+scious data of external perception (" strong " or " vivid" data) and conscious data of
+imagination, conception, etc. (" weak " or "dim " data); or (6) for my spontaneous
+intellectual conviction or judgment that the data which thus appear as external are
+really external to myself who am aware of them.
+EXTRAMENTAL REALITY. EXTERNAL UNIVERSE 33
+me to realize how I even know or become aware of my self (17, 19, 35, 75,
+101); so, too, I do not see how I can attain to a reasoned conviction of the
+separate existence of the real non-Ego by thought, i.e. by way of inferring1
+such existence from my own self-known real existence, or even by the use of con-
+cepts in judgment to interpret certain data as revealing a real non-Ego, unless
+these concepts are really and validly applicable to these data, and are already
+known by me to be thus applicable: but they cannot be, and be known to be,
+thus applicable, unless the concrete data of my direct sentient awareness—
+the data from which the concepts are derived—reveal to me, and put me into
+direct and immediate cognitive relation with, a real non-Ego (and not merely
+with an "externally appearing" phase or aspect of the reality which is my
+self). The fact is, therefore, that a real non-Ego is revealed to me in the
+data of my direct external sense awareness or perception, and because it iz,
+the concepts which I use in judging spontaneously that they reveal a really
+existing non-Ego or external universe are objectively and really valid ; and
+because reflection shows the fact and the reason of their validity, our spon-
+taneous conviction of the actual existence of an external material universe
+independent of conscious perception, and distinct from the Ego, is eo ipso
+transformed into a reasoned philosophical certitude.
+Not only, therefore, does it appear superfluous to appeal to the principle
+of causality as a means of vindicating philosophical certitude for the spon-
+taneous conviction that the perceived external material universe exists in-
+dependently of our perception and thought; but such an appeal would even
+appear to be futile in the very hypothesis in which it is deemed essential, and
+to be useful—as a corroborative vindication—only in the hypothesis in which
+it iz not really essential, for this purpose. For if we hold that the Ego
+can and does directly apprehend a real non-Ego in the data of external sense
+perception, and that therefore the concepts whereby we spontaneously judge
+these data to be a real non-Ego are validly applied, then by mere reflection
+on these percepts, concepts, and judgments, and without any appeal to the
+principle of causality, we have transformed our spontaneous conviction into a
+reflex certitude.3 While if we hold that the Ego can directly and im-
+mediately apprehend, in and through the concrete data of its direct sense
+consciousness or awareness, only itself (however variously impressed or
+affected), how can thought, by means of concepts derived from such data,
+interpret these or any of them to be a real non-Ego, or infer that any of them
+involve real otherness or a real non-Ego?
+'At the same time it is conceivable that reflection on the difficulties which
+may be urged against the possibility of a direct sense awareness of anything
+really other than states of the conscious Ego would destroy a person's spon-
+tanoeus belief that he has in fact such a direct sense awareness of a real non-
+self world or universe. And such a person might nevertheless not only
+rationally justify his conviction that he knows his own self as a real existence;
+but also convince himself that the concepts abstracted by his thought activity
+1 By the principle of causality.
+2Of course the argument from causality will then confirm this certitude (m) by
+making us realize that without the already discovered real non-Ego as partial cause
+of our conscious cognitive states, the succession of these in the Ego would be in-
+explicable and unintelligible.
+VOL. II. 3
+34
+THEOR Y OF KNO WLEDGE
+from the concrete data of his direct awareness, and the necessary principles
+apprehended by thought in the domain of such concepts, are objectively and
+universally valid in their application to all reality, whether in the domain of
+thought or of sense. The exercise of thought (thus admittedly valid) in in-
+ferring the actual existence and nature of a real non-Ego by virtue of the
+principle of causality, might then effect for such a person the transcending of
+the self, or the transition to a real non-Ego, even though he had persuaded
+himself that such transcendence or transition was a feat that lay beyond the
+power of the mind's direct " external " sense awareness.1
+r\ut it is not likely that many of those who deny that there is any rational
+justification in the conscious data of external sense perception for the spon-
+taneous judgment that "a reality other than the self exists," will admit that the
+argument from causality rationally justifies this judgment (vol. i., p. 134).
+Moreover, the inference from the real Ego to a real non-Ego by way of
+the principle of causality, seems to us to labour under the drawback already
+indicated : 2 that the principle of causality obliges us to infer merely that there
+is and must be an adequate cause of our conscious states, that if the Ego as
+consciously apprehended is not adequate cause of them there must be some
+partial real cause of them beyond consciousness; but it does not assure us that
+this something beyond consciousness is a reality other than the permanently
+subsisting real Ego itself. In other words, the argument does not seem
+effectively to exclude monism of some form or other. The falsity of monism
+can be effectively established only by vindicating the validity of the major
+real distinction in its application to the objects of our concepts of the real
+Ego and the real non-Ego? Of course our concept of " real distinction " or
+"real otherness," applied to the non-Ego as compared with the Ego, will be
+shown to be valid if we can show that it has a real foundation in the concrete
+data from which we abstract the concepts of "self," "non-self," and "other-
+ness" or "distinction," in the domain of our direct consciousness or aware-
+ness. Now if we divide this latter domain into immediate data of intellectual
+thought (" intellectual " consciousness) and immediate data of sense awareness
+(" sense " consciousness), and hold that intellect or thought proper (as well as
+sense) has direct intuitions of individual concrete existences or happenings, it
+will not be contended that any of these intuitions reveal, or furnish data for
+the abstract concept of, a real non-Ego. For such intellectual intuitions are
+generally understood to apprehend exclusively the Ego consciously think-
+ing, conceiving, judging, reasoning, willing, etc. ;—the view of William of
+Occam, that intellect has direct and immediate intuition of external or non-
+self reality (82), being regarded as singular and erroneous. The concepts
+abstracted from such intuitions, therefore, cannot reveal a real non-Ego to us,
+for although they are of course indirectly applicable to all the conscious data
+we can think of (even those characterized by " externality "), by being directly
+applicable to our processes of thinking of these latter, nevertheless, since our
+consciousness of this "externality" is ex hypothesi not recognized to be a
+valid cognition or awareness of an external or non-self reality, the application
+of such concepts to "external seeming" data of consciousness cannot trans -
+1 Cf. jEAnnifcRK, op. cit., p. 224 n. *Supra, § 104.
+• Ibid., p. 29, n. 1.
+EXTRAMENTAL REALITY. EXTERNAL UNIVERSE 35
+form these latter into a non-self reality. Moreover, as was pointed out above
+(100) the intuitions and concepts of this intellectual or thought-domain of
+consciousness are dependent for their existence or occurrence on the direct
+conscious activities whereby we become aware of what are known as concrete
+sense data: nihil est in intellect!/ quod prius non fuerit in sensu: the
+original data of all cognitive activity are given in direct sense awareness.
+In these latter, therefore, we must finally seek a valid foundation for our
+abstract concepts of a "real non-Ego" and "real otherness or distinction
+from the Ego". Now, if reflection were to pronounce these sense data,
+including their felt characteristic of "externality" to be really modes or
+phases or manifestations of the reality of the Ego, how would the abstract
+concepts (of "extension," "matter," "otherness" or "distinction," etc.)
+abstracted from such data by conception and validly applied to them again in
+judgment, transcend the real Ego in such application? They could not
+transcend it. Or if we applied such concepts in such a way as to make them
+transcend the real Ego, i.e. by assuming them to reveal to us a real non-Ego,
+would such application be really valid? It would not; for such concepts
+would, ex hypothesi, not have been derived from any real non-self data;
+they would have had, ex hypothesi, no foundation in any real non-self data;
+since the seeming or felt "externality" of sense data would have been, ex
+hypothesi, not an evidence of real externality or non-selfness, but only after
+all a peculiar and unexplained feature of certain conscious states of the Ego
+itself.
+Of course, if our intellectual concepts were innate, i.e. obtained by us
+independently of sense data and sense activities, and if in addition it could be
+proved that intellectual cognition revealed to us, through such concepts, and
+therefore also independently of sense, a domain of real being that would be
+"objective" not merely in the sense in which every cognition as an act of
+awareness has an "object," but in the sense of "non-self" or "really distinct
+from and other than the knowing subject," then indeed it could be intelligibly
+maintained that even though sense did not attain in perception to the real
+non-self, but only to a consciously apprehended mode of the self, nevertheless
+intellect could attain to the real non-self (namely, by the concept of "cause"
+and the principle of causality) and could prove the "consciously apprehended
+mode of the self," present in perception, to be at once a product and a repre-
+sentation of the non-self in the perceiving and knowing subject.1 But our
+concepts are not innate; they are not formed independently of sense-data;
+our vindication of their real validity (i.e. of Moderate Realism, cf. 76-8) has con-
+sisted in showing that the objects or contents revealed by them in the abstract
+to consciousness are the identical objects or contents revealed to conscious-
+ness in the concrete in our acts of internal and external sense perception—on
+the assumption, which we then promised (72) to prove at a later stage, that
+these latter objects or contents are realities. Now the concept of real
+externality or real-otherness-from-the-self is a concept of supreme importance
+in its bearing on the problem of the knowing subject's capability of trans-
+cending self in the process of cognition; and upon the validity of its appli-
+1 Cf. Prichard's analogous view that our intellectual knowledge of space and
+spatial relations is independent of sense perception,—infra, %% 125, 128.
+3*
+36
+THEOR Y OF KNO WLEDGE
+cation to the whole domain of reality which we spontaneously believe to be
+external the validity of this belief depends. If, therefore, the concrete sense
+datum (of "felt externality ") from which this concept is formed, cannot be
+shown, by direct intellectual reflection upon it, to be real, i.e. if the data
+which are felt (or appear) to be external in normal external sense perception
+cannot be seen by intellect reflecting on them to be eo ipso really external,
+how can we hope to vindicate such real externality for those data, and such
+real validity for the concept of externality, by appealing to any evidence that
+can be furnished by another concept, namely, that of causality, if this concept
+too be derived, as it is, from immediate data of conscious, concrete (internal)
+intuition and (external) perception, while as yet none of these immediate data
+have been shown to be themselves externally real?
+But the contention that intellect, contemplating the direct
+and immediate data of conscious external sense perception, finds
+these to constitute an external, material universe distinct from
+the Ego, is not without its difficulties. These we shall examine
+in the course of the exposition of facts and theories in the para-
+graphs that follow. The facts are not very numerous; but the
+theories,—from absolute subjectivism, idealism, or scepticism, to
+the most "ingenuous" or "naif" realism,—are even bewildering
+in their abundance.
+CHAPTER XV.
+VALIDITY OF SENSE PERCEPTION: REAL EXISTENCE OF AN
+EXTERNAL, MATERIAL UNIVERSE.
+106. The Facts of Sense Perception.—I. All men have
+an invincible persuasion that certain objects appear to them, and
+are perceived by them, as distinct from, and outside of, them-
+selves, and as endowed with certain features such as extension,
+impenetrability, shape, colour, etc. This feeling of externality,l
+of such objects has never been denied by even the most extreme
+sceptics.
+II. Hence, men spontaneously judge that outside themselves,
+and independently of their conscious perceptions, there actually
+exist real things endowed with such features and qualities. This
+we may call the spontaneous judgment of externality or otherness.
+It involves two sorts of judgment, the judgment of existence,—
+that a "reality or realities external to the perceiver exist,"—and
+the judgment of nature,—that "this reality is such and such,"
+e.g. soft, spherical, cold, yellow, sweet, etc.; that "this is an
+orange," "that. is an oak," "that is a horse," etc., etc. That
+men spontaneously make and believe such judgments is likewise
+universally admitted.
+III. Antecedently to philosophical reflection men spontane-
+ously believe that the existence of a real, external, material
+universe, existing independently of their perception of it, is as
+indubitably evident to them as their own individual existence.
+Nay, when we want to express the strongest intellectual certi-
+1 Some authors say that on reflection this feeling of externality can be indubit-
+ably detected only in the data of sight; others only in the data of touch; others only
+in these two domains of data; others in the data of hearing as well; others even in
+the data of taste and smell. Cf. Jeanniere, op. cit., p. 385 n. All sensations
+reveal objectivity of course (§ 19). But not all reveal externality, e.g. the organic
+sensations whereby we become aware of the internal states and conditions of our
+bodies. Similarly, the feeling of voluminousness or extensity, which is held by some
+psychologists to characterize the data of touch alone, is held by most to affect the
+data of sight as well, and by many to affect in some measure the data of all the
+senses. Cf. Jeanniere, op. cit., p. 401, n. 2.
+37
+38
+THEOR y OF KNO WLEDGE
+tude of the truth of any judgment we describe it in terms
+borrowed from sense perception, we say that such a truth is
+manifest, as clear as noonday, palpable, that we see it, etc., etc.
+It is admitted that so irresistibly does this persuasion of the
+independent existence of an external universe force itself upon
+men that even those cannot eradicate it, but continue to act on
+it, who come to regard it as theoretically indefensible (37).
+IV. We classify the conscious data or objects of sense per-
+ception into certain broad, clearly distinct and mutually irre-
+ducible domains: into colours, sounds, tastes, smells, organic
+states (of bodily pleasure, pain, etc.), pressure, resistance to
+muscular effort, heat and cold, size and shape, rest and motion,
+position, location, number, etc. It is admitted by all that we
+have such diversely qualified data or objects of sense awareness.
+V. Even a moderate measure of reflection on the various
+qualities which we thus apprehend in the "external" data of
+sense awareness, and which we ascribe to things spontaneously
+judged to exist outside us and independently of our perception,
+will convince us that some of those qualities seem to be more
+dependent than others, for what they appear to be, on the actual
+condition of the bodily sense organs,1 to be more relative than
+others to the self as sentient subject. When, for instance, we
+say that this stone is hard, this orange is round, this grass is
+green, these clouds are moving; and then that this water is
+warm, this wine is mellow, this perfume is pleasing,—we realize
+that the former group of qualities belong to the subjects to which
+we attribute them, more absolutely and independently of our-
+selves, than the latter group do to theirs: that what feels warm
+to one hand may feel cold to the other, that the same "thing"
+may not "taste" or "smell " the same to different people, or to
+ourselves at different times, etc. This broad fact is undisputed;
+not so, however, its significance, or its application in detail.
+VI. Reflection also reveals, among the qualities of sense data
+or objects, another broad distinction which has been recognized
+in one form or other at all times by students of sense perception:
+1 Or, of the self as a corporeal, organic, conscious subject. The body, with its
+sense organs, is apprehended by us in two distinct ways: (a) by our external senses
+in the same way as we apprehend the "external" universe, and as similar to the
+latter (corporeal, or material, extended, etc.); (b) by the internal, muscular, organic
+senses, the functioning of which accompanies that of the external senses and con-
+comitantly reveals the bodily organism as the sentient-conscious self or subject.
+The former apprehension may be described as objective, the latter as subjective.
+VALIDITY OF SENSE PERCEPTION
+39
+the distinction between what scholastics have called the " proper
+sensibles" (sensibilia propria) and the "common sensibles"
+(sensibilia communid). The former are the concrete qualities, or
+"qualified" data or objects, of each separate sense: colours,
+sounds, tastes, odours, pressures or resistances, temperatures,
+organic states. The latter are concrete, "qualified" data or ob-
+jects, apprehended in common or by more than one sense channel:
+shape (forma vel figurd), size or volume (magnitudd), number
+(multitudo),1 rest, motion. The former are also called the
+"secondary" sense qualities, and the latter the "primary" sense
+qualities, of matter (or of " corporeal " or "sense" data).
+This division of sense data into "primary" or "common,"
+and "secondary" or "proper," is recognized as grounded in
+consciously apprehended differences between the two sets of data
+respectively. But its significance and implications are much dis-
+puted. The former or "common" sensibles are clearly all con-
+crete modes of " extensity" or "voluminousness," and appear to
+be data of sight2 as well as of touch. Superficial extension (or
+coloured surface) certainly appears to be a direct datum of sight.3
+The three dimensions of extension (length, breadth, and depth)—
+not separately and in the abstract, but together, as "concrete
+voluminousness"—are a direct datum of touch (i.e. of the passive
+sense of pressure, and the active or muscular sense of motion
+and resistance, combined); but whether the third dimension of
+space is a direct datum of sight, i.e. whether, independently of
+tactual, muscular, and motor sensations, the sense of binocular
+vision can or does reveal to us depth or distance from the per-
+ceiver, or objects in relief,—is a question to which psychologists
+usually reply in the negative.4 But, even so, the appellation,
+"common sensibles," is a justifiable description of the concrete
+modes of extensity which have been so designated.
+107. Their Psychological Explanation and their
+Significance for Epistemology.—Now, psychologists are con-
+cerned with explaining the origin or genesis, and the growth or
+11concrete multitude apprehended through awareness of discontinuity or
+interruption in our feelings of magnitude or voluminousness.
+2 All the senses apprehend change in intensity of their respective data. The
+sense of hearing can thus, at least indirectly and by association, make us aware of
+local motion. Sensations of taste, being inseparable from accompanying sensations
+of touch, have a distinctly "voluminous" character; those of smell also yield a
+vague feeling of extensity.
+» C/. Maher, op. cit., p. 87. *Ibid., cf. pp. 129, 135-144.
+40
+THEOR Y OF KNO WLEDGE
+development, of the various phenomena just enumerated: of the
+conscious feelings of extensity and externality in certain data of
+our awareness; of our spontaneous judgment that an external,
+material universe exists independently of our awareness; of our
+spontaneous conviction that the existence of such a universe is
+self-evident; of our spontaneous belief that we know something
+of the nature and qualities of this material universe; of our
+spontaneous discrimination between our minds, our own bodies,
+and external bodies; etc., etc. They are not concerned with the
+validity of these spontaneous judgments and beliefs, but only with
+the mode of their genesis and development from the primitive
+content of consciousness with its vague characteristics of "ex-
+tensity" and "externality ". Starting from these primitive data,
+they differ in their accounts of the way in which we come to
+form the spontaneous judgment and conviction that there exists
+a non-Ego or external universe really distinct from, and other
+than, and independent of, the Ego.
+I. Some maintain that the reality of the non-Ego is given in
+external sense perception just as early and just as immediately
+as the reality of the Ego is given in all conscious cognition; and
+that therefore the spontaneous conviction of the reality of a non-
+Ego or external universe is an immediate interpretation of this
+originally presented distinction. This position is described as
+Perceptionism, or Intuitionism, or the Theory of Immediate or
+Presentative Sense Perception}
+II. Others maintain that the non-Ego, as distinct from the
+Ego, is not a primitive datum of conscious awareness; that only
+the Ego is apprehended first and immediately; that from its data
+there is evolved and mediated a conscious discrimination or dis-
+tinction between a non-Ego and the Ego, and a spontaneous belief
+in the distinct reality of the former. This position is variously
+described as Representationism,3 or the Theory of Mediate or
+Representative or Inferential Sense Perception. But its supporters
+differ in regard to the nature of the process by which apprehen-
+sion of the non-Ego, and belief in its distinct and independent
+reality, are "mediated ": some holding that in the early stages
+of the conscious life of the individual all the conscious data are
+"internal" or "self" data, and that the individual gradually "ex-
+1 Cf. Maher, op. cit., pp. 101 sqq.; Jeanniere, op. cit., pp. 379, 382.
+aOr " Conceptionism " (cf. ibid., pp. 223-4, 379),—a designation to be avoided
+as fostering a misleading use of a term proper to the domain of intellect.
+VALIDITY OF SENSE PERCEPTION
+ternalizes" or "projects outward" certain of these data, thus
+building up an " external" domain opposed to, and distinguished
+from, the "subjective" or "self" domain of reality; others hold-
+ing, on the contrary, that the actual process is quite the reverse,
+that it is a process of " subjectivation" or " internalization," that
+at first all conscious data appear to the individual as a confused
+and undifferentiated ocean of "objects," that most of them
+are gradually apprehended as " external" through a process by
+which others are "subjectivated" to form a conscious, sentient,
+organic self or Ego, and thus opposed to, and distinguished from,
+the main group as "objective," "external," or non-Ego}
+Whichever of these accounts of the genesis of our perception
+of, and spontaneous belief in, an external universe be adopted,
+the epistemological problem—the question of the validity of this
+belief—still remains. If men spontaneously judge that what is
+"given" in consciousness, as an "external," "extended" datum,
+is a reality other than the Ego,—are they right in judging so?
+Is the judgment justifiable before the bar of reason reflecting on
+the grounds of it? Or, if from the original data, in which that
+alone which is the real Ego is "presented," there is evolved by
+some process a mediate awareness wherein a "non-Ego" is
+"represented," what rational justification have we for the spon-
+taneous judgment which, in asserting the independent existence
+of this " non-Ego" or external universe, assumes the validity of the
+"representative " or quasi-" inferential " process?
+108. The Problems and the Theories.—Can we, reflect-
+ing on the data of sense perception, have reasoned or phil-
+osophical certitude for the spontaneous judgment and belief
+that these data reveal (a) the existence, and (b) something as to
+the nature, of an external, material universe distinct from the
+perceiving subject or Ego? The answers of philosophers to
+these questions have varied from the most extreme subjective
+idealism to an equally extreme affirmation of the naif realism of
+the credulous and unreflecting mind. Broadly speaking, the
+two alternative attitudes—of those who doubt or deny, and
+of those who affirm and maintain, that we can have such certi-
+tude—may be described as Idealism and Realism respectively.
+But there are many different phases and degrees of both.
+I. Idealism doubts or denies that anything beyond the
+Ego, the psychic facts of the self, can be objects of knowledge,
+1 Cf. Jeanniere, op. at., pp. 380-1.
+42 THEOR Y OF KNO WLEDGE
+can be known really to exist . Hence it is also called Subjectiv-
+ism: sceptical if it doubts, dogmatic if it denies the possibility
+of such (reasoned) knowledge of a universe beyond the Ego.
+This is the logical issue of the Idealist Postulate, that the
+mind cannot transcend itself to know anything beyond its
+own states: a postulate insinuated by Locke, partially applied
+by Berkeley to deny the reality of matter, fully applied by
+Hume to reduce all knowledge to awareness of mental "appear-
+ances" or "phenomena," and by Mill in his reduction of all
+reality to "sensations plus permanent possibilities of sensations ".1
+Idealism is absolute or total if it holds the sole knowable reality,
+the sole object of knowledge, to be the subject's own conscious
+states or "representations ": the position of Fichte, Schelling,
+Hegel, Schopenhauer, Renouvier,2 etc. Akin to this is what
+Leibniz first called " Solipsism" : the view that the conscious self
+is the sole reality—with the unverifiable possibility of other simi-
+lar but really distinct conscious "selves ". Idealism is relative
+or partial if it admits philosophical certitude as to the existence
+of something, some reality, other than the Ego, but interprets
+too narrowly the nature, scope, and object of this certitude.
+Thus, Berkeley's Immaterialism is subjectivist in so far as it
+denies the existence of a material universe as a mind-independ-
+ent reality, but is "realist" or "objectivist"3 in so far as it
+accords to this universe the reality which consists in its being
+a system of perceived, mind-dependent ideas,4 produced in finite
+spirits or human minds by the Infinite Spirit, the Deity. Again,
+Kant's Transcendental Idealism is a partial or relative idealism
+inasmuch as, while it denies that a real non-Ego or mind-in-
+dependent reality can ever become an object of knowledge, or
+be known, it admits that this (" unknowable") reality must be
+thought or postulated as really existing, and that belief in the
+validity of this postulate is justifiable. So, too, the agnostic
+position of positivism and phenomenism,—in recognizing the
+rational necessity of postulating a reality beyond the domain
+of the conscious self, and at the same time denying that we can
+know anything about this reality,—is a partial or relative ideal-
+1 Cf. Ontology, §§ 61, 63, 75.
+*Cf. Jeannibre, op. cit., pp. 381, 438.
+* Hence it has been described as " objective idealism ". Cf. I.E. Ricord, vol.
+xxiv., pp. 280-2; infra, § 123.
+4 Entities the esse of which is identically their fercipi (cf. § 102).
+VALIDITY OF SENSE PERCEPTION
+4J
+ism: a position for which Spencer lays claim to the title of
+Transfigured Realism}
+II. Realism maintains that we have adequate intellectual
+justification for (a) the spontaneous judgment that a real,
+external, material universe exists independently of our per-
+ception of it; and for (6) many of the spontaneous judgments
+we form as to its nature and qualities; while (c) reflection can
+correct the errors of other spontaneous judgments too hastily
+formed by misinterpretation of our sense perceptions. But be-
+tween the naif, ingenuous, unreflecting realism which, by over-
+looking the part which the sentient self or subject has in
+determining how external things "appear" in sense perception,
+often erroneously attributes to these external things qualities
+or natures which they do not really possess in themselves,—
+between this extreme form of realism on the one hand and
+certain other extreme or hypercritical forms of realism on the
+other hand,—forms which almost merge into idealism by de-
+claring all our qualitatively differentiated sense data to be
+subjective, conscious products, which are merely symbolically
+indicative of the real nature and qualities of the external or
+non-self universe,2—there are many intermediate shades of what
+is known as moderate or critical realism. Naturally, too, as
+regards the manner in which we come to know the indepen-
+dent reality of an external universe, the advocates of naif realism
+hold the theory of immediate or presentative or intuitional sense
+perception; the advocates of hypercritical realism, that of
+mediate or representative or inferential sense perception; while
+among the supporters of moderate or critical realism some hold
+that sense perception is immediate or presentative or intuitional,
+others that it is mediate or representative or inferential.3
+1 Cf. Jeanniere, op. cit., p. 437. For different kinds of idealism, historical
+sketch of its development, and bibliography, cf. ibid., pp. 430-40.
+* Ibid., p. 425, n. 2.
+3 It may be well to note that the term " inferential " in this general context is
+ambiguous. What it can mean as descriptive of the process of sense perception
+itself we shall inquire later. Here we need only call attention to the fact that even
+if the process of sense perception itself be held to be an immediate intuition of a
+presented external sense datum, and even if the spontaneous intellectual processes
+whereby we conceive this presented datum and judge it to be really external to us
+be held to be not" inferential," but motived by immediately apprehended intellectual,
+objective grounds or evidence, we can also, by intellectual reflection on these direct
+sensuous and intellectual processes, infer from the data of sense, by means of the
+principle of causality (103), that there is a reality external to us, or that it is really
+such or such, and that our direct, spontaneous judgment teas justifiable and correct:
+44
+THEORY OF KNOWLEDGE
+109. Direct Vindication of Belief in the Real Ex-
+istence of a Mind-independent, External, Extended,
+Material Universe.—We have already shown that reflection
+on the facts of consciousness and memory (97-9) justifies our
+spontaneous conviction that the Ego is a real substance which
+persists self-identically in existence throughout its intermittent
+conscious states, and is not the mere series or stream or current
+of these states. Will rational reflection also justify our spon-
+taneous conviction that of these data the whole domain marked
+by the features of "extensity" and "externality," and therefore
+designated as "material," is likewise a domain of substantive
+realities which persist in their existence independently of their
+intermittent presence in consciousness, or of our actual inter-
+mittent perceptions of them?—that the "external" "extended,"
+or "material " data are really distinct from the percipient subject
+or Ego? and that the "extended" but "internal" material
+datum which we call "our body" and which we include in the
+total, composite reality of the self or Ego, also persists in ex-
+istence independently of our intermittent mental awareness of
+it? The answer is that rational reflection will justify these
+spontaneous convictions and transform them into reasoned or
+philosophical certitudes.
+If we can justify our conviction that an extended, external
+domain of material reality exists independently of, and really
+other than, the Ego and its perceptive processes, we shall have
+no difficulty in recognizing as also rationally justified the con-
+viction that the extended, internal material datum which we call
+"our body," and which we regard as united with the conscious,
+mental principle of our being to form the composite individual
+self, also persists in existence independently of its intermittent
+presence in consciousness (116).
+How, then, are we to vindicate a reasoned, philosophic
+certitude for the former spontaneous judgment?
+In the first place by a deliberate intellectual scrutiny of the
+character of those concrete conscious data which we have called
+"common" and "proper" sensibles. It is an absolutely un-
+deniable and universally admitted fact of introspection that some
+at least of those data appear or present themselves to conscious-
+so that even the perceptionist's fully reasoned conviction or certitude,—that the
+directly perceived external reality is indeed external to him,—can be legitimately
+described as being, unlike his sense perception, an inferential process.
+VALIDITY OF SENSE PERCEPTION
+45
+ness endowed with the concrete character of "externality" or
+"otherness," that they appear or present themselves as external
+to, and other than, the conscious, sentient self or Ego: coloured
+external surface extension, resistance or impenetrability, size or
+volume, shape, spatial continuity or unity, or discontinuity or
+multitude, spatial motion or rest,—these undoubtedly appear or
+present themselves as external to and other than the percipient
+subject. Now if they were not really external to and other than
+the Ego, we must ask not only why and how do they appear so,
+but also whence could we derive, or how could we possess, the
+abstract intellectual concept of "externality" or "otherness-from-
+the-Z^," at all (104). At some stage or other in the develop-
+ment of the individual's perception-processes certain data are
+concretely felt or apprehended as being of such a kind or so
+characterized that the individual's intellect derives this concept
+from them and interprets them to be really what this concept
+represents them to be, viz. external to and other than the self.
+But if those consciously apprehended sense data were really only
+the self appearing in various phases to the self, and if the felt
+concrete character of externality or otherness were merely the
+result of subjective processes of the self opposing and externating
+certain phases of the self to the self, then the concept of "ex-
+ternality" or "otherness" (or "real distinction" in the sense of
+"otherness-from-the-self") would be objectively and really a
+groundless and invalid concept; and, furthermore, the appear-
+ance of the concrete feature of externality in certain sense data
+would, as a fact of consciousness, be absolutely unexplained and
+unaccounted for, nay, would be inexplicable and unaccountable.
+For if the data felt to be external or other than the self were
+not really external to and other than the self, why should they
+be felt so? Or what intelligible ground is there for an assumed
+unconscious sense process whereby the self is supposed to "ex-
+ternate" certain phases of itself, and thus to mediate and lead
+to what would be the illusive and deceptive intellectual processes
+of spontaneously conceiving and judging this "externality" or
+"otherness" of such data to be real? There is no rational
+ground for the gratuitous supposition of such a process,—a pro-
+cess which, if real, would involve in our very nature as cognitive
+beings a radical and incurable self-deception.
+But if, on the contrary, such data are really external to and
+other than the self, there is every reason why they should be felt
+46
+THEORY OF KNOWLEDGE
+to be so,—and as we shall see presently, there is no reason why
+they should not. Their character of concrete, felt externality,
+then stands explained. The abstract intellectual concept of ex-
+ternality or otherness is grounded on and derived from an ob-
+jectively real datum. And the spontaneous judgment which, by
+means of this concept, pronounces such data of sense perception
+to constitute an external material universe existing independently
+of the perceiving subject, is seen to be rationally justified. More-
+over, just as conscious states, processes, activities, etc., and the
+conscious data of memory, involve the reality of the self as a per-
+manent substance, an abiding, self-identical, substantial subject
+and agent of these processes (97, 99), so the concrete sense
+apprehension of the "external," "extended" sense data in ques-
+tion involves the judgment that size, shape, three-dimensional
+spatial extension, etc., are qualities of a persisting material sub-
+stance. Thus, the "sense evidence" or "appearance-to-sense"
+of extended externality, is adequate "intellectual evidence" for
+the reasoned judgment: "There exists, distinct from and inde-
+pendently of the Ego and its conscious perceptive processes, a
+reality which has the substance-mode of being, i.e. which exists
+in itself, and which is material, i.e. endowed at least with the
+attribute or quality of spatial extension ".
+110. Solution of the General A Priori Difficulty of
+Idealism against this Belief.—Before confirming this con-
+clusion by appeal to the principle of causality (103), or attempt-
+ing other conclusions which will raise certain difficulties in detail,
+we may here examine briefly one broad difficulty against the
+argument by which we have reached the conclusion just formu-
+lated.
+How can a datum of conscious perception or awareness be
+really external to or really other than the conscious self or sub-
+ject? If there be such a reality, a reality which has an existence
+or esse beyond, outside, independent of, and apart from percep-
+tion, apart from what has presence or esse in consciousness, is it
+not clearly impossible for the conscious, sentient self to perceive,
+or become conscious or aware of, such independent esse or
+existence? All that we become aware of must be present in
+consciousness, and we can become aware of it only in so far as it
+is present in consciousness. To speak, therefore, of perceiving
+or becoming aware of any existence, or thing existing, outside
+and beyond and independently of consciousness, is a contradiction
+VALIDITY OF SENSE PERCEPTION
+47
+in terms. Whether or not the only "esse" of "things" is their
+"percipi" at all events their only perceivable or knowable "esse"
+is their perceived " esse," i.e. the "esse" which they have in and
+for the consciousness of the perceiver: and whatever this "per-
+ceived being" is, it certainly appertains to the perceiver; it is
+certainly something in and of and for the perceiver; and it cer-
+tainly is not a "being" or "esse" beyond and distinct from and
+independent of the perceiver. This latter sort of being, if there
+be such, must be by its very terms unperceivable and unknow-
+able. Therefore the concretely felt feature of "externality" or
+"otherness" in certain sense data must be itself something in
+the perceiver, and cannot prove those data to be really other
+than, and independent of, the perceiver. —
+Idealists, both "subjective " and "objective," ring the changes
+on this objection indefinitely.1 It is at the root of the idealist
+theory of the relativity of all knowledge, according to which the
+object of knowledge is necessarily immanent in the knowing sub-
+ject, and the latter cannot possibly become aware or cognizant
+of any reality transcending the conscious self or subject. We have
+met it more than once already (17, 19, 35, 75, 101). It rests
+partly on a confusion and partly on a gratuitous assumption.
+When we say that we perceive a datum which is really ex-
+ternal to and other than the self, we do not mean that this datum,
+when being perceived, stands out of all relation to the perceiver.
+To say so would indeed be a contradiction in terms.2 The
+datum must be cognitively related to, or cognitively one with,
+the perceiver (20). If there be a reality external to, and in-
+dependent of, the perceiver, then in order to be perceived it
+must become cognitively present to, or one with, the perceiver.
+It is therefore a misconception of the realist's position to re-
+present this as involving the contention that a thing can be
+perceived out of all relation to the perceiver, or known out of all
+relation to the knower, or, in other words, that we can perceive
+an unperceived thing or know an unknown thing. This would
+indeed be a contradiction; "but there is no contradiction or
+absurdity in the proposition 'A material world of three dimen-
+sions has existed for a time unperceived and unthought of by
+1C/. infra, § 123; Maher, op. cit., pp. 1ll, 157-9; Prichard, op. cit., pp.
+115-18, 125; Jeanniere, op. cit., pp. 444-6.
+* Cf. Maher, op. cit., p. 158, n. 26.
+43
+THEORY OF KNOWLEDGE
+any created being, and then revealed itself to human minds'".1
+And this is the veritable attitude of the realist.
+The condition that the external or non-self reality, in order
+to be perceived, must become cognitively present to, or one with,
+the perceiving self, obviously renders not the reality itself, but the
+perception of the reality, dependent on and relative to the per-
+ceiver. That such an external, non-self reality can reveal itself,
+or become present, to the perceiving self, has never yet been
+disproved: and we hope to indicate later how we may conceive
+this revelation to take place (cf. § 75). But we do not hope to
+show thereby how the fact of conscious cognition takes place.
+For the fact of any conscious being becoming aware of anything,
+or perceiving or knowing anything, whether this perceived or
+known thing be the reality of the perceiver or a reality other
+than the perceiver, is an absolutely ultimate and unanalysable
+fact which must be simply accepted as such and which cannot
+possibly be "explained," or resolved into any terms or stated
+in any terms which do not themselves involve and assume the
+fact which they are purporting to explain.2
+This brings us to the gratuitous assumption which, in addi-
+tion to the misconception of the realist's position, is involved in
+the objection we are considering: the assumption, namely, that
+whatever is an object of awareness or cognition3 must be im-
+manent in the conscious subject in the sense of being a determina-
+tion of the latter as conscious, in the sense that its reality must
+be mind-dependent or a manifestation of the conscious subject,
+and cannot be anything transcending, or existing beyond and
+independently of, the latter. Thus understood, the assumption
+appears to be a misconception of the true principle that whatever
+is perceived or known in any way, whatever is an object of aware-
+ness, must be in cognitive relation or union with the perceiver or
+knower,—as an apprehended object of the conscious, cognitive
+subject. This is universally true: and it is just as true of the
+reality of the knower (as object of self-cognition) as it is of reality
+1 Maher, op. cit., p. in, n. 7. Cf. Mercier, op. cit., § 148, p. 405.
+*C/. Prichard, op. cit., p. 124.
+'To hold that the direct and immediate objects or data of conscious sense aware-
+ness or cognition are entitatively immanent in the Ego as percipient subject, but that
+they represent realities other than the Ego, so that the latter can mediately or in-
+ferentially perceive the non-Ego (106, 108), and can through objectively and really
+valid concepts attain to a reasoned intellectual knowledge of a real, external universe
+(103-5),—this position is of course not idealism, but a form of critical realism.
+VALIDITY OF SENSE PERCEPTION
+4y
+other than the knower (19, 20). But to say that a reality, in
+order to be known, must be relative to, or dependent on, the know
+ing subject in this sense, is to say not that the reality itself, bu1
+its becoming known, its becoming present to the knower, its actual
+cognition by the knower, is dependent on the knower: that in
+order to be known the reality must be actually related to the
+knower by becoming cognitively present to and cognitively one
+with the latter. Now this is very different from saying that a
+reality, in order to be known, must be relative to the knower in
+the sense that the reality itself, and not merely its presence to
+the knower or its cognition by the knower, must be immanent in,
+and dependent on, and determined by,—and therefore in ultimate
+analysis be partially identical with, and be a partial phase or mani-
+festation of,—the identical reality which is the knower. This
+latter is the position of the subjective idealist. As we have
+pointed out already (101) it seems to spring from the latent
+assumption that there is some special and peculiar difficulty in
+conceiving how any being can become aware of reality other than
+itself, which is not encountered when we contemplate the possi-
+bility of a being becoming aware of the reality which is itself.
+But reflection will show this latent assumption to be groundless;
+for after all, the identity of a being with itself throws no light on
+the ultimate how and why of the fact of conscious cognition or
+awareness. The question, How can a being become aware of the
+reality which is itself, or become the known object of itself as
+conscious subject? is just as unanswerable as the question, How
+can a being become aware of reality other than itself? (19).
+For the general question, How can a being become aware of
+anything? brings us up against a fact which we must simply
+accept as ultimate and unanalysable.
+To the observation that a stick or a stone or a tree or a plant is identical
+with itself, and yet not therefore aware of itself, so that identity throws no
+light on the fact of cognition (19), the subjective idealist would probably
+reply (a) that perhaps these things are, for all we know, aware of themselves;
+and (b) that from our present (epistemological) standpoint, inquiring as we
+are into the conditions of the possibility of knowledge, we must start with
+the conscious events of the individual mind, and therefore do not yet know
+whether such things as a stick, or a stone, etc., are substantive and indepen-
+dent realities, and consequently cannot put them on the same level as the
+conscious Ego, or reason about them as we may about the latter, when
+exploring the conditions involved in awareness: wherefore it is idle to take
+such things as these, which are supposed to be exclusively objects of aware-
+VOL. II. 4
+THE OR Y OF KNO WLEDGE
+ness, as helping us in any way to determine the conditions of the possibility
+of this peculiar phenomenon or fact of awareness in a reality (such as the
+conscious Ego) which is known to be subject as well as object of aware-
+ness.
+In reply to (a), which the idealist urges merely as a defensive tactic, we
+need only observe that at least until such philosophical theories as panlog-
+ism or idealistic monism,—which maintain consciousness or cognition to be
+essential to all reality,—are proved, it is certainly the more reasonable course
+to accept as true the spontaneous conviction of mankind that such things as
+sticks and stones, trees and plants, are not endowed with consciousness or
+awareness.
+It is, however, the second line of reasoning, (b), that reveals the real
+position of the idealist, and it is interesting to see whither it leads him. For
+if the idealist really starts, as he professes to start, merely with the conscious
+current or series of objects of awareness, and with no assumption whatsoever,
+except, perhaps, that of a hypothetical subject aware of such objects, then we
+have a right to ask him with what sort of "being" or "esse" he conceives
+this hypothetical subject to be endowed. If he says that the only "being"
+or "esse" he can legitimately ascribe to anything is the "being" or "esse"
+which consists in "percipi," in "being perceived" in "being object of
+awareness," then he cannot endow his hypothetical conscious subject or Ego
+with any|being other than this, i.e. the "perceived being" of the intermittent
+current of objects of awareness; and so he has not yet gained any legitimate
+knowledge of the conscious subject or Ego as a real, substantial, permanent,
+abiding being, with an " esse" or existence that is real in the sense of being
+other than and independent of the "perceived being" or "percipi" of
+objects of awareness: the only "conscious subject " or Ego to which he has
+attained is the ever-changing, intermittent flow of " perceived" or "percept "-
+entities; and this does not help him. Such is the nihilistic impasse of the
+"logical idealism " of Remacle and Weber, to which Kant's subjectivism, and
+indeed all subjectivisms, ultimately lead.1
+If, on the other hand, our idealist ascribes to his hypothetical "conscious
+subject " or Ego a being which as to its,own reality is beyond and indepen-
+dent of the intermittent modes of "perceived being " which he supposes it to
+assume as object of its own awareness, then after all he is recognizing the
+possibility of a being having real existence independent of the "presence " or
+"perceived being" which it may also acquire by becoming an object of
+awareness. And if he accords such an absolute or mind-independent mode
+of existence to the reality which he thinks of as the conscious subject or Ego,
+is he not eo ipso claiming for himself the power of "transcending" the
+"conscious presence " or "perceived being," and attaining to the "absolute"
+or "mind-independent " being, of a reality, viz. the reality which is the Ego,
+no less than the realist does when he claims for the mind the power of
+"transcending" the "conscious presence " and attaining to the "absolute"
+or "mind-independent" being of a reality, viz. the reality which is the non-
+Ego f
+iCf. Jeannibrb, op. cit., p. 447; Mbrcihr, op. cit., §§ 147-8; Origines de
+la Psychologic contemporaine, chap. v.
+VALIDITY OF SENSE PERCEPTION
+5'
+Nevertheless idealists cling to their postulate that the mind
+can know only what is "relative" to it in the sense of being
+mind-dependent, as if this were a self-evident axiom; and they
+try to make it plausible by confounding it with the really self-
+evident truth that whatever is known by the mind must be "in"
+the mind or "relative" to the mind in the sense of being cog-
+nitively related or present to the mind. It is only in virtue of
+such a confusion that they can confront realism with the specious
+difficulty we have been examining. The worthlessness of such
+a line of argument is clearly exposed by Prichard in the following
+passage:—1
+"At first sight it seems a refutation of the plain man's view to argue thus:
+•The plain man believes the spatial world to exist whether any one knows it
+or not. Consequently, he allows the world is outside the mind. But to be
+known a reality must be inside the mind. Therefore the plain man's view
+renders knowledge impossible.' But as soon as it is realized that 'inside the
+mind' and 'outside the mind' are metaphors, and, therefore, must take their
+meaning from the context, it is easy to see that the argument either rests on
+an equivocation or assumes the point at issue. The assertion that the world
+is outside the mind, being only a metaphorical expression of the plain man's
+view, should only mean that the world is something independent of the mind,
+as opposed to something inside the mind, in the sense of dependent upon it,
+or mental. But the assertion that to be known, a reality must be inside the
+mind, if it is to be incontestably true, should only mean that a reality, to
+be apprehended, must really be object of apprehension. And in this case
+'being inside the mind,' since it only means 'being object of apprehension,'
+is not the opposite of 'being outside the mind' in the previous assertion.
+Hence, on this interpretation the second assertion is connected with the first
+only apparently and by an equivocation; there is really no argument at all.
+If, however, the equivocation is to be avoided, 'inside the mind' in the
+second assertion must be the opposite of 'outside the mind' in the first, and
+consequently the second must mean that a reality, to be known, must be de-
+pendent on the mind, or mental. But in this case the objection to the plain
+man's view is a petitioprincipti, and not an argument."
+in. Indirect Confirmation of this Belief by Appeal
+to the Principle of Causality.—In the second last section
+(109) we vindicated a reasoned or philosophic certitude for the
+belief that "there exists, distinct from the Ego, an external
+domain of reality which appears as extended or material ". The
+argument was based on the evidence furnished by direct intel-
+lectual scrutiny of the data of conscious external sense perception.
+We have likewise shown that our intellectual concept of "other-
+1 Op. cit., pp. 124-5.
+4*
+5^
+THEORY OF KNOWLEDGE
+ness-from-the Ego" or "externality," derived from those data, is
+objectively and really valid (105). We are therefore now in a
+position to corroborate the conclusion of our argument by con-
+sidering our spontaneous interpretation of sense perception in the
+light of a principle, the universal validity of which has likewise
+been already established (65, 66, 93)—the principle of causality.
+Those supporters of realism 1 who in the present general context rely
+mainly or exclusively on the argument from causality to establish the phil-
+osophical certitude of our knowledge of an external world, emphasize the
+universal real validity of the concept of cause; and consider the argument
+peculiarly efficacious as against idealists.- But even though the concept is uni-
+versally applicable to contingent reality, and even if the idealist admits this,
+the latter has still to be convinced that there is contingent reality beyond the
+domain of the subject's consciousness,3—or beyond the reality of the Ego if
+he recognizes a real Ego as subject and cause of conscious states. And of
+this we can hope to convince him, if at all, only by proving to him that the
+concept of " reality-other-than-the Ego," which he possesses in common with
+us, is an objectively and really valid concept. But how can we prove that
+it is? Only by pointing out that the sensuously felt character of "extended
+externality" in certain of our sense data can be seen by intellect to be the
+source from which the concept is derived, and to be therefore for intellect
+adequate objective evidence of the real validity of the concept (104, 105).
+In other words, by the same line of reasoning, by the same sort of direct in-
+tellectual appeal to the characteristics of conscious sense data, as we have
+employed in our main argument for the mind-independent existence of a
+real non-self universe (109). It is because we believe that if realism cannot
+be effectively vindicated, as against idealism, by that class of consideration,
+neither can it be effectively vindicated, apart from such consideration, by the
+principle of causality alone (cf. 105-6),—it is for that reason we now bring for-
+ward the argument from causality merely as corroborative, and not in the first
+place.
+1 Cf. Jeanmere, op. cit., pp. 224-7, 382-92; Mercier, op. cit., % 140, pp. 384-9.
+»C/. vol. i., §35, p. 134.
+5 Kant, for instance, and English phenomenists, admit the validity of causality
+(as understood by them in the sense of a provisionally, or an absolutely, necessary
+sequence, respectively) as applied within the whole domain of empirical conscious-
+ness. And even when we have proved against Kant that it is validly applied in in-
+ferring an ultra-conscious cause of this whole domain, the principle itself will not
+enable us to determine whether this latter cause is one or manifold. We prove it
+to be manifold,—to be in part the real Ego, and in part a whole pluralistic system
+of realities external to and other than the real Ego (all alike themselves contingent,
+and therefore implying a Supreme Uncaused First Cause),—not by the principle of
+causality alone, but only by the collateral use of another and distinct intellectual
+concept, namely, that of real distinction or real otherness, a concept whose real
+validity, as marking off the "Ego- or self-xeaWty" from "»o»-se//'-realitie8" (and
+these latter from one another), must be independently established. We have shown
+this concept, as applied to the distinction between the Ego and the non-Ego, to
+be really valid because grounded in characteristics of the conscious sense data from
+which it is derived (104-105).
+VALIDITY OF SENSE PERCEPTION
+53
+We have already proved, as against Kant,1 that the Ego,
+through its conscious activities, apprehends itself as a reality;
+that Descartes, in emphasizing the absolutely indisputable char-
+acter of our knowledge of the real self in his principle, Cogito,
+ergo sum, was only re-echoing the traditional teaching of scholas-
+ticism from the days of St Augustine (29, 34). Now this self
+reveals itself as consciously affected by what we may call an ever-
+changing panorama of apprehended data or objects, namely, the
+proper and common sensibles. Our conscious perceptions of
+these data are contingent events. Therefore, by virtue of the
+principles of sufficient reason and causality (64, 65,) these con-
+scious perceptions of data or objects have an adequate cause.
+But such adequate cause cannot be the self, or anything in the
+self or really constituting or appertaining to the self. Therefore
+there must be, beyond and really distinct from the self, a mind-
+independent reality which, co-operating with the consciously per-
+cipient self, will adequately account for the perceptions de facto
+experienced by the latter. Hence there exists, distinct from the
+self, and independent of perception, a reality—which we call the
+external, material universe.2
+Let us consider the steps in this argument . That the Ego
+has conscious perceptions whereby data or objects "externally-
+appearing," "extended," "coloured," "moving," "resisting,"
+"sounding," etc., are presented in consciousness, is a fact ad-
+mitted by even the most extreme sceptics and subjectivists: as
+also is the fact that these perceptions are contingent events, in the
+sense that they are not self-explaining, that they come and go,
+appear and disappear, begin to be and cease to be, and so call for
+explanation or demand a cause. And the objective, real validity
+of the principle of causality has been already established. Next,
+the adequate cause of them cannot be the self. Why? This
+needs a little reflection.
+The main reason is that we feel ourselves passive in experienc-
+ing such perceptions. Hence Kant recognizes that the empirical
+content of perception is given to us from without, that to account
+for our perceptions there is and must be a reality beyond and
+independent of them, and of the self as empirically revealed
+1 Cf. vol. i., §§ 97. 99.100. Cf. infra, § 134.
+* Berkeley's alternative inference—" Therefore there exists, distinct from and
+independent of our minds, a cause of these conscious states, which cause is the
+Divine Spirit"—will be examined later, § 123. Cf. Jeannierh, op. tit., pp. 40^4.
+54
+THEORY OF KNOWLEDGE
+in consciousness (50, 51,74). Hence, too, Fichte claims that
+epistemology must take as starting-point the fact that in the
+content of consciousness there is, besides the mobile, subjectively
+determined portion, another portion independent of subjective
+contingencies and inseparable from what he describes as the
+feeling of necessity} We feel ourselves passive, impressed, under-
+going impressions, in sense perception. That is, though the per-
+ceptions are ours, though it is we that elicit or exercise the
+conscious, perceptive acts, still we feel them as not being wholly
+determined by ourselves in regard to what they reveal to us. As
+to the specific character of the various data or objects revealed
+to us in perception (i.e. "quoad specificationem"), they appear to
+arise or take place in us or to present this specific character to
+us, independently of ourselves; and therefore to have, as partial
+cause of their concrete happening, some reality other than the
+self. Reflection will confirm this spontaneous belief.
+(1) It is not merely my will that determines these percep-
+tions. I cannot have them by merely willing to have them.
+And as to what they are, when they happen, they are inde-
+pendent of my will. I cannot have the perceptions which
+consist in "seeing Rome," or "hearing music," or "carrying a
+weight," or "tasting sugar," or "inhaling the perfume of violets"
+by merely wishing to have such perceptions. And on the other
+hand, when I am in the condition in which I do actually ex-
+perience any such perception I cannot cease to experience it
+merely by wishing it to cease.
+(2) Nor is it my imagination that determines such percep-
+tions. There is the most marked and indisputable conscious
+difference between the panorama of data or objects brought into
+consciousness by the play of the imagination in fancies, day-
+dreams, reveries, etc.,—between what are called " mental images"
+or "phantasmata,"—on the one hand, and the data or objects of
+sense perception,2 or what are rightly called percepts, on the other.
+Psychologists and philosophers have minutely analysed and
+abundantly illustrated these differences.3 The former class of
+data are largely under the control of the will: we can direct, con-
+1 Fichtc's Werke, i., 41a,—apud Mbrcier, op. cit., p. 385. To this " feeling of
+necessity " belong the feelings of " extensity" and " externality ".
+* Including the perception of organic states, organic pleasure or pain, etc., in the
+perceiver's own body.
+'Cf. Balhes, Fundamintal Philosophy, Book II., chap. iv.
+VALIDITY OF SENSE PERCEPTION
+55
+trol, modify the order in which such images present themselves;
+we can separate, combine, rearrange the images as we please; we
+can thus "produce" or "construct" new data or objects from
+the remembered materials of perception; and the power of the
+"productive imagination" is only limited by the range of those
+materials and its own finiteness. The latter class,—the percepts,
+—are, as we saw, beyond the control of the will: the order in
+which they succeed each other is not consciously determined by
+us, but is felt to be determined by something other than the
+self. Moreover, the two classes of data have been distinguished
+as "faint" or "weak," and "strong" or "vivid" states, or (as
+Hume named them) "ideas" and "impressions," on account of
+the superior definiteness, clarity and solidity of the percepts as
+compared with the images. Finally, in experiencing the latter
+we are conscious that we ourselves, by our own active exercise of
+imagination, are producing (not ex inhilo, but from the remembered
+data of perception) the flow or current of mental objects; while
+in experiencing the former we are rather conscious of passively
+undergoing impressions made on us by something independent of
+the conscious Ego.
+(3) Nor is it my thought that determines such perceptions
+or originates such data or objects. By thought the individual
+self or Ego elaborates logical relations, judgments, systems of
+knowledge, sciences, concerning the domain of perceived data;
+but it certainly does not produce or construct this domain.
+(4) But perhaps the same Ego, which consciously perceives
+these data, itself constructs or produces them by an internal, in-
+stinctive, unconsciously operating influence of its own nature?
+Well, if it did, such influence would have no other claim than its
+blind, unconscious character, to be described as an "instinct".
+For the forms of energy we describe as " instincts" in sentient
+beings follow fixed laws and are uniform and circumscribed in
+their results. But there is nothing of this in the ever-changing
+panorama of percepts which constitute the world of any indivi-
+dual perceiver's sense experience. Psychologists can with some
+success explore and formulate the laws according to which "in-
+stincts " operate; but who has ever dreamt of seeking or formu-
+lating laws according to which the world of each individual's
+sense experience unfolds itself in the order, and with the qualities,
+which actually characterize it?
+(5) But, dismissing the term "instinctive," may it not finally
+56
+THEORY OF KNOWLEDGE
+be urged that, for all we know, it may be the real Ego itself that
+in some unconscious way, and by some unknown and unknowable
+laws, produces this whole panorama of sense percepts which we
+—spontaneously and inevitably, but so far as reflecting reason
+goes, unwarrantably—believe to be a domain of reality other
+than, and external to, the self,—unwarrantably, since on this
+possible hypothesis it would be but a phase or manifestation of
+the real self? Perhaps,—to use the picturesque words of H uxley,1
+—"For any demonstration that can be given to the contrary
+effect, the collection of perceptions which makes up our con-
+sciousness may be an orderly phantasmagoria, generated by the
+Ego unfolding its successive scenes on the background of the
+abyss of nothingness; as a firework, which is but cunningly
+arranged combustibles, grows from a spark into a corruscation,
+and from a corruscation into figures and words and cascades of
+devouring flames, and then vanishes into the darkness of night".
+The concession Huxley had just made to realism was that
+"there may be a real something which is the cause of our experi-
+ence".2 And this something he now declares to be a hypo-
+thetical and unknowable real Ego,—in the sceptical spirit of
+Hume. Kant, as we have seen, so far from refuting this scepticism
+—which was the avowed object of his Critique (46, 48)—once
+more declared the real Ego to be unknowable; and straightway
+illogically asserted a real distinction between the unknowable
+real Ego and the equally unknowable real non-Ego.
+But, assuming that the idealist admits at least a real Ego,
+how are we to meet his assertion that perhaps the whole domain
+of data or objects of sense perception, i.e. the seemingly external
+material universe, is after all a creation of this real Ego, and
+therefore not really distinct from, and external to, the latter?
+Let us see what the supposition entails as a possible interpreta-
+tion of experience. A simple example will help us.3 Standing
+at the door and looking into the street, I consciously perceive a
+succession of data or objects: men, horses, trams, cyclists, etc.,
+passing. Closing and opening my eyes alternately I apprehend
+different objects after each interval. My action is certainly the
+cause of my seeing or not seeing (i.e. the cause quoad exercitium
+actus). But my action of opening my eyes and seeing is not the
+cause of the order and diversity and variety of the perceived data
+1 Huxley's Hume, chap. Hi., p. 81,—apud Ricbaby, First Principles, p. 273.
+* Ibid. * Cf. jbannlirE, op. cit., p. 3gi.
